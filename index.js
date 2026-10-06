@@ -43,10 +43,13 @@ function render() {
   if (activeCat !== 'All') list = list.filter((t) => t.category === activeCat);
   if (q) list = list.filter((t) => (t.title + ' ' + t.tagline + ' ' + t.category).toLowerCase().includes(q));
 
-  if (view === 'popular') {
-    list = list.slice().sort((a, b) => (b.popularity ?? 0) - (a.popularity ?? 0)).slice(0, SHOW);
-  } else if (view === 'random') {
-    list = shuffle(list).slice(0, SHOW);
+  const browsing = !q && activeCat === 'All';
+  if (browsing) {
+    if (view === 'popular') {
+      list = list.slice().sort((a, b) => (b.popularity ?? 0) - (a.popularity ?? 0)).slice(0, SHOW);
+    } else if (view === 'random') {
+      list = shuffle(list).slice(0, SHOW);
+    }
   }
 
   grid.innerHTML = list.length ? list.map(tileHtml).join('') : '<div class="empty">No timelines match your search.</div>';
