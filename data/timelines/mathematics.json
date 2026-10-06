@@ -1,0 +1,428 @@
+{
+  "slug": "mathematics",
+  "title": "Mathematics",
+  "tagline": "Humanity’s language of patterns.",
+  "category": "Mathematics",
+  "icon": "📐",
+  "color": "#6366f1",
+  "source": "Generated from “Timeline of mathematics” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of mathematics",
+  "via": "wiki",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "year": 1983,
+      "title": "Gerd Faltings",
+      "text": "Gerd Faltings proves the Mordell conjecture and thereby shows that there are only finitely many whole number solutions for each exponent of Fermat's Last Theorem.",
+      "references": [
+        {
+          "label": "Gerd Faltings",
+          "url": "https://en.wikipedia.org/wiki/Gerd_Faltings"
+        },
+        {
+          "label": "Mordell conjecture",
+          "url": "https://en.wikipedia.org/wiki/Mordell_conjecture"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "title": "Vaughan Jones",
+      "text": "Vaughan Jones discovers the Jones polynomial in knot theory, which leads to other new knot polynomials as well as connections between knot theory and other fields.",
+      "references": [
+        {
+          "label": "Vaughan Jones",
+          "url": "https://en.wikipedia.org/wiki/Vaughan_Jones"
+        },
+        {
+          "label": "Jones polynomial",
+          "url": "https://en.wikipedia.org/wiki/Jones_polynomial"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "title": "Louis de Branges de Bourcia",
+      "text": "Louis de Branges de Bourcia proves the Bieberbach conjecture.",
+      "references": [
+        {
+          "label": "Louis de Branges de Bourcia",
+          "url": "https://en.wikipedia.org/wiki/Louis_de_Branges_de_Bourcia"
+        },
+        {
+          "label": "Bieberbach conjecture",
+          "url": "https://en.wikipedia.org/wiki/Bieberbach_conjecture"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "title": "Ken Ribet",
+      "text": "Ken Ribet proves Ribet's theorem.",
+      "references": [
+        {
+          "label": "Ken Ribet",
+          "url": "https://en.wikipedia.org/wiki/Ken_Ribet"
+        },
+        {
+          "label": "Ribet's theorem",
+          "url": "https://en.wikipedia.org/wiki/Ribet's_theorem"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "title": "Yasumasa Kanada",
+      "text": "Yasumasa Kanada, David Bailey, Jonathan Borwein, and Peter Borwein use iterative modular equation approximations to elliptic integrals and a NEC SX-2 supercomputer to compute π to 134 million decimal places.",
+      "references": [
+        {
+          "label": "Yasumasa Kanada",
+          "url": "https://en.wikipedia.org/wiki/Yasumasa_Kanada"
+        },
+        {
+          "label": "David Bailey",
+          "url": "https://en.wikipedia.org/wiki/David_H._Bailey_(mathematician)"
+        },
+        {
+          "label": "Jonathan Borwein",
+          "url": "https://en.wikipedia.org/wiki/Jonathan_Borwein"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "title": "Alain Connes",
+      "text": "Alain Connes and John W. Lott develop non-commutative geometry.",
+      "references": [
+        {
+          "label": "Alain Connes",
+          "url": "https://en.wikipedia.org/wiki/Alain_Connes"
+        },
+        {
+          "label": "John W. Lott",
+          "url": "https://en.wikipedia.org/wiki/John_Lott_(mathematician)"
+        },
+        {
+          "label": "non-commutative geometry",
+          "url": "https://en.wikipedia.org/wiki/non-commutative_geometry"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "title": "David Deutsch",
+      "text": "David Deutsch and Richard Jozsa develop the Deutsch–Jozsa algorithm, one of the first examples of a quantum algorithm that is exponentially faster than any possible deterministic classical algorithm.",
+      "references": [
+        {
+          "label": "David Deutsch",
+          "url": "https://en.wikipedia.org/wiki/David_Deutsch"
+        },
+        {
+          "label": "Richard Jozsa",
+          "url": "https://en.wikipedia.org/wiki/Richard_Jozsa"
+        },
+        {
+          "label": "Deutsch–Jozsa algorithm",
+          "url": "https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "title": "Andrew Wiles",
+      "text": "Andrew Wiles proves part of the Taniyama–Shimura conjecture and thereby proves Fermat's Last Theorem.",
+      "references": [
+        {
+          "label": "Andrew Wiles",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Wiles"
+        },
+        {
+          "label": "Taniyama–Shimura conjecture",
+          "url": "https://en.wikipedia.org/wiki/Taniyama%E2%80%93Shimura_conjecture"
+        },
+        {
+          "label": "Fermat's Last Theorem",
+          "url": "https://en.wikipedia.org/wiki/Fermat's_Last_Theorem"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "title": "Peter Shor",
+      "text": "Peter Shor formulates Shor's algorithm, a quantum algorithm for integer factorization.",
+      "references": [
+        {
+          "label": "Peter Shor",
+          "url": "https://en.wikipedia.org/wiki/Peter_Shor"
+        },
+        {
+          "label": "Shor's algorithm",
+          "url": "https://en.wikipedia.org/wiki/Shor's_algorithm"
+        },
+        {
+          "label": "quantum algorithm",
+          "url": "https://en.wikipedia.org/wiki/quantum_algorithm"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "title": "Simon Plouffe",
+      "text": "Simon Plouffe discovers Bailey–Borwein–Plouffe formula capable of finding the nth binary digit of π.",
+      "references": [
+        {
+          "label": "Simon Plouffe",
+          "url": "https://en.wikipedia.org/wiki/Simon_Plouffe"
+        },
+        {
+          "label": "Bailey–Borwein–Plouffe formula",
+          "url": "https://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "title": "Thomas Callister Hales",
+      "text": "Thomas Callister Hales (almost certainly) proves the Kepler conjecture.",
+      "references": [
+        {
+          "label": "Thomas Callister Hales",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Callister_Hales"
+        },
+        {
+          "label": "Kepler conjecture",
+          "url": "https://en.wikipedia.org/wiki/Kepler_conjecture"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "title": "Taniyama–Shimura conjecture",
+      "text": "the full Taniyama–Shimura conjecture is proven.",
+      "references": [
+        {
+          "label": "Taniyama–Shimura conjecture",
+          "url": "https://en.wikipedia.org/wiki/Taniyama%E2%80%93Shimura_conjecture"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Clay Mathematics Institute",
+      "text": "the Clay Mathematics Institute proposes the seven Millennium Prize Problems of unsolved important classic mathematical questions.",
+      "references": [
+        {
+          "label": "Clay Mathematics Institute",
+          "url": "https://en.wikipedia.org/wiki/Clay_Mathematics_Institute"
+        },
+        {
+          "label": "Millennium Prize Problems",
+          "url": "https://en.wikipedia.org/wiki/Millennium_Prize_Problems"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "Manindra Agrawal",
+      "text": "Manindra Agrawal, Nitin Saxena, and Neeraj Kayal of IIT Kanpur present an unconditional deterministic polynomial time algorithm to determine whether a given number is prime (the AKS primality test).",
+      "references": [
+        {
+          "label": "Manindra Agrawal",
+          "url": "https://en.wikipedia.org/wiki/Manindra_Agrawal"
+        },
+        {
+          "label": "Nitin Saxena",
+          "url": "https://en.wikipedia.org/wiki/Nitin_Saxena"
+        },
+        {
+          "label": "Neeraj Kayal",
+          "url": "https://en.wikipedia.org/wiki/Neeraj_Kayal"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "Preda Mihăilescu",
+      "text": "Preda Mihăilescu proves Catalan's conjecture.",
+      "references": [
+        {
+          "label": "Preda Mihăilescu",
+          "url": "https://en.wikipedia.org/wiki/Preda_Mih%C4%83ilescu"
+        },
+        {
+          "label": "Catalan's conjecture",
+          "url": "https://en.wikipedia.org/wiki/Catalan's_conjecture"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "title": "Grigori Perelman",
+      "text": "Grigori Perelman proves the Poincaré conjecture.",
+      "references": [
+        {
+          "label": "Grigori Perelman",
+          "url": "https://en.wikipedia.org/wiki/Grigori_Perelman"
+        },
+        {
+          "label": "Poincaré conjecture",
+          "url": "https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "Ben Green",
+      "text": "Ben Green and Terence Tao prove the Green–Tao theorem.",
+      "references": [
+        {
+          "label": "Ben Green",
+          "url": "https://en.wikipedia.org/wiki/Ben_Green_(mathematician)"
+        },
+        {
+          "label": "Terence Tao",
+          "url": "https://en.wikipedia.org/wiki/Terence_Tao"
+        },
+        {
+          "label": "Green–Tao theorem",
+          "url": "https://en.wikipedia.org/wiki/Green%E2%80%93Tao_theorem"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "classification of finite simple groups",
+      "text": "the classification of finite simple groups, a collaborative work involving some hundred mathematicians and spanning fifty years, is completed.",
+      "references": [
+        {
+          "label": "classification of finite simple groups",
+          "url": "https://en.wikipedia.org/wiki/classification_of_finite_simple_groups"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "title": "Fundamental lemma (Langlands program)",
+      "text": "Fundamental lemma (Langlands program) is proved by Ngô Bảo Châu.",
+      "references": [
+        {
+          "label": "Fundamental lemma (Langlands program)",
+          "url": "https://en.wikipedia.org/wiki/Fundamental_lemma_(Langlands_program)"
+        },
+        {
+          "label": "proved",
+          "url": "https://en.wikipedia.org/wiki/Mathematical_proof"
+        },
+        {
+          "label": "Ngô Bảo Châu",
+          "url": "https://en.wikipedia.org/wiki/Ng%C3%B4_B%E1%BA%A3o_Ch%C3%A2u"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "Larry Guth",
+      "text": "Larry Guth and Nets Hawk Katz solve the Erdős distinct distances problem.",
+      "references": [
+        {
+          "label": "Larry Guth",
+          "url": "https://en.wikipedia.org/wiki/Larry_Guth"
+        },
+        {
+          "label": "Nets Hawk Katz",
+          "url": "https://en.wikipedia.org/wiki/Nets_Hawk_Katz"
+        },
+        {
+          "label": "Erdős distinct distances problem",
+          "url": "https://en.wikipedia.org/wiki/Erd%C5%91s_distinct_distances_problem"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "title": "Yitang Zhang",
+      "text": "Yitang Zhang proves the first finite bound on gaps between prime numbers.",
+      "references": [
+        {
+          "label": "Yitang Zhang",
+          "url": "https://en.wikipedia.org/wiki/Yitang_Zhang"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "title": "Kepler's conjecture",
+      "text": "Project Flyspeck announces that it completed a proof of Kepler's conjecture.",
+      "references": [
+        {
+          "label": "Kepler's conjecture",
+          "url": "https://en.wikipedia.org/wiki/Kepler_conjecture"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "title": "László Babai",
+      "text": "László Babai finds that a quasipolynomial complexity algorithm would solve the Graph isomorphism problem.",
+      "references": [
+        {
+          "label": "László Babai",
+          "url": "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Babai"
+        },
+        {
+          "label": "Graph isomorphism problem",
+          "url": "https://en.wikipedia.org/wiki/Graph_isomorphism_problem"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "title": "Terence Tao",
+      "text": "Terence Tao solves the Erdős discrepancy problem.",
+      "references": [
+        {
+          "label": "Terence Tao",
+          "url": "https://en.wikipedia.org/wiki/Terence_Tao"
+        },
+        {
+          "label": "Erdős",
+          "url": "https://en.wikipedia.org/wiki/Paul_Erd%C5%91s"
+        },
+        {
+          "label": "discrepancy problem",
+          "url": "https://en.wikipedia.org/wiki/Sign_sequence%23Erd%C5%91s_discrepancy_problem"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Maryna Viazovska",
+      "text": "Maryna Viazovska solves the sphere packing problem in dimension 8. Subsequent work building on this leads to a solution for dimension 24.",
+      "references": [
+        {
+          "label": "Maryna Viazovska",
+          "url": "https://en.wikipedia.org/wiki/Maryna_Viazovska"
+        },
+        {
+          "label": "sphere packing",
+          "url": "https://en.wikipedia.org/wiki/sphere_packing"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Aaron Naber",
+      "text": "Elia Bruè, Aaron Naber, and Daniele Semola disprove the Milnor conjecture for six or more dimensions.",
+      "references": [
+        {
+          "label": "Aaron Naber",
+          "url": "https://en.wikipedia.org/wiki/Aaron_Naber"
+        },
+        {
+          "label": "Milnor conjecture",
+          "url": "https://en.wikipedia.org/wiki/Milnor_conjecture_(Ricci_curvature)"
+        }
+      ]
+    }
+  ]
+}

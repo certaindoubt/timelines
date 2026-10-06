@@ -1,0 +1,364 @@
+{
+  "slug": "the-telephone",
+  "title": "The Telephone",
+  "tagline": "From Bell’s first call to the smartphone.",
+  "category": "Technology",
+  "icon": "📞",
+  "color": "#06b6d4",
+  "source": "Generated from “Timeline of the telephone” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of the telephone",
+  "via": "wiki",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "year": 1970,
+      "title": "Asterisk",
+      "text": "creation of the Asterisk Private branch exchange",
+      "references": [
+        {
+          "label": "Asterisk",
+          "url": "https://en.wikipedia.org/wiki/Asterisk_(PBX)"
+        },
+        {
+          "label": "Private branch exchange",
+          "url": "https://en.wikipedia.org/wiki/Private_branch_exchange"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "David A. Hodges",
+      "text": "David A. Hodges, Paul R. Gray and R.E. Suarez at UC Berkeley develop MOS mixed-signal integrated circuit technology, in the form of the MOS switched capacitor (SC) circuit, which they use to develop the digital-to-analog converter (DAC) chip used in ",
+      "references": [
+        {
+          "label": "David A. Hodges",
+          "url": "https://en.wikipedia.org/wiki/David_A._Hodges"
+        },
+        {
+          "label": "UC Berkeley",
+          "url": "https://en.wikipedia.org/wiki/UC_Berkeley"
+        },
+        {
+          "label": "mixed-signal integrated circuit",
+          "url": "https://en.wikipedia.org/wiki/mixed-signal_integrated_circuit"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "ESS-2",
+      "text": "ESS-2 electronic switch.",
+      "references": [
+        {
+          "label": "ESS-2",
+          "url": "https://en.wikipedia.org/wiki/ESS-2"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "FCC approved AT&T proposal for AMPS and allocated frequencies in the 8",
+      "text": "FCC approved AT&T proposal for AMPS and allocated frequencies in the 824–894 MHz band.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of the telephone",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_the_telephone"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "TAT-8",
+      "text": "First transatlantic fiber optic cable TAT-8, carrying 40,000 circuits",
+      "references": [
+        {
+          "label": "TAT-8",
+          "url": "https://en.wikipedia.org/wiki/TAT-8"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "Kazuo Hashimoto",
+      "text": "Kazuo Hashimoto invented Caller ID",
+      "references": [
+        {
+          "label": "Kazuo Hashimoto",
+          "url": "https://en.wikipedia.org/wiki/Kazuo_Hashimoto"
+        },
+        {
+          "label": "Caller ID",
+          "url": "https://en.wikipedia.org/wiki/Caller_ID"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "Maine",
+      "text": "last manual telephone switchboard in Maine is retired",
+      "references": [
+        {
+          "label": "Maine",
+          "url": "https://en.wikipedia.org/wiki/Maine"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "modular telephone cords and jacks introduced",
+      "text": "modular telephone cords and jacks introduced.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of the telephone",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_the_telephone"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "ARPANET",
+      "text": "packet switched voice connections over ARPANET with Network Voice Protocol (NVP).",
+      "references": [
+        {
+          "label": "ARPANET",
+          "url": "https://en.wikipedia.org/wiki/ARPANET"
+        },
+        {
+          "label": "Network Voice Protocol",
+          "url": "https://en.wikipedia.org/wiki/Network_Voice_Protocol"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "analog-to-digital converter",
+      "text": "Paul R. Gray and J. McCreary develop the analog-to-digital converter (ADC) MOS chip, used in digital telephony.",
+      "references": [
+        {
+          "label": "analog-to-digital converter",
+          "url": "https://en.wikipedia.org/wiki/analog-to-digital_converter"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "Motorola",
+      "text": "pril 1973: Motorola employee Martin Cooper placed the first hand-held cell phone call to Joel Engel, head of research at AT&T's Bell Labs, while talking on the first Motorola DynaTAC prototype.",
+      "references": [
+        {
+          "label": "Motorola",
+          "url": "https://en.wikipedia.org/wiki/Motorola"
+        },
+        {
+          "label": "Martin Cooper",
+          "url": "https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)"
+        },
+        {
+          "label": "cell phone",
+          "url": "https://en.wikipedia.org/wiki/cell_phone"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "Telecom Relay Service",
+      "text": "Telecom Relay Service available for the disabled",
+      "references": [
+        {
+          "label": "Telecom Relay Service",
+          "url": "https://en.wikipedia.org/wiki/Telecom_Relay_Service"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "GSM",
+      "text": "the GSM mobile phone network is started in Finland, with the first phone call in Tampere.",
+      "references": [
+        {
+          "label": "GSM",
+          "url": "https://en.wikipedia.org/wiki/GSM"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "IBM Simon",
+      "text": "The IBM Simon becomes the first smartphone on the market.",
+      "references": [
+        {
+          "label": "IBM Simon",
+          "url": "https://en.wikipedia.org/wiki/IBM_Simon"
+        },
+        {
+          "label": "smartphone",
+          "url": "https://en.wikipedia.org/wiki/smartphone"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "NMT",
+      "text": "The world's first fully automatic mobile phone system NMT is started in Sweden and Norway.",
+      "references": [
+        {
+          "label": "NMT",
+          "url": "https://en.wikipedia.org/wiki/Nordic_Mobile_Telephone"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "VoIP",
+      "text": "VoIP – NVP running on top of early versions of IP",
+      "references": [
+        {
+          "label": "VoIP",
+          "url": "https://en.wikipedia.org/wiki/VoIP"
+        },
+        {
+          "label": "IP",
+          "url": "https://en.wikipedia.org/wiki/Internet_Protocol"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "silicon-gate",
+      "text": "W.C. Black and David A. Hodges develop the silicon-gate CMOS (complementary MOS) pulse-code modulation (PCM) codec-filter chip, which has since been the industry standard for digital telephony, widely used in the public switched telephone network (PS",
+      "references": [
+        {
+          "label": "silicon-gate",
+          "url": "https://en.wikipedia.org/wiki/silicon-gate"
+        },
+        {
+          "label": "CMOS",
+          "url": "https://en.wikipedia.org/wiki/CMOS"
+        },
+        {
+          "label": "pulse-code modulation",
+          "url": "https://en.wikipedia.org/wiki/pulse-code_modulation"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "NMT",
+      "text": "World's first NMT phone call in Tampere, Finland.",
+      "references": [
+        {
+          "label": "NMT",
+          "url": "https://en.wikipedia.org/wiki/Nordic_Mobile_Telephone"
+        },
+        {
+          "label": "Tampere",
+          "url": "https://en.wikipedia.org/wiki/Tampere"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "Bruce, Robert V",
+      "text": "Bruce, Robert V. (1990), Bell: Alexander Bell and the Conquest of Solitude, Cornell University Press, 1990.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of the telephone",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_the_telephone"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "title": "Josephson, Matthew (1992), Edison: A Biography, Wiley,",
+      "text": "Josephson, Matthew (1992), Edison: A Biography, Wiley,",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of the telephone",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_the_telephone"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "title": "Coe, Lewis (1995), The Telephone and Its Several Inventors: A History,",
+      "text": "Coe, Lewis (1995), The Telephone and Its Several Inventors: A History, North Carolina: McFarland, 1995.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of the telephone",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_the_telephone"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Baker, Burton H",
+      "text": "Baker, Burton H. (2000), The Gray Matter: The Forgotten Story of the Telephone, Telepress, St. Joseph, Michigan, 2000.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of the telephone",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_the_telephone"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Mink, Louisiana",
+      "text": "Mink, Louisiana, finally receives traditional landline telephone service (one of the last in the United States).",
+      "references": [
+        {
+          "label": "Mink, Louisiana",
+          "url": "https://en.wikipedia.org/wiki/Mink%2C_Louisiana"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Antonio Meucci",
+      "text": "une 2002: Antonio Meucci is recognized for \"...his work in the invention of the telephone\" (but not \"...for inventing the telephone\") by the United States House of Representatives, in United States HRes. 269.",
+      "references": [
+        {
+          "label": "Antonio Meucci",
+          "url": "https://en.wikipedia.org/wiki/Antonio_Meucci"
+        },
+        {
+          "label": "United States House of Representatives",
+          "url": "https://en.wikipedia.org/wiki/United_States_House_of_Representatives"
+        },
+        {
+          "label": "United States HRes. 269",
+          "url": "https://en.wikipedia.org/wiki/United_States_HRes._269_on_Antonio_Meucci"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Parliament of Canada",
+      "text": "une 2002: The Parliament of Canada responds by passing a motion unanimously 10 days later recognizing Alexander Graham Bell as the inventor of the telephone.",
+      "references": [
+        {
+          "label": "Parliament of Canada",
+          "url": "https://en.wikipedia.org/wiki/Parliament_of_Canada"
+        },
+        {
+          "label": "Alexander Graham Bell",
+          "url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
+        },
+        {
+          "label": "inventor of the telephone",
+          "url": "https://en.wikipedia.org/wiki/Invention_of_the_telephone"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "title": "Farley, Tom (2007), \"The Cell-Phone Revolution\", Invention & Technolog",
+      "text": "Farley, Tom (2007), \"The Cell-Phone Revolution\", Invention & Technology, Winter 2007, vol. 22:3, pages 8–19.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of the telephone",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_the_telephone"
+        }
+      ]
+    }
+  ]
+}

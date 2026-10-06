@@ -1,0 +1,344 @@
+{
+  "slug": "telescopes-observatories",
+  "title": "Telescopes & Observatories",
+  "tagline": "Ways we learned to see further.",
+  "category": "Astronomy",
+  "icon": "🔭",
+  "color": "#0ea5e9",
+  "source": "Generated from “Timeline of telescopes, observatories, and observing technology” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of telescopes, observatories, and observing technology",
+  "via": "wiki",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "year": 1980,
+      "title": "Infrared Astronomical Satellite",
+      "text": "Infrared Astronomical Satellite (IRAS) telescope",
+      "references": [
+        {
+          "label": "Infrared Astronomical Satellite",
+          "url": "https://en.wikipedia.org/wiki/Infrared_Astronomical_Satellite"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "IRAM 30-m",
+      "text": "IRAM 30-m telescope at Pico Veleta near Granada, Spain completed",
+      "references": [
+        {
+          "label": "IRAM 30-m",
+          "url": "https://en.wikipedia.org/wiki/IRAM_30-m"
+        },
+        {
+          "label": "Pico Veleta",
+          "url": "https://en.wikipedia.org/wiki/Veleta_(Sierra_Nevada)"
+        },
+        {
+          "label": "Granada",
+          "url": "https://en.wikipedia.org/wiki/Granada"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "James Clerk Maxwell Telescope",
+      "text": "m James Clerk Maxwell Telescope UK submillimetre telescope installed at Mauna Kea Observatory",
+      "references": [
+        {
+          "label": "James Clerk Maxwell Telescope",
+          "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell_Telescope"
+        },
+        {
+          "label": "Mauna Kea Observatory",
+          "url": "https://en.wikipedia.org/wiki/Mauna_Kea_Observatory"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "La Silla Observatory",
+      "text": "m Swedish-ESO Submillimetre Telescope (SEST) installed at the ESO La Silla Observatory",
+      "references": [
+        {
+          "label": "La Silla Observatory",
+          "url": "https://en.wikipedia.org/wiki/La_Silla_Observatory"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "Cambridge Optical Aperture Synthesis Telescope (COAST)",
+      "text": "Cambridge Optical Aperture Synthesis Telescope (COAST)—the first very high resolution optical astronomical images (from aperture synthesis observations)",
+      "references": [
+        {
+          "label": "Cambridge Optical Aperture Synthesis Telescope (COAST)",
+          "url": "https://en.wikipedia.org/wiki/Cambridge_Optical_Aperture_Synthesis_Telescope_(COAST)"
+        },
+        {
+          "label": "aperture synthesis",
+          "url": "https://en.wikipedia.org/wiki/aperture_synthesis"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "Compton Gamma Ray Observatory",
+      "text": "Compton Gamma Ray Observatory satellite",
+      "references": [
+        {
+          "label": "Compton Gamma Ray Observatory",
+          "url": "https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "VLT",
+      "text": "First light at VLT1, the 8.2 m ESO telescope",
+      "references": [
+        {
+          "label": "VLT",
+          "url": "https://en.wikipedia.org/wiki/Very_Large_Telescope"
+        },
+        {
+          "label": "ESO",
+          "url": "https://en.wikipedia.org/wiki/European_Southern_Observatory"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "Giant Metrewave Radio Telescope",
+      "text": "Giant Metrewave Radio Telescope of thirty 45 m dishes at Pune",
+      "references": [
+        {
+          "label": "Giant Metrewave Radio Telescope",
+          "url": "https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "Hubble",
+      "text": "Hubble 2.4m space Telescope launched, mirror found to be flawed",
+      "references": [
+        {
+          "label": "Hubble",
+          "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "Keck 10-meter optical/infrared reflecting telescope",
+      "text": "Keck 10-meter optical/infrared reflecting telescope begins operation, located at Mauna Kea, Hawaii",
+      "references": [
+        {
+          "label": "Keck 10-meter optical/infrared reflecting telescope",
+          "url": "https://en.wikipedia.org/wiki/Keck_telescope"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "Keck 2",
+      "text": "Keck 2 10-meter optical/infrared reflecting telescope begins operation, located at Mauna Kea, Hawaii",
+      "references": [
+        {
+          "label": "Keck 2",
+          "url": "https://en.wikipedia.org/wiki/Keck_2"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "HALCA",
+      "text": "The Japanese HALCA satellite begins operations, producing first VLBI observations from space, 25,000 km maximum baseline",
+      "references": [
+        {
+          "label": "HALCA",
+          "url": "https://en.wikipedia.org/wiki/HALCA"
+        },
+        {
+          "label": "VLBI",
+          "url": "https://en.wikipedia.org/wiki/VLBI"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "Very Long Baseline Array",
+      "text": "Very Long Baseline Array of 10 dishes",
+      "references": [
+        {
+          "label": "Very Long Baseline Array",
+          "url": "https://en.wikipedia.org/wiki/Very_Long_Baseline_Array"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Euclid",
+      "text": "Euclid, was launched on 1 July 2023 on a Falcon 9 Block 5 rocket from Cape Canaveral, Florida, to study dark matter and energy.",
+      "references": [
+        {
+          "label": "Euclid",
+          "url": "https://en.wikipedia.org/wiki/Euclid_(spacecraft)"
+        },
+        {
+          "label": "Falcon 9 Block 5",
+          "url": "https://en.wikipedia.org/wiki/Falcon_9_Block_5"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "VLTI",
+      "text": "First imaging with the VLTI using the AMBER optical aperture synthesis instrument and three VLT telescopes.",
+      "references": [
+        {
+          "label": "VLTI",
+          "url": "https://en.wikipedia.org/wiki/VLTI"
+        },
+        {
+          "label": "VLT",
+          "url": "https://en.wikipedia.org/wiki/Very_Large_Telescope"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Gran Telescopio de Canarias (GTC)",
+      "text": "First light at Gran Telescopio de Canarias (GTC), in Spain, the largest optical telescope in the world with an effective diameter of 10.4 meters.",
+      "references": [
+        {
+          "label": "Gran Telescopio de Canarias (GTC)",
+          "url": "https://en.wikipedia.org/wiki/Gran_Telescopio_Canarias"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "SALT",
+      "text": "First light at SALT, the largest optical telescope in the Southern Hemisphere, with a hexagonal primary mirror of 11.1 by 9.8 meters.",
+      "references": [
+        {
+          "label": "SALT",
+          "url": "https://en.wikipedia.org/wiki/Southern_African_Large_Telescope"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Keck Interferometer",
+      "text": "First light at the Keck Interferometer. Single-baseline operations begin in the near-infrared.",
+      "references": [
+        {
+          "label": "Keck Interferometer",
+          "url": "https://en.wikipedia.org/wiki/Keck_Interferometer"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "VLTI",
+      "text": "First light at VLTI interferometry array. Operations on the interferometer start with single-baseline near-infrared observations with the 103 m baseline.",
+      "references": [
+        {
+          "label": "VLTI",
+          "url": "https://en.wikipedia.org/wiki/VLTI"
+        },
+        {
+          "label": "baseline",
+          "url": "https://en.wikipedia.org/wiki/Astronomical_interferometer"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "James Webb Space Telescope (JWST)",
+      "text": "James Webb Space Telescope (JWST), was launched 25 December 2021 on an ESA Ariane 5 rocket from Kourou, French Guiana and will succeed the Hubble Space Telescope as NASA's flagship mission in astrophysics.",
+      "references": [
+        {
+          "label": "James Webb Space Telescope (JWST)",
+          "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "XRISM",
+      "text": "XRISM was launched on 6 September 2023 on a H-IIA rocket to study the formation of the universe and the dark matter.",
+      "references": [
+        {
+          "label": "XRISM",
+          "url": "https://en.wikipedia.org/wiki/X-Ray_Imaging_and_Spectroscopy_Mission"
+        },
+        {
+          "label": "H-IIA",
+          "url": "https://en.wikipedia.org/wiki/H-IIA"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Public Telescope (PST)",
+      "text": "Public Telescope (PST), German project of astrofactum. Launch was planned for 2019, but the project's website is now defunct and no updates have been provided on the fate of the effort.",
+      "references": [
+        {
+          "label": "Public Telescope (PST)",
+          "url": "https://en.wikipedia.org/wiki/Public_Telescope"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Iranian National Observatory",
+      "text": "Iranian National Observatory 3.4 m (first light planned in 2020)",
+      "references": [
+        {
+          "label": "Iranian National Observatory",
+          "url": "https://en.wikipedia.org/wiki/Iranian_National_Observatory"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "Vera C. Rubin Observatory",
+      "text": "Mid/late-2021 – Science first light of the Vera C. Rubin Observatory is anticipated for 2021 with full science operations to begin a year later.",
+      "references": [
+        {
+          "label": "Vera C. Rubin Observatory",
+          "url": "https://en.wikipedia.org/wiki/Vera_C._Rubin_Observatory"
+        }
+      ]
+    },
+    {
+      "year": 2027,
+      "title": "Extremely Large Telescope",
+      "text": "Extremely Large Telescope (first light planned in 2027)",
+      "references": [
+        {
+          "label": "Extremely Large Telescope",
+          "url": "https://en.wikipedia.org/wiki/Extremely_Large_Telescope"
+        }
+      ]
+    },
+    {
+      "year": 2027,
+      "title": "Nancy Grace Roman Space Telescope",
+      "text": "Nancy Grace Roman Space Telescope, part of NASA's Exoplanet Exploration Program. Launch is tentatively scheduled for 2027.",
+      "references": [
+        {
+          "label": "Nancy Grace Roman Space Telescope",
+          "url": "https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope"
+        },
+        {
+          "label": "Exoplanet Exploration Program",
+          "url": "https://en.wikipedia.org/wiki/Exoplanet_Exploration_Program"
+        }
+      ]
+    }
+  ]
+}

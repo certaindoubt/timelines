@@ -1,0 +1,488 @@
+{
+  "slug": "materials-technology",
+  "title": "Materials Technology",
+  "tagline": "The stuff human progress is made of.",
+  "category": "Engineering",
+  "icon": "🧱",
+  "color": "#78716c",
+  "source": "Generated from “Timeline of materials technology” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of materials technology",
+  "via": "wiki",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "year": 1909,
+      "title": "1909",
+      "text": "Bakelite hard thermosetting plastic presented by Leo Baekeland",
+      "references": [
+        {
+          "label": "1909",
+          "url": "https://en.wikipedia.org/wiki/1909_in_science"
+        },
+        {
+          "label": "Bakelite",
+          "url": "https://en.wikipedia.org/wiki/Bakelite"
+        },
+        {
+          "label": "plastic",
+          "url": "https://en.wikipedia.org/wiki/plastic"
+        }
+      ]
+    },
+    {
+      "year": 1911,
+      "title": "1911",
+      "text": "Superconductivity discovered by Heike Kamerlingh Onnes",
+      "references": [
+        {
+          "label": "1911",
+          "url": "https://en.wikipedia.org/wiki/1911_in_science"
+        },
+        {
+          "label": "Superconductivity",
+          "url": "https://en.wikipedia.org/wiki/Superconductivity"
+        },
+        {
+          "label": "Heike Kamerlingh Onnes",
+          "url": "https://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes"
+        }
+      ]
+    },
+    {
+      "year": 1912,
+      "title": "1912",
+      "text": "Stainless steel invented by Harry Brearley",
+      "references": [
+        {
+          "label": "1912",
+          "url": "https://en.wikipedia.org/wiki/1912_in_science"
+        },
+        {
+          "label": "Stainless steel",
+          "url": "https://en.wikipedia.org/wiki/Stainless_steel"
+        },
+        {
+          "label": "Harry Brearley",
+          "url": "https://en.wikipedia.org/wiki/Harry_Brearley"
+        }
+      ]
+    },
+    {
+      "year": 1916,
+      "title": "1916",
+      "text": "Method for growing single crystals of metals invented by Jan Czochralski",
+      "references": [
+        {
+          "label": "1916",
+          "url": "https://en.wikipedia.org/wiki/1916_in_science"
+        },
+        {
+          "label": "crystal",
+          "url": "https://en.wikipedia.org/wiki/crystal"
+        },
+        {
+          "label": "metal",
+          "url": "https://en.wikipedia.org/wiki/metal"
+        }
+      ]
+    },
+    {
+      "year": 1919,
+      "title": "Fullagar",
+      "text": "The merchant ship Fullagar has the first all welded hull.",
+      "references": [
+        {
+          "label": "Fullagar",
+          "url": "https://en.wikipedia.org/wiki/Cammell_Laird"
+        },
+        {
+          "label": "welded",
+          "url": "https://en.wikipedia.org/wiki/Welding"
+        }
+      ]
+    },
+    {
+      "year": 1924,
+      "title": "1924",
+      "text": "Pyrex invented by scientists at Corning Incorporated, a glass with a very low coefficient of thermal expansion",
+      "references": [
+        {
+          "label": "1924",
+          "url": "https://en.wikipedia.org/wiki/1924_in_science"
+        },
+        {
+          "label": "Pyrex",
+          "url": "https://en.wikipedia.org/wiki/Pyrex"
+        },
+        {
+          "label": "Corning Incorporated",
+          "url": "https://en.wikipedia.org/wiki/Corning_Glass_Works"
+        }
+      ]
+    },
+    {
+      "year": 1931,
+      "title": "1931",
+      "text": "Nylon developed by Wallace Carothers",
+      "references": [
+        {
+          "label": "1931",
+          "url": "https://en.wikipedia.org/wiki/1931_in_science"
+        },
+        {
+          "label": "Nylon",
+          "url": "https://en.wikipedia.org/wiki/Nylon"
+        },
+        {
+          "label": "Wallace Carothers",
+          "url": "https://en.wikipedia.org/wiki/Wallace_Carothers"
+        }
+      ]
+    },
+    {
+      "year": 1931,
+      "title": "1931",
+      "text": "synthetic rubber called neoprene developed by Julius Nieuwland (see also: E.K. Bolton, Wallace Carothers)",
+      "references": [
+        {
+          "label": "1931",
+          "url": "https://en.wikipedia.org/wiki/1931_in_science"
+        },
+        {
+          "label": "rubber",
+          "url": "https://en.wikipedia.org/wiki/rubber"
+        },
+        {
+          "label": "neoprene",
+          "url": "https://en.wikipedia.org/wiki/neoprene"
+        }
+      ]
+    },
+    {
+      "year": 1935,
+      "title": "1935",
+      "text": "Langmuir–Blodgett film coating of glass was developed by Katharine Burr Blodgett, creating \"invisible glass\" which is >99% transmissive",
+      "references": [
+        {
+          "label": "1935",
+          "url": "https://en.wikipedia.org/wiki/1935_in_science"
+        },
+        {
+          "label": "Langmuir–Blodgett film",
+          "url": "https://en.wikipedia.org/wiki/Langmuir%E2%80%93Blodgett_film"
+        },
+        {
+          "label": "Katharine Burr Blodgett",
+          "url": "https://en.wikipedia.org/wiki/Katharine_Burr_Blodgett"
+        }
+      ]
+    },
+    {
+      "year": 1938,
+      "title": "1938",
+      "text": "The process for making poly-tetrafluoroethylene, better known as Teflon discovered by Roy Plunkett",
+      "references": [
+        {
+          "label": "1938",
+          "url": "https://en.wikipedia.org/wiki/1938_in_science"
+        },
+        {
+          "label": "Teflon",
+          "url": "https://en.wikipedia.org/wiki/Polytetrafluoroethylene"
+        },
+        {
+          "label": "Roy Plunkett",
+          "url": "https://en.wikipedia.org/wiki/Roy_J._Plunkett"
+        }
+      ]
+    },
+    {
+      "year": 1939,
+      "title": "1939",
+      "text": "Dislocations in metals confirmed by Robert W. Cahn",
+      "references": [
+        {
+          "label": "1939",
+          "url": "https://en.wikipedia.org/wiki/1939_in_science"
+        },
+        {
+          "label": "Robert W. Cahn",
+          "url": "https://en.wikipedia.org/wiki/Robert_W._Cahn"
+        }
+      ]
+    },
+    {
+      "year": 1947,
+      "title": "1947",
+      "text": "First commercial application of a piezoelectric ceramic: barium titanate used as a phonograph pickup",
+      "references": [
+        {
+          "label": "1947",
+          "url": "https://en.wikipedia.org/wiki/1947_in_science"
+        },
+        {
+          "label": "piezoelectric",
+          "url": "https://en.wikipedia.org/wiki/piezoelectricity"
+        },
+        {
+          "label": "ceramic",
+          "url": "https://en.wikipedia.org/wiki/ceramic"
+        }
+      ]
+    },
+    {
+      "year": 1947,
+      "title": "1947",
+      "text": "First germanium point-contact transistor invented",
+      "references": [
+        {
+          "label": "1947",
+          "url": "https://en.wikipedia.org/wiki/1947_in_science"
+        },
+        {
+          "label": "germanium",
+          "url": "https://en.wikipedia.org/wiki/germanium"
+        },
+        {
+          "label": "point-contact transistor",
+          "url": "https://en.wikipedia.org/wiki/point-contact_transistor"
+        }
+      ]
+    },
+    {
+      "year": 1951,
+      "title": "1951",
+      "text": "Individual atoms seen for the first time using the field ion microscope",
+      "references": [
+        {
+          "label": "1951",
+          "url": "https://en.wikipedia.org/wiki/1951_in_science"
+        },
+        {
+          "label": "atom",
+          "url": "https://en.wikipedia.org/wiki/atom"
+        },
+        {
+          "label": "field ion microscope",
+          "url": "https://en.wikipedia.org/wiki/field_ion_microscope"
+        }
+      ]
+    },
+    {
+      "year": 1953,
+      "title": "1953",
+      "text": "Metallic catalysts which greatly improve the strength of polyethylene polymers discovered by Karl Ziegler",
+      "references": [
+        {
+          "label": "1953",
+          "url": "https://en.wikipedia.org/wiki/1953_in_science"
+        },
+        {
+          "label": "catalyst",
+          "url": "https://en.wikipedia.org/wiki/catalyst"
+        },
+        {
+          "label": "polyethylene",
+          "url": "https://en.wikipedia.org/wiki/polyethylene"
+        }
+      ]
+    },
+    {
+      "year": 1954,
+      "title": "1954",
+      "text": "Argon oxygen decarburization (AOD) refining invented by scientists at the Union Carbide Corporation",
+      "references": [
+        {
+          "label": "1954",
+          "url": "https://en.wikipedia.org/wiki/1954_in_science"
+        },
+        {
+          "label": "Argon oxygen decarburization",
+          "url": "https://en.wikipedia.org/wiki/Argon_oxygen_decarburization"
+        },
+        {
+          "label": "Union Carbide Corporation",
+          "url": "https://en.wikipedia.org/wiki/Union_Carbide_Corporation"
+        }
+      ]
+    },
+    {
+      "year": 1954,
+      "title": "1954",
+      "text": "Silicon solar cells with 6% efficiency made at Bell Laboratories",
+      "references": [
+        {
+          "label": "1954",
+          "url": "https://en.wikipedia.org/wiki/1954_in_science"
+        },
+        {
+          "label": "Silicon",
+          "url": "https://en.wikipedia.org/wiki/Silicon"
+        },
+        {
+          "label": "solar cell",
+          "url": "https://en.wikipedia.org/wiki/solar_cell"
+        }
+      ]
+    },
+    {
+      "year": 1959,
+      "title": "1959",
+      "text": "Float glass process patented by the Pilkington Brothers",
+      "references": [
+        {
+          "label": "1959",
+          "url": "https://en.wikipedia.org/wiki/1959_in_science"
+        },
+        {
+          "label": "Float glass",
+          "url": "https://en.wikipedia.org/wiki/Float_glass"
+        },
+        {
+          "label": "Pilkington Brothers",
+          "url": "https://en.wikipedia.org/wiki/Pilkington_Brothers"
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "title": "1962",
+      "text": "SQUID superconducting quantum interference device invented",
+      "references": [
+        {
+          "label": "1962",
+          "url": "https://en.wikipedia.org/wiki/1962_in_science"
+        },
+        {
+          "label": "SQUID",
+          "url": "https://en.wikipedia.org/wiki/SQUID"
+        }
+      ]
+    },
+    {
+      "year": 1966,
+      "title": "1966",
+      "text": "Stephanie Kwolek invented a fibre that would later become known as Kevlar",
+      "references": [
+        {
+          "label": "1966",
+          "url": "https://en.wikipedia.org/wiki/1966_in_science"
+        },
+        {
+          "label": "Stephanie Kwolek",
+          "url": "https://en.wikipedia.org/wiki/Stephanie_Kwolek"
+        },
+        {
+          "label": "Kevlar",
+          "url": "https://en.wikipedia.org/wiki/Kevlar"
+        }
+      ]
+    },
+    {
+      "year": 1968,
+      "title": "1968",
+      "text": "Liquid crystal display developed by RCA",
+      "references": [
+        {
+          "label": "1968",
+          "url": "https://en.wikipedia.org/wiki/1968_in_science"
+        },
+        {
+          "label": "Liquid crystal display",
+          "url": "https://en.wikipedia.org/wiki/Liquid_crystal_display"
+        },
+        {
+          "label": "RCA",
+          "url": "https://en.wikipedia.org/wiki/RCA_Corporation"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "1970",
+      "text": "Silica optical fibers grown by Corning Incorporated",
+      "references": [
+        {
+          "label": "1970",
+          "url": "https://en.wikipedia.org/wiki/1970_in_science"
+        },
+        {
+          "label": "optical fiber",
+          "url": "https://en.wikipedia.org/wiki/optical_fiber"
+        },
+        {
+          "label": "Corning Incorporated",
+          "url": "https://en.wikipedia.org/wiki/Corning_Incorporated"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "1980",
+      "text": "Duplex stainless steels developed which resist oxidation in chlorides",
+      "references": [
+        {
+          "label": "1980",
+          "url": "https://en.wikipedia.org/wiki/1980_in_science"
+        },
+        {
+          "label": "Duplex stainless steel",
+          "url": "https://en.wikipedia.org/wiki/Duplex_stainless_steel"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "title": "1984",
+      "text": "Fold-forming system developed by Charles Lewton-Brain to produce complex three dimensional forms rapidly from sheet metal",
+      "references": [
+        {
+          "label": "1984",
+          "url": "https://en.wikipedia.org/wiki/1984_in_science"
+        },
+        {
+          "label": "Fold-forming",
+          "url": "https://en.wikipedia.org/wiki/Fold-forming"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "title": "1985",
+      "text": "The first fullerene molecule discovered by scientists at Rice University (see also: Timeline of carbon nanotubes)",
+      "references": [
+        {
+          "label": "1985",
+          "url": "https://en.wikipedia.org/wiki/1985_in_science"
+        },
+        {
+          "label": "fullerene",
+          "url": "https://en.wikipedia.org/wiki/fullerene"
+        },
+        {
+          "label": "Rice University",
+          "url": "https://en.wikipedia.org/wiki/Rice_University"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "title": "1986",
+      "text": "The first high temperature superconductor is discovered by Georg Bednorz and K. Alex Müller",
+      "references": [
+        {
+          "label": "1986",
+          "url": "https://en.wikipedia.org/wiki/1986_in_science"
+        },
+        {
+          "label": "high temperature superconductor",
+          "url": "https://en.wikipedia.org/wiki/high_temperature_superconductor"
+        },
+        {
+          "label": "Georg Bednorz",
+          "url": "https://en.wikipedia.org/wiki/Georg_Bednorz"
+        }
+      ]
+    }
+  ]
+}

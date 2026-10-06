@@ -1,0 +1,30 @@
+name: Daily timeline
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate today's timeline
+        run: node scripts/daily.mjs
+
+      - name: Commit new timeline (if any)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: add today's timeline"
+          file_pattern: "data/ topics/"
+          commit_user_name: timeless bot
+          commit_user_email: bot@timeless.example.invalid

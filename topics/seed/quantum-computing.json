@@ -1,0 +1,111 @@
+{
+  "slug": "quantum-computing",
+  "title": "Quantum Computing",
+  "tagline": "From thought experiments to error-corrected processors.",
+  "category": "Science",
+  "icon": "⚛️",
+  "color": "#06b6d4",
+  "source": "Curated; papers and Wikipedia.",
+  "events": [
+    {
+      "date": "1981",
+      "year": 1981,
+      "title": "Feynman proposes quantum simulation",
+      "text": "Richard Feynman argues that classical computers cannot efficiently simulate quantum physics, suggesting computers built on quantum mechanics instead.",
+      "references": [
+        { "label": "Feynman (1982), Int. J. Theor. Phys.", "url": "https://doi.org/10.1007/BF02650179" },
+        { "label": "Quantum computing \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Quantum_computing" }
+      ]
+    },
+    {
+      "date": "1985",
+      "year": 1985,
+      "title": "Deutsch formalises the quantum computer",
+      "text": "David Deutsch describes a universal quantum computer and the quantum Turing machine, outlining the theoretical machine that enables quantum algorithms.",
+      "references": [
+        { "label": "Deutsch (1985), Proc. R. Soc. A", "url": "https://doi.org/10.1098/rspa.1985.0070" },
+        { "label": "Quantum Turing machine \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Quantum_Turing_machine" }
+      ]
+    },
+    {
+      "date": "1994",
+      "year": 1994,
+      "title": "Shor\u2019s factoring algorithm",
+      "text": "Peter Shor shows a quantum computer could factor large integers in polynomial time, threatening RSA-style cryptography and energising the field.",
+      "references": [
+        { "label": "Shor (1994), arXiv", "url": "https://arxiv.org/abs/quant-ph/9508027" },
+        { "label": "Shor\u2019s algorithm \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Shor%27s_algorithm" }
+      ]
+    },
+    {
+      "date": "1996",
+      "year": 1996,
+      "title": "Grover\u2019s search algorithm",
+      "text": "Lov Grover invents a quantum search algorithm providing a quadratic speedup over any classical search \u2014 one of the few speedups that endure.",
+      "references": [
+        { "label": "Grover (1996), arXiv", "url": "https://arxiv.org/abs/quant-ph/9605043" },
+        { "label": "Grover\u2019s algorithm \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Grover%27s_algorithm" }
+      ]
+    },
+    {
+      "date": "1998",
+      "year": 1998,
+      "title": "First working 2-qubit processor",
+      "text": "A group led by Isaac Chuang runs a two-qubit NMR quantum search, one of the first experimental quantum information processors.",
+      "references": [
+        { "label": "Chuang et al. (1998), Nature", "url": "https://www.nature.com/articles/30181" },
+        { "label": "Nuclear magnetic resonance quantum computer \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance_quantum_computer" }
+      ]
+    },
+    {
+      "date": "2001",
+      "year": 2001,
+      "title": "IBM factors 15 with 7 qubits",
+      "text": "IBM researchers run Shor\u2019s algorithm on a 7-qubit NMR processor, factoring 15 into 3\u00d75 \u2014 the first full execution of a quantum algorithm that a classical computer cannot outperform at scale.",
+      "references": [
+        { "label": "Vandersypen et al. (2001), Nature", "url": "https://www.nature.com/articles/414883a" },
+        { "label": "Shor\u2019s algorithm implementation \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Shor%27s_algorithm" }
+      ]
+    },
+    {
+      "date": "2011",
+      "year": 2011,
+      "title": "D-Wave One: first commercial quantum computer",
+      "text": "D-Wave Systems sells the D-Wave One to Lockheed Martin, marketing the first commercially available quantum annealing system.",
+      "references": [
+        { "label": "D-Wave One announcement", "url": "https://www.dwavesys.com/what-we-do/how-we-do-it/" },
+        { "label": "D-Wave Systems \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/D-Wave_Systems" }
+      ]
+    },
+    {
+      "date": "2019",
+      "year": 2019,
+      "title": "Quantum supremacy with Sycamore",
+      "text": "Google reports that its 53-qubit Sycamore chip performed a sampling task in ~200 seconds a classical supercomputer could not, claiming \u201cquantum supremacy\u201d.",
+      "references": [
+        { "label": "Arute et al. (2019), Nature", "url": "https://www.nature.com/articles/s41586-019-1666-5" },
+        { "label": "Sycamore processor \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Sycamore_processor" }
+      ]
+    },
+    {
+      "date": "2021",
+      "year": 2021,
+      "title": "IBM Eagle: 127 qubits",
+      "text": "IBM unveils Eagle, a 127-qubit superconducting processor, the first IBM processor with more than 100 qubits.",
+      "references": [
+        { "label": "IBM Eagle announcement", "url": "https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor" },
+        { "label": "IBM quantum processors \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/IBM_Quantum_Platform" }
+      ]
+    },
+    {
+      "date": "2023",
+      "year": 2023,
+      "title": "The logical qubit era begins",
+      "text": "University of Wisconsin\u2013Madison and Google groups demonstrate logical qubits with error rates that fall as the code distance grows \u2014 the key step toward fault-tolerant machines.",
+      "references": [
+        { "label": "Google blog: logical qubits (2023)", "url": "https://blog.google/technology/research/with-a-new-quantum-computing-milestone-google-conquers-more-than-two-decades-puzzle/" },
+        { "label": "Quantum error correction \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Quantum_error_correction" }
+      ]
+    }
+  ]
+}

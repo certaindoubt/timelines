@@ -1,0 +1,124 @@
+{
+  "slug": "spaceflight",
+  "title": "Spaceflight",
+  "tagline": "The machines that left Earth’s cradle.",
+  "category": "Astronomy",
+  "icon": "🛰️",
+  "color": "#3b82f6",
+  "source": "Generated from “Timeline of spaceflight” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of spaceflight",
+  "via": "wiki",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "year": 1951,
+      "title": "colspan=\"10\" | Spaceflight before 1951",
+      "text": "colspan=\"10\" | Spaceflight before 1951",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of spaceflight",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
+        }
+      ]
+    },
+    {
+      "year": 1951,
+      "title": "H1, H2) (1958 (H1, H2))",
+      "text": "H1, H2) (1958 (H1, H2))",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of spaceflight",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "H1, (H2) (2018 (H1, H2))",
+      "text": "H1, (H2) (2018 (H1, H2))",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of spaceflight",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
+        }
+      ]
+    },
+    {
+      "year": 2030,
+      "title": "Target altitude 660 km (Third gravity assist at Earth)",
+      "text": "Target altitude 660 km (Third gravity assist at Earth)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of spaceflight",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
+        }
+      ]
+    },
+    {
+      "year": 2031,
+      "title": "Arrival at asteroid 1998 KY26 (Hayabusa2)",
+      "text": "Arrival at asteroid 1998 KY26 (Hayabusa2)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of spaceflight",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
+        }
+      ]
+    },
+    {
+      "year": 2031,
+      "title": "Flyby of Ganymede (JUICE)",
+      "text": "Flyby of Ganymede (JUICE)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of spaceflight",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
+        }
+      ]
+    },
+    {
+      "year": 2031,
+      "title": "Jupiter orbit insertion (JUICE)",
+      "text": "Jupiter orbit insertion (JUICE)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of spaceflight",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
+        }
+      ]
+    },
+    {
+      "year": 2032,
+      "title": "Flyby of Europa (JUICE)",
+      "text": "Flyby of Europa (JUICE)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of spaceflight",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
+        }
+      ]
+    },
+    {
+      "year": 2033,
+      "title": "Target altitude 1000 km (Flyby of binary asteroid 617 Patroclus-Menoet",
+      "text": "Target altitude 1000 km (Flyby of binary asteroid 617 Patroclus-Menoetius)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of spaceflight",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
+        }
+      ]
+    },
+    {
+      "year": 2034,
+      "title": "Planned first orbit of a moon other than Earth's (Ganymede orbit inser",
+      "text": "Planned first orbit of a moon other than Earth's (Ganymede orbit insertion)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of spaceflight",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
+        }
+      ]
+    }
+  ]
+}

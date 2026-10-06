@@ -1,0 +1,141 @@
+{
+  "slug": "genetics-dna",
+  "title": "Genetics & DNA",
+  "tagline": "From Mendel’s peas to CRISPR gene editing.",
+  "category": "Life Sciences",
+  "icon": "🧬",
+  "color": "#ec4899",
+  "source": "Curated; primary papers and Wikipedia.",
+  "via": "seed",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "date": "1866",
+      "year": 1866,
+      "title": "Mendel publishes his laws of heredity",
+      "text": "Gregor Mendel presents experiments on pea plants describing dominant and recessive inheritance — the birth of genetics.",
+      "references": [
+        {
+          "label": "Mendel’s original papers (1866)",
+          "url": "https://www.biodiversitylibrary.org/item/15368"
+        },
+        {
+          "label": "Mendelian inheritance — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mendelian_inheritance"
+        }
+      ]
+    },
+    {
+      "date": "1900",
+      "year": 1900,
+      "title": "Mendel’s work is rediscovered",
+      "text": "Correns, de Vries and Tschermak independently rediscover Mendel’s laws, founding modern genetics.",
+      "references": [
+        {
+          "label": "Hugo de Vries — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hugo_de_Vries"
+        },
+        {
+          "label": "Gregor Mendel — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gregor_Mendel"
+        }
+      ]
+    },
+    {
+      "date": "1953",
+      "year": 1953,
+      "title": "The double helix",
+      "text": "Watson and Crick, using Franklin’s X-ray data, propose the double-helix structure of DNA.",
+      "references": [
+        {
+          "label": "Watson & Crick (1953), Nature",
+          "url": "https://www.nature.com/articles/171737a0"
+        },
+        {
+          "label": "DNA — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/DNA"
+        }
+      ]
+    },
+    {
+      "date": "1977",
+      "year": 1977,
+      "title": "DNA sequencing is invented",
+      "text": "Frederick Sanger develops chain-termination sequencing, making it possible to read the order of letters in a genome.",
+      "references": [
+        {
+          "label": "Sanger et al. (1977), PNAS",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.74.12.5463"
+        },
+        {
+          "label": "Sanger sequencing — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sanger_sequencing"
+        }
+      ]
+    },
+    {
+      "date": "1983",
+      "year": 1983,
+      "title": "PCR amplifies DNA",
+      "text": "Kary Mullis invents the polymerase chain reaction, letting scientists copy DNA millions of times over.",
+      "references": [
+        {
+          "label": "PCR discovery — Nobel lecture",
+          "url": "https://www.nobelprize.org/prizes/chemistry/1993/mullis/facts/"
+        },
+        {
+          "label": "Polymerase chain reaction — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Polymerase_chain_reaction"
+        }
+      ]
+    },
+    {
+      "date": "2003",
+      "year": 2003,
+      "title": "The Human Genome Project completes",
+      "text": "The human genome is fully sequenced, a foundational dataset for all of biomedical science.",
+      "references": [
+        {
+          "label": "NHGRI: Human Genome Project",
+          "url": "https://www.genome.gov/human-genome-project"
+        },
+        {
+          "label": "Human Genome Project — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Human_Genome_Project"
+        }
+      ]
+    },
+    {
+      "date": "2012",
+      "year": 2012,
+      "title": "CRISPR-Cas9 gene editing",
+      "text": "Jinek, Charpentier and Doudna repurpose the bacterial CRISPR-Cas9 system as a precise, programmable gene-editing tool.",
+      "references": [
+        {
+          "label": "Jinek et al. (2012), Science",
+          "url": "https://www.science.org/doi/10.1126/science.1225829"
+        },
+        {
+          "label": "CRISPR gene editing — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing"
+        }
+      ]
+    },
+    {
+      "date": "2020",
+      "year": 2020,
+      "title": "Nobel Prize for CRISPR",
+      "text": "Emmanuelle Charpentier and Jennifer Doudna win the Nobel Prize in Chemistry for the CRISPR-Cas9 method.",
+      "references": [
+        {
+          "label": "Nobel Prize in Chemistry 2020",
+          "url": "https://www.nobelprize.org/prizes/chemistry/2020/summary/"
+        },
+        {
+          "label": "CRISPR gene editing — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing"
+        }
+      ]
+    }
+  ]
+}

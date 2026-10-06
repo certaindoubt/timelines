@@ -1,0 +1,400 @@
+{
+  "slug": "inventions-that-changed-the-world",
+  "title": "Inventions That Changed the World",
+  "tagline": "Ideas that reshaped daily life.",
+  "category": "Engineering",
+  "icon": "💡",
+  "color": "#facc15",
+  "source": "Generated from “Timeline of historic inventions” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of historic inventions",
+  "via": "wiki",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "year": 2000,
+      "title": "Noodle",
+      "text": "Noodle in Lajia in China",
+      "references": [
+        {
+          "label": "Noodle",
+          "url": "https://en.wikipedia.org/wiki/Noodle"
+        },
+        {
+          "label": "Lajia",
+          "url": "https://en.wikipedia.org/wiki/Lajia"
+        },
+        {
+          "label": "China",
+          "url": "https://en.wikipedia.org/wiki/China"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Satoshi Nakamoto",
+      "text": "Satoshi Nakamoto develops the first blockchain.",
+      "references": [
+        {
+          "label": "Satoshi Nakamoto",
+          "url": "https://en.wikipedia.org/wiki/Satoshi_Nakamoto"
+        },
+        {
+          "label": "blockchain",
+          "url": "https://en.wikipedia.org/wiki/blockchain"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Scissors",
+      "text": "Scissors, in Mesopotamia.",
+      "references": [
+        {
+          "label": "Scissors",
+          "url": "https://en.wikipedia.org/wiki/Scissors"
+        },
+        {
+          "label": "Mesopotamia",
+          "url": "https://en.wikipedia.org/wiki/Mesopotamia"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "quantum machine",
+      "text": "The first quantum machine was created by Aaron D. O'Connell",
+      "references": [
+        {
+          "label": "quantum machine",
+          "url": "https://en.wikipedia.org/wiki/quantum_machine"
+        },
+        {
+          "label": "Aaron D. O'Connell",
+          "url": "https://en.wikipedia.org/wiki/Aaron_D._O'Connell"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Food and Drug Administration",
+      "text": "The Food and Drug Administration approved the first contraceptive patch",
+      "references": [
+        {
+          "label": "Food and Drug Administration",
+          "url": "https://en.wikipedia.org/wiki/Food_and_Drug_Administration"
+        },
+        {
+          "label": "contraceptive patch",
+          "url": "https://en.wikipedia.org/wiki/contraceptive_patch"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Water clock",
+      "text": "Water clock by at least the old Babylonian period (c. 2000 – c. 1600 BC), but possibly earlier from Mohenjo-Daro in the Indus Valley.",
+      "references": [
+        {
+          "label": "Water clock",
+          "url": "https://en.wikipedia.org/wiki/Water_clock"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "YouTube",
+      "text": "YouTube, the first popular video-streaming site, was founded by Jawed Karim",
+      "references": [
+        {
+          "label": "YouTube",
+          "url": "https://en.wikipedia.org/wiki/YouTube"
+        },
+        {
+          "label": "Jawed Karim",
+          "url": "https://en.wikipedia.org/wiki/Jawed_Karim"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "title": "Wagner, Donald B",
+      "text": "Wagner, Donald B. (2001). The State and the Iron Industry in Han China. Copenhagen: Nordic Institute of Asian Studies Publishing. .",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of historic inventions",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "title": "Stark, Miriam T",
+      "text": "Stark, Miriam T. (2005). Archaeology of Asia. Malden, MA : Blackwell Pub. .",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of historic inventions",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "title": "Ebrey, Walthall, Palais, (2006)",
+      "text": "Ebrey, Walthall, Palais, (2006). East Asia: A Cultural, Social, and Political History. Boston: Houghton Mifflin Company.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of historic inventions",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "title": "Sushruta Samhita",
+      "text": "6th century – 2nd century BC: Systematization of medicine and surgery in the Sushruta Samhita in Vedic Northern India.Sarah Boslaugh (2007), Encyclopedia of Epidemiology, Volume 1, SAGE Publications, , page 547, Quote: \"The Hindu text known as Sushru",
+      "references": [
+        {
+          "label": "Sushruta Samhita",
+          "url": "https://en.wikipedia.org/wiki/Sushruta_Samhita"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "CRISPR gene editing",
+      "text": "Discovery of CRISPR gene editing method",
+      "references": [
+        {
+          "label": "CRISPR gene editing",
+          "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "artificial pancreas",
+      "text": "First commercially available artificial pancreas",
+      "references": [
+        {
+          "label": "artificial pancreas",
+          "url": "https://en.wikipedia.org/wiki/artificial_pancreas"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "SpaceX",
+      "text": "First successful launch of a multi-use rocket by SpaceX",
+      "references": [
+        {
+          "label": "SpaceX",
+          "url": "https://en.wikipedia.org/wiki/SpaceX"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "IBM",
+      "text": "IBM launches IBM Q System One, its first integrated quantum computing system for commercial use.",
+      "references": [
+        {
+          "label": "IBM",
+          "url": "https://en.wikipedia.org/wiki/IBM"
+        },
+        {
+          "label": "IBM Q System One",
+          "url": "https://en.wikipedia.org/wiki/IBM_Q_System_One"
+        },
+        {
+          "label": "quantum computing",
+          "url": "https://en.wikipedia.org/wiki/quantum_computing"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "Pepper",
+      "text": "Introduction of Pepper, the first commercial humanoid robot",
+      "references": [
+        {
+          "label": "Pepper",
+          "url": "https://en.wikipedia.org/wiki/Pepper_(robot)"
+        },
+        {
+          "label": "humanoid robot",
+          "url": "https://en.wikipedia.org/wiki/humanoid_robot"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "Lidar",
+      "text": "Solid-state Lidar technology was introduced, replacing mechanical scanning with electronic beam steering",
+      "references": [
+        {
+          "label": "Lidar",
+          "url": "https://en.wikipedia.org/wiki/Lidar"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "synthetic organism",
+      "text": "The first synthetic organism, Mycoplasma laboratorium is created by the J. Craig Venter Institute",
+      "references": [
+        {
+          "label": "synthetic organism",
+          "url": "https://en.wikipedia.org/wiki/Synthetic_biology"
+        },
+        {
+          "label": "Mycoplasma laboratorium",
+          "url": "https://en.wikipedia.org/wiki/Mycoplasma_laboratorium"
+        },
+        {
+          "label": "J. Craig Venter Institute",
+          "url": "https://en.wikipedia.org/wiki/J._Craig_Venter_Institute"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "OpenAI",
+      "text": "OpenAI demonstrated an Artificial Intelligence model called GPT-3. The program was created to generate human-like responses when given prompts.",
+      "references": [
+        {
+          "label": "OpenAI",
+          "url": "https://en.wikipedia.org/wiki/OpenAI"
+        },
+        {
+          "label": "Artificial Intelligence",
+          "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+        },
+        {
+          "label": "GPT-3",
+          "url": "https://en.wikipedia.org/wiki/GPT-3"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "mRNA vaccine",
+      "text": "The first mRNA vaccine to be approved by public health medicines regulators is co-developed by Pfizer and BioNTech for COVID-19, with the potential to treat other diseases and cancer",
+      "references": [
+        {
+          "label": "mRNA vaccine",
+          "url": "https://en.wikipedia.org/wiki/mRNA_vaccine"
+        },
+        {
+          "label": "Pfizer",
+          "url": "https://en.wikipedia.org/wiki/Pfizer"
+        },
+        {
+          "label": "BioNTech",
+          "url": "https://en.wikipedia.org/wiki/BioNTech"
+        }
+      ]
+    },
+    {
+      "year": 2200,
+      "title": "Iron smelting",
+      "text": "2000 BC: Iron smelting in Kaman-Kalehöyük.",
+      "references": [
+        {
+          "label": "Iron smelting",
+          "url": "https://en.wikipedia.org/wiki/Iron_smelting"
+        },
+        {
+          "label": "Kaman-Kalehöyük",
+          "url": "https://en.wikipedia.org/wiki/Kaman-Kaleh%C3%B6y%C3%BCk"
+        }
+      ]
+    },
+    {
+      "year": 2200,
+      "title": "Protractor",
+      "text": "Protractor, Phase IV, Lothal, Indus Valley (modern-day India), a Xancus shell cylinder with sawn grooves, at right angles, in its top and bottom surfaces, has been proposed as an angle marking tool.",
+      "references": [
+        {
+          "label": "Protractor",
+          "url": "https://en.wikipedia.org/wiki/Protractor"
+        },
+        {
+          "label": "Lothal",
+          "url": "https://en.wikipedia.org/wiki/Lothal"
+        },
+        {
+          "label": "Xancus",
+          "url": "https://en.wikipedia.org/wiki/Turbinella_pyrum"
+        }
+      ]
+    },
+    {
+      "year": 2300,
+      "title": "Dictionary",
+      "text": "Dictionary in Mesopotamia.",
+      "references": [
+        {
+          "label": "Dictionary",
+          "url": "https://en.wikipedia.org/wiki/Dictionary"
+        },
+        {
+          "label": "Mesopotamia",
+          "url": "https://en.wikipedia.org/wiki/Mesopotamia"
+        }
+      ]
+    },
+    {
+      "year": 2400,
+      "title": "Copper pipes",
+      "text": "Copper pipes, the Pyramid of Sahure, an adjoining temple complex at Abusir, was discovered to have a network of copper drainage pipes.",
+      "references": [
+        {
+          "label": "Copper pipes",
+          "url": "https://en.wikipedia.org/wiki/History_of_water_supply_and_sanitation%23Ancient_Egypt"
+        },
+        {
+          "label": "Pyramid of Sahure",
+          "url": "https://en.wikipedia.org/wiki/Pyramid_of_Sahure%23Drainage_system"
+        },
+        {
+          "label": "Abusir",
+          "url": "https://en.wikipedia.org/wiki/Abusir"
+        }
+      ]
+    },
+    {
+      "year": 2400,
+      "title": "Fork",
+      "text": "Fork in Bronze Age Qijia culture in China",
+      "references": [
+        {
+          "label": "Fork",
+          "url": "https://en.wikipedia.org/wiki/Fork"
+        },
+        {
+          "label": "Bronze Age",
+          "url": "https://en.wikipedia.org/wiki/Bronze_Age"
+        },
+        {
+          "label": "Qijia culture",
+          "url": "https://en.wikipedia.org/wiki/Qijia_culture"
+        }
+      ]
+    },
+    {
+      "year": 2400,
+      "title": "Touchstone",
+      "text": "Touchstone in the Indus Valley site of Banawali (modern-day India).",
+      "references": [
+        {
+          "label": "Touchstone",
+          "url": "https://en.wikipedia.org/wiki/Touchstone_(assaying_tool)"
+        },
+        {
+          "label": "Banawali",
+          "url": "https://en.wikipedia.org/wiki/Banawali"
+        }
+      ]
+    }
+  ]
+}

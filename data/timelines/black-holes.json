@@ -1,0 +1,448 @@
+{
+  "slug": "black-holes",
+  "title": "Black Holes",
+  "tagline": "From thought experiment to first image.",
+  "category": "Physics",
+  "icon": "🕳️",
+  "color": "#0f172a",
+  "source": "Generated from “Timeline of black hole physics” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of black hole physics",
+  "via": "wiki",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "year": 1960,
+      "title": "John Wheeler",
+      "text": "John Wheeler introduces the term \"black hole\" in his lecture to the American Association for the Advancement of Science",
+      "references": [
+        {
+          "label": "John Wheeler",
+          "url": "https://en.wikipedia.org/wiki/John_Archibald_Wheeler"
+        },
+        {
+          "label": "American Association for the Advancement of Science",
+          "url": "https://en.wikipedia.org/wiki/American_Association_for_the_Advancement_of_Science"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Karl Schwarzschild",
+      "text": "Karl Schwarzschild and independently Johannes Droste solve the Einstein vacuum field equations for uncharged spherically symmetric non-rotating systems",
+      "references": [
+        {
+          "label": "Karl Schwarzschild",
+          "url": "https://en.wikipedia.org/wiki/Karl_Schwarzschild"
+        },
+        {
+          "label": "Johannes Droste",
+          "url": "https://en.wikipedia.org/wiki/Johannes_Droste"
+        },
+        {
+          "label": "Einstein vacuum field equation",
+          "url": "https://en.wikipedia.org/wiki/Einstein_field_equations%23Vacuum_field_equations"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Maarten Schmidt",
+      "text": "Maarten Schmidt discovers and analyzes the first quasar, 3C 273, as a highly red-shifted active galactic nucleus, a billion light years away",
+      "references": [
+        {
+          "label": "Maarten Schmidt",
+          "url": "https://en.wikipedia.org/wiki/Maarten_Schmidt"
+        },
+        {
+          "label": "quasar",
+          "url": "https://en.wikipedia.org/wiki/quasar"
+        },
+        {
+          "label": "3C 273",
+          "url": "https://en.wikipedia.org/wiki/3C_273"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Paul Ehrenfest",
+      "text": "Paul Ehrenfest gives conditional principle a three-dimensional space",
+      "references": [
+        {
+          "label": "Paul Ehrenfest",
+          "url": "https://en.wikipedia.org/wiki/Paul_Ehrenfest"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Robert Oppenheimer",
+      "text": "Robert Oppenheimer and Hartland Snyder calculate the gravitational collapse of a pressure-free homogeneous fluid sphere into a black hole",
+      "references": [
+        {
+          "label": "Robert Oppenheimer",
+          "url": "https://en.wikipedia.org/wiki/Robert_Oppenheimer"
+        },
+        {
+          "label": "Hartland Snyder",
+          "url": "https://en.wikipedia.org/wiki/Hartland_Snyder"
+        },
+        {
+          "label": "gravitational collapse",
+          "url": "https://en.wikipedia.org/wiki/gravitational_collapse"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Roger Penrose",
+      "text": "Roger Penrose discusses the Penrose process for the extraction of the spin energy from a Kerr black hole",
+      "references": [
+        {
+          "label": "Roger Penrose",
+          "url": "https://en.wikipedia.org/wiki/Roger_Penrose"
+        },
+        {
+          "label": "Penrose process",
+          "url": "https://en.wikipedia.org/wiki/Penrose_process"
+        },
+        {
+          "label": "spin",
+          "url": "https://en.wikipedia.org/wiki/Spin_(physics)"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "cosmic censorship hypothesis",
+      "text": "Roger Penrose proposes the cosmic censorship hypothesis",
+      "references": [
+        {
+          "label": "cosmic censorship hypothesis",
+          "url": "https://en.wikipedia.org/wiki/cosmic_censorship_hypothesis"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Roger Penrose",
+      "text": "Roger Penrose proves that an imploding star will necessarily produce a singularity once it has formed an event horizon",
+      "references": [
+        {
+          "label": "Roger Penrose",
+          "url": "https://en.wikipedia.org/wiki/Roger_Penrose"
+        },
+        {
+          "label": "event horizon",
+          "url": "https://en.wikipedia.org/wiki/event_horizon"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Roy Kerr",
+      "text": "Roy Kerr solves the Einstein vacuum field equations for uncharged symmetric rotating systems, deriving the Kerr metric for a rotating black hole",
+      "references": [
+        {
+          "label": "Roy Kerr",
+          "url": "https://en.wikipedia.org/wiki/Roy_Kerr"
+        },
+        {
+          "label": "Kerr metric",
+          "url": "https://en.wikipedia.org/wiki/Kerr_metric"
+        },
+        {
+          "label": "rotating black hole",
+          "url": "https://en.wikipedia.org/wiki/rotating_black_hole"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "quantum field theory",
+      "text": "Stephen Hawking applies quantum field theory to black hole spacetimes and shows that black holes will radiate particles with a black-body spectrum which can cause black hole evaporation",
+      "references": [
+        {
+          "label": "quantum field theory",
+          "url": "https://en.wikipedia.org/wiki/quantum_field_theory"
+        },
+        {
+          "label": "black-body spectrum",
+          "url": "https://en.wikipedia.org/wiki/black-body_spectrum"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Stephen Hawking",
+      "text": "Stephen Hawking proves that the area of a classical black hole's event horizon cannot decrease",
+      "references": [
+        {
+          "label": "Stephen Hawking",
+          "url": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Subrahmanyan Chandrasekhar",
+      "text": "Subrahmanyan Chandrasekhar calculates, using special relativity, that a non-rotating body of electron-degenerate matter above a certain limiting mass (at 1.4 solar masses) has no stable solutions",
+      "references": [
+        {
+          "label": "Subrahmanyan Chandrasekhar",
+          "url": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar"
+        },
+        {
+          "label": "special relativity",
+          "url": "https://en.wikipedia.org/wiki/special_relativity"
+        },
+        {
+          "label": "electron-degenerate matter",
+          "url": "https://en.wikipedia.org/wiki/electron-degenerate_matter"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "The first recorded use of the term \"black hole\" in writing, by journal",
+      "text": "The first recorded use of the term \"black hole\" in writing, by journalist Ann Ewing",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of black hole physics",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_black_hole_physics"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Richard Chace Tolman",
+      "text": "Using the work of Richard Chace Tolman, Robert Oppenheimer and George Volkoff calculate the upper mass limit of a cold, non-rotating neutron star to be approximately 0.7 solar masses.",
+      "references": [
+        {
+          "label": "Richard Chace Tolman",
+          "url": "https://en.wikipedia.org/wiki/Richard_Chace_Tolman"
+        },
+        {
+          "label": "George Volkoff",
+          "url": "https://en.wikipedia.org/wiki/George_Volkoff"
+        },
+        {
+          "label": "upper mass limit",
+          "url": "https://en.wikipedia.org/wiki/Tolman-Oppenheimer-Volkoff_limit"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Werner Israel",
+      "text": "Werner Israel presents the proof of the no-hair theorem at King's College London",
+      "references": [
+        {
+          "label": "Werner Israel",
+          "url": "https://en.wikipedia.org/wiki/Werner_Israel"
+        },
+        {
+          "label": "no-hair theorem",
+          "url": "https://en.wikipedia.org/wiki/no-hair_theorem"
+        },
+        {
+          "label": "King's College London",
+          "url": "https://en.wikipedia.org/wiki/King's_College_London"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Yakov Zel'dovich",
+      "text": "Yakov Zel'dovich and Igor Novikov propose searching for black hole candidates among binary systems in which one star is optically bright and X-ray dark and the other optically dark but X-ray bright (the black hole candidate)",
+      "references": [
+        {
+          "label": "Yakov Zel'dovich",
+          "url": "https://en.wikipedia.org/wiki/Yakov_Borisovich_Zel'dovich"
+        },
+        {
+          "label": "Igor Novikov",
+          "url": "https://en.wikipedia.org/wiki/Igor_Dmitriyevich_Novikov"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Yakov Zel'dovich",
+      "text": "Yakov Zel'dovich and independently Edwin Salpeter propose that accretion discs around supermassive black holes are responsible for the huge amounts of energy radiated by quasars",
+      "references": [
+        {
+          "label": "Yakov Zel'dovich",
+          "url": "https://en.wikipedia.org/wiki/Yakov_Borisovich_Zel'dovich"
+        },
+        {
+          "label": "Edwin Salpeter",
+          "url": "https://en.wikipedia.org/wiki/Edwin_Salpeter"
+        },
+        {
+          "label": "supermassive black holes",
+          "url": "https://en.wikipedia.org/wiki/supermassive_black_holes"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "Max Planck Institute for Extraterrestrial Physics",
+      "text": "Astronomers at the Max Planck Institute for Extraterrestrial Physics present evidence for the hypothesis that Sagittarius A* is a supermassive black hole at the center of the Milky Way galaxy.",
+      "references": [
+        {
+          "label": "Max Planck Institute for Extraterrestrial Physics",
+          "url": "https://en.wikipedia.org/wiki/Max_Planck_Institute_for_Extraterrestrial_Physics"
+        },
+        {
+          "label": "Sagittarius A*",
+          "url": "https://en.wikipedia.org/wiki/Sagittarius_A*"
+        },
+        {
+          "label": "supermassive black hole",
+          "url": "https://en.wikipedia.org/wiki/supermassive_black_hole"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "NASA",
+      "text": "NASA's Chandra X-ray Observatory identifies double galactic black holes system in merging galaxies NGC 6240.",
+      "references": [
+        {
+          "label": "NASA",
+          "url": "https://en.wikipedia.org/wiki/NASA"
+        },
+        {
+          "label": "Chandra X-ray Observatory",
+          "url": "https://en.wikipedia.org/wiki/Chandra_X-ray_Observatory"
+        },
+        {
+          "label": "galaxies",
+          "url": "https://en.wikipedia.org/wiki/galaxy"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "The Ohio State University",
+      "text": "Physicists at The Ohio State University publish fuzzball theory, which is a quantum description of black holes positing that they are extended objects composed of strings and don't have singularities.",
+      "references": [
+        {
+          "label": "The Ohio State University",
+          "url": "https://en.wikipedia.org/wiki/Ohio_State_University"
+        },
+        {
+          "label": "fuzzball theory",
+          "url": "https://en.wikipedia.org/wiki/Fuzzball_(string_theory)"
+        },
+        {
+          "label": "strings",
+          "url": "https://en.wikipedia.org/wiki/Superstring_theory"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "UCLA",
+      "text": "Further observations by a team from UCLA present even stronger evidence supporting Sagittarius A* as a black hole.",
+      "references": [
+        {
+          "label": "UCLA",
+          "url": "https://en.wikipedia.org/wiki/UCLA"
+        },
+        {
+          "label": "Sagittarius A*",
+          "url": "https://en.wikipedia.org/wiki/Sagittarius_A*"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "VLBI",
+      "text": "One of the first VLBI observations of the black hole Sagittarius A* are made by a team that later becomes part of the Event Horizon Telescope collaboration",
+      "references": [
+        {
+          "label": "VLBI",
+          "url": "https://en.wikipedia.org/wiki/VLBI"
+        },
+        {
+          "label": "Sagittarius A*",
+          "url": "https://en.wikipedia.org/wiki/Sagittarius_A*"
+        },
+        {
+          "label": "Event Horizon Telescope",
+          "url": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "title": "Suvi Gezari",
+      "text": "First visual evidence of black-holes: Suvi Gezari's team in Johns Hopkins University, using the Hawaiian telescope Pan-STARRS 1, publish images of a supermassive black hole 2.7 million light-years away swallowing a red giant",
+      "references": [
+        {
+          "label": "Suvi Gezari",
+          "url": "https://en.wikipedia.org/wiki/Suvi_Gezari"
+        },
+        {
+          "label": "Johns Hopkins University",
+          "url": "https://en.wikipedia.org/wiki/Johns_Hopkins_University"
+        },
+        {
+          "label": "Pan-STARRS 1",
+          "url": "https://en.wikipedia.org/wiki/Pan-STARRS_1"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "title": "LIGO Scientific Collaboration",
+      "text": "LIGO Scientific Collaboration detects the distinctive gravitational waveforms from a binary black hole merging into a final black hole, yielding the basic parameters (e.g., distance, mass, and spin) of the three spinning black holes involved.",
+      "references": [
+        {
+          "label": "LIGO Scientific Collaboration",
+          "url": "https://en.wikipedia.org/wiki/LIGO_Scientific_Collaboration"
+        },
+        {
+          "label": "gravitational waveforms",
+          "url": "https://en.wikipedia.org/wiki/GW150914"
+        },
+        {
+          "label": "binary black hole",
+          "url": "https://en.wikipedia.org/wiki/binary_black_hole"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Event Horizon Telescope",
+      "text": "Event Horizon Telescope collaboration releases the first direct photo of a black hole, the supermassive M87* at the core of the Messier 87 galaxy.",
+      "references": [
+        {
+          "label": "Event Horizon Telescope",
+          "url": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope"
+        },
+        {
+          "label": "M87*",
+          "url": "https://en.wikipedia.org/wiki/M87*"
+        },
+        {
+          "label": "Messier 87",
+          "url": "https://en.wikipedia.org/wiki/Messier_87"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Sagittarius A*",
+      "text": "Event Horizon Telescope releases the first image of the supermassive black hole Sagittarius A* at the centre of the milky way galaxy.",
+      "references": [
+        {
+          "label": "Sagittarius A*",
+          "url": "https://en.wikipedia.org/wiki/Sagittarius_A*"
+        }
+      ]
+    }
+  ]
+}

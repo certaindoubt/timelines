@@ -1,0 +1,352 @@
+{
+  "slug": "the-internet",
+  "title": "The Internet",
+  "tagline": "How networks became the world’s nervous system.",
+  "category": "Technology",
+  "icon": "🌐",
+  "color": "#0ea5e9",
+  "source": "Generated from “Timeline of the history of the Internet” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of the history of the Internet",
+  "via": "wiki",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "year": 2006,
+      "title": "Twitter microblogging",
+      "text": "Twitter microblogging",
+      "references": [
+        {
+          "label": "Twitter",
+          "url": "https://en.wikipedia.org/wiki/Twitter"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "title": "Google Street View",
+      "text": "Google Street View",
+      "references": [
+        {
+          "label": "Google Street View",
+          "url": "https://en.wikipedia.org/wiki/Google_Street_View"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "title": "Kindle, e-reader and virtual bookshop",
+      "text": "Kindle, e-reader and virtual bookshop",
+      "references": [
+        {
+          "label": "Kindle",
+          "url": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+        },
+        {
+          "label": "e-reader",
+          "url": "https://en.wikipedia.org/wiki/e-reader"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "title": "WikiLeaks anonymous news and information leaks",
+      "text": "WikiLeaks anonymous news and information leaks",
+      "references": [
+        {
+          "label": "WikiLeaks",
+          "url": "https://en.wikipedia.org/wiki/WikiLeaks"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "title": "Amazon Elastic Compute Cloud (EC2)",
+      "text": "Amazon Elastic Compute Cloud (EC2)",
+      "references": [
+        {
+          "label": "Amazon Elastic Compute Cloud",
+          "url": "https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "title": "Dropbox cloud-based file hosting",
+      "text": "Dropbox cloud-based file hosting",
+      "references": [
+        {
+          "label": "Dropbox",
+          "url": "https://en.wikipedia.org/wiki/Dropbox"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "title": "Encyclopedia of Life, a collaborative encyclopedia intended to documen",
+      "text": "Encyclopedia of Life, a collaborative encyclopedia intended to document all living species",
+      "references": [
+        {
+          "label": "Encyclopedia of Life",
+          "url": "https://en.wikipedia.org/wiki/Encyclopedia_of_Life"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "title": "Spotify, a DRM-based music streaming service",
+      "text": "Spotify, a DRM-based music streaming service",
+      "references": [
+        {
+          "label": "Spotify",
+          "url": "https://en.wikipedia.org/wiki/Spotify"
+        },
+        {
+          "label": "DRM-based",
+          "url": "https://en.wikipedia.org/wiki/Digital_rights_management"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "title": "Bing search engine",
+      "text": "Bing search engine",
+      "references": [
+        {
+          "label": "Bing",
+          "url": "https://en.wikipedia.org/wiki/Microsoft_Bing"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "title": "Bitcoin, a digital currency",
+      "text": "Bitcoin, a digital currency",
+      "references": [
+        {
+          "label": "Bitcoin",
+          "url": "https://en.wikipedia.org/wiki/Bitcoin"
+        },
+        {
+          "label": "digital currency",
+          "url": "https://en.wikipedia.org/wiki/digital_currency"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "title": "Google Docs, Web-based word processor, spreadsheet, presentation, form",
+      "text": "Google Docs, Web-based word processor, spreadsheet, presentation, form, and data storage service",
+      "references": [
+        {
+          "label": "Google Docs",
+          "url": "https://en.wikipedia.org/wiki/Google_Docs"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "title": "Kickstarter, a threshold pledge system",
+      "text": "Kickstarter, a threshold pledge system",
+      "references": [
+        {
+          "label": "Kickstarter",
+          "url": "https://en.wikipedia.org/wiki/Kickstarter"
+        },
+        {
+          "label": "threshold pledge system",
+          "url": "https://en.wikipedia.org/wiki/threshold_pledge_system"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "First internationalized country code top-level domains registered",
+      "text": "First internationalized country code top-level domains registered",
+      "references": [
+        {
+          "label": "First internationalized country code top-level domains",
+          "url": "https://en.wikipedia.org/wiki/Top-level_domain%23Internationalized_country_code_TLDs"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "Instagram, photo sharing and social networking",
+      "text": "Instagram, photo sharing and social networking",
+      "references": [
+        {
+          "label": "Instagram",
+          "url": "https://en.wikipedia.org/wiki/Instagram"
+        },
+        {
+          "label": "photo sharing",
+          "url": "https://en.wikipedia.org/wiki/photo_sharing"
+        },
+        {
+          "label": "social networking",
+          "url": "https://en.wikipedia.org/wiki/social_networking"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "title": "Google+, social networking",
+      "text": "Google+, social networking",
+      "references": [
+        {
+          "label": "Google+",
+          "url": "https://en.wikipedia.org/wiki/Google%2B"
+        },
+        {
+          "label": "social networking",
+          "url": "https://en.wikipedia.org/wiki/social_networking"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "title": "Snapchat, photo sharing",
+      "text": "Snapchat, photo sharing",
+      "references": [
+        {
+          "label": "Snapchat",
+          "url": "https://en.wikipedia.org/wiki/Snapchat"
+        },
+        {
+          "label": "photo sharing",
+          "url": "https://en.wikipedia.org/wiki/photo_sharing"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "title": "Coursera, massive open online courses",
+      "text": "Coursera, massive open online courses",
+      "references": [
+        {
+          "label": "Coursera",
+          "url": "https://en.wikipedia.org/wiki/Coursera"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "title": "ICANN begins accepting applications for new generic top-level domain n",
+      "text": "ICANN begins accepting applications for new generic top-level domain names",
+      "references": [
+        {
+          "label": "ICANN begins accepting applications for new generic top-level domain names",
+          "url": "https://en.wikipedia.org/wiki/Generic_top-level_domain%23New_top-level_domains"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "title": "Montevideo Statement on the Future of Internet Cooperation",
+      "text": "Montevideo Statement on the Future of Internet Cooperation",
+      "references": [
+        {
+          "label": "Montevideo Statement on the Future of Internet Cooperation",
+          "url": "https://en.wikipedia.org/wiki/Montevideo_Statement_on_the_Future_of_Internet_Cooperation"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "title": "NetMundial international Internet governance proposal",
+      "text": "NetMundial international Internet governance proposal",
+      "references": [
+        {
+          "label": "NetMundial international Internet governance proposal",
+          "url": "https://en.wikipedia.org/wiki/NetMundial_Initiative"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "ICANN contract with U",
+      "text": "ICANN contract with U.S. Dept. of Commerce ends, IANA oversight passes to the global Internet community on October 1st",
+      "references": [
+        {
+          "label": "ICANN",
+          "url": "https://en.wikipedia.org/wiki/ICANN"
+        },
+        {
+          "label": "IANA",
+          "url": "https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "TikTok, video sharing and social networking",
+      "text": "TikTok, video sharing and social networking",
+      "references": [
+        {
+          "label": "TikTok",
+          "url": "https://en.wikipedia.org/wiki/TikTok"
+        },
+        {
+          "label": "video sharing",
+          "url": "https://en.wikipedia.org/wiki/video_sharing"
+        },
+        {
+          "label": "social networking",
+          "url": "https://en.wikipedia.org/wiki/social_networking"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "The European Union's General Data Protection Regulation (GDPR) goes in",
+      "text": "The European Union's General Data Protection Regulation (GDPR) goes into effect, establishing stringent new global data privacy standards",
+      "references": [
+        {
+          "label": "General Data Protection Regulation",
+          "url": "https://en.wikipedia.org/wiki/General_Data_Protection_Regulation"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Global internet traffic experiences a massive surge due to the COVID-1",
+      "text": "Global internet traffic experiences a massive surge due to the COVID-19 pandemic, heavily accelerating remote work and digital communication platforms",
+      "references": [
+        {
+          "label": "COVID-19 pandemic",
+          "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Zoom experiences widespread global adoption during the COVID-19 pandem",
+      "text": "Zoom experiences widespread global adoption during the COVID-19 pandemic",
+      "references": [
+        {
+          "label": "Zoom",
+          "url": "https://en.wikipedia.org/wiki/Zoom_(software)"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "ChatGPT, a conversational generative AI chatbot released by OpenAI",
+      "text": "ChatGPT, a conversational generative AI chatbot released by OpenAI",
+      "references": [
+        {
+          "label": "ChatGPT",
+          "url": "https://en.wikipedia.org/wiki/ChatGPT"
+        },
+        {
+          "label": "generative AI",
+          "url": "https://en.wikipedia.org/wiki/generative_AI"
+        },
+        {
+          "label": "OpenAI",
+          "url": "https://en.wikipedia.org/wiki/OpenAI"
+        }
+      ]
+    }
+  ]
+}

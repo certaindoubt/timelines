@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Timeless &mdash; timeline</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#9201;</text></svg>" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <div class="progressbar" id="progress"></div>
+
+  <header class="top">
+    <div class="brand">
+      <span class="logo">&#9201;</span>
+      <h1>Time<span>less</span></h1>
+    </div>
+    <nav>
+      <a href="index.html">Timelines</a>
+      <span id="tl-count"></span>
+    </nav>
+  </header>
+
+  <main>
+    <section class="tl-header">
+      <div class="crumb"><a href="index.html">&larr; All timelines</a></div>
+      <h2 id="title"></h2>
+      <p class="tagline" id="tagline"></p>
+      <p class="src-notes" id="src-notes"></p>
+    </section>
+
+    <section class="tl-toolbar">
+      <button class="btn primary" id="playBtn" title="Play through the timeline">&#9654; Play</button>
+      <button class="btn" id="resetBtn" title="Scroll to the present">&#8634; Reset</button>
+      <span class="range" id="range"></span>
+    </section>
+
+    <section class="timeline" id="timeline"></section>
+
+    <div class="legend" id="legend"></div>
+  </main>
+
+  <footer>
+    <p>Every event links to its cited source. Facts are collected from Wikipedia; verify before reusing.</p>
+  </footer>
+
+  <script src="assets/common.js"></script>
+  <script type="module" src="timeline.js"></script>
+</body>
+</html>

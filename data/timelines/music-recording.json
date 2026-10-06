@@ -1,0 +1,125 @@
+{
+  "slug": "music-recording",
+  "title": "Music & Recording",
+  "tagline": "How recorded sound went from wax to streaming.",
+  "category": "Culture",
+  "icon": "🎵",
+  "color": "#f43f5e",
+  "source": "Curated; audio engineering history and Wikipedia.",
+  "via": "seed",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "date": "1877",
+      "year": 1877,
+      "title": "The phonograph is conceived",
+      "text": "Thomas Edison invents the phonograph, the first device able to both record and replay sound.",
+      "references": [
+        {
+          "label": "Phonograph history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Phonograph"
+        },
+        {
+          "label": "Edison’s phonograph — LOC",
+          "url": "https://www.loc.gov/exhibits/treasures/trm015.html"
+        }
+      ]
+    },
+    {
+      "date": "1948",
+      "year": 1948,
+      "title": "The long-playing record",
+      "text": "Columbia introduces the 33⅓ rpm LP, doubling album durations and transforming the music business.",
+      "references": [
+        {
+          "label": "LP record history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/LP_record"
+        },
+        {
+          "label": "Columbia Records introduces LP on June 18, 1948",
+          "url": "https://www.worldhistory.org/article/2500/the-first-lp-33-rpm-is-released/"
+        }
+      ]
+    },
+    {
+      "date": "1963",
+      "year": 1963,
+      "title": "The compact cassette",
+      "text": "Philips launches the cassette tape, portable recorded music for the masses.",
+      "references": [
+        {
+          "label": "Cassette tape history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cassette_tape"
+        },
+        {
+          "label": "Compact cassette — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cassette_tape"
+        }
+      ]
+    },
+    {
+      "date": "1982",
+      "year": 1982,
+      "title": "The CD: digital sound arrives",
+      "text": "Sony and Philips release the compact disc, bringing digital audio to consumers and triggering CD’s dominance.",
+      "references": [
+        {
+          "label": "Compact disc history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Compact_disc"
+        },
+        {
+          "label": "History of the CD — HowStuffWorks",
+          "url": "https://electronics.howstuffworks.com/cd1.htm"
+        }
+      ]
+    },
+    {
+      "date": "1999",
+      "year": 1999,
+      "title": "Napster: the internet disrupts music",
+      "text": "Napster’s peer-to-peer file sharing makes sharing music effortless, forcing a reinvention of the industry.",
+      "references": [
+        {
+          "label": "Napster history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Napster"
+        },
+        {
+          "label": "Peer-to-peer file sharing — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing"
+        }
+      ]
+    },
+    {
+      "date": "2001",
+      "year": 2001,
+      "title": "The iPod and iTunes",
+      "text": "Apple launches the iPod and iTunes, legitimising legal digital downloads and coining the phrase “put a thousand songs in your pocket”.",
+      "references": [
+        {
+          "label": "iPod history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/IPod"
+        },
+        {
+          "label": "iTunes history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/ITunes"
+        }
+      ]
+    },
+    {
+      "date": "2018",
+      "year": 2018,
+      "title": "Streaming becomes king",
+      "text": "Streaming platforms overtake digital downloads and physical formats to become the dominant way music is consumed worldwide.",
+      "references": [
+        {
+          "label": "Music streaming — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Music_streaming"
+        },
+        {
+          "label": "Streaming media — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Streaming_media"
+        }
+      ]
+    }
+  ]
+}

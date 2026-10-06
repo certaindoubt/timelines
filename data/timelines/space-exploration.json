@@ -1,0 +1,173 @@
+{
+  "slug": "space-exploration",
+  "title": "Space Exploration",
+  "tagline": "From Sputnik to the James Webb Space Telescope.",
+  "category": "Science",
+  "icon": "🚀",
+  "color": "#f59e0b",
+  "source": "Curated; NASA sources and Wikipedia.",
+  "via": "seed",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "date": "1957",
+      "year": 1957,
+      "title": "Sputnik 1 opens the space age",
+      "text": "The Soviet Union places Sputnik 1 into orbit, the first artificial satellite, triggering the Space Race.",
+      "references": [
+        {
+          "label": "NASA history: Sputnik",
+          "url": "https://www.nasa.gov/history/sputnik/"
+        },
+        {
+          "label": "Sputnik 1 — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sputnik_1"
+        }
+      ]
+    },
+    {
+      "date": "1961",
+      "year": 1961,
+      "title": "First human in space",
+      "text": "Yuri Gagarin completes one orbit of Earth aboard Vostok 1, becoming the first human in space.",
+      "references": [
+        {
+          "label": "NASA: Yuri Gagarin",
+          "url": "https://www.nasa.gov/image-article/yuri-gagarin-first-human-in-space/"
+        },
+        {
+          "label": "Vostok 1 — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vostok_1"
+        }
+      ]
+    },
+    {
+      "date": "1969",
+      "year": 1969,
+      "title": "Apollo 11 lands on the Moon",
+      "text": "Neil Armstrong and Buzz Aldrin walk on the lunar surface — humanity’s greatest-century achievement in space flight.",
+      "references": [
+        {
+          "label": "NASA: Apollo 11 mission",
+          "url": "https://www.nasa.gov/mission/apollo-11/"
+        },
+        {
+          "label": "Apollo 11 — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Apollo_11"
+        }
+      ]
+    },
+    {
+      "date": "1977",
+      "year": 1977,
+      "title": "Voyager grand tour launches",
+      "text": "Voyager 1 and 2 lift off to Jupiter, Saturn, Uranus and Neptune; they later reach interstellar space.",
+      "references": [
+        {
+          "label": "NASA JPL: Voyager",
+          "url": "https://voyager.jpl.nasa.gov/"
+        },
+        {
+          "label": "Voyager program — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Voyager_program"
+        }
+      ]
+    },
+    {
+      "date": "1990",
+      "year": 1990,
+      "title": "Hubble Space Telescope launches",
+      "text": "The Hubble Space Telescope begins observing, transforming astronomy and answering existential questions about the universe.",
+      "references": [
+        {
+          "label": "NASA: Hubble overview",
+          "url": "https://www.nasa.gov/mission/hubble/"
+        },
+        {
+          "label": "Hubble Space Telescope — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+        }
+      ]
+    },
+    {
+      "date": "1998",
+      "year": 1998,
+      "title": "The ISS takes shape",
+      "text": "The first modules of the International Space Station are launched, creating a permanently inhabited research platform in low Earth orbit.",
+      "references": [
+        {
+          "label": "NASA: ISS history",
+          "url": "https://www.nasa.gov/international-space-station/"
+        },
+        {
+          "label": "International Space Station — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/International_Space_Station"
+        }
+      ]
+    },
+    {
+      "date": "2012",
+      "year": 2012,
+      "title": "Curiosity lands on Mars",
+      "text": "The Curiosity rover performs a sky-crane landing in Gale crater and finds evidence of ancient habitable environments.",
+      "references": [
+        {
+          "label": "NASA JPL: Curiosity",
+          "url": "https://mars.nasa.gov/msl/"
+        },
+        {
+          "label": "Curiosity (rover) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Curiosity_(rover)"
+        }
+      ]
+    },
+    {
+      "date": "2015",
+      "year": 2015,
+      "title": "New Horizons reaches Pluto",
+      "text": "New Horizons flies past Pluto, returning the first close-up images of the dwarf planet and its moon Charon.",
+      "references": [
+        {
+          "label": "NASA: New Horizons",
+          "url": "https://www.nasa.gov/mission/new-horizons/"
+        },
+        {
+          "label": "New Horizons — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/New_Horizons"
+        }
+      ]
+    },
+    {
+      "date": "2020-05",
+      "year": 2020,
+      "title": "Crew Dragon: first commercial crewed flight",
+      "text": "SpaceX’s Crew Dragon Demo-2 carries NASA astronauts to the ISS, the first crewed launch from the US in nearly a decade and the first by a private company.",
+      "references": [
+        {
+          "label": "NASA: Crew-1 mission",
+          "url": "https://www.nasa.gov/mission/spacex-crew-1/"
+        },
+        {
+          "label": "Crew Dragon Demo-2 — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2"
+        }
+      ]
+    },
+    {
+      "date": "2021-12",
+      "year": 2021,
+      "title": "James Webb Space Telescope launches",
+      "text": "JWST lifts off, later opening a new infrared view of the early universe, from exoplanets to the cosmic dawn.",
+      "references": [
+        {
+          "label": "NASA: JWST mission",
+          "url": "https://science.nasa.gov/mission/webb/"
+        },
+        {
+          "label": "James Webb Space Telescope — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope"
+        }
+      ]
+    }
+  ]
+}

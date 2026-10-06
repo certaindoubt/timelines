@@ -1,0 +1,121 @@
+{
+  "slug": "artificial-intelligence",
+  "title": "Artificial Intelligence",
+  "tagline": "From the Turing test to foundation models.",
+  "category": "Technology",
+  "icon": "🤖",
+  "color": "#8b5cf6",
+  "source": "Curated; primary papers and Wikipedia.",
+  "events": [
+    {
+      "date": "1950",
+      "year": 1950,
+      "title": "The Turing test is proposed",
+      "text": "Alan Turing publishes \u201cComputing Machinery and Intelligence\u201d, asking whether machines can think and proposing the imitation game as a practical test.",
+      "references": [
+        { "label": "Turing (1950), Mind", "url": "https://doi.org/10.1093/mind/LIX.236.433" },
+        { "label": "Turing test \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Turing_test" }
+      ]
+    },
+    {
+      "date": "1956",
+      "year": 1956,
+      "title": "The Dartmouth workshop coins \u201cAI\u201d",
+      "text": "McCarthy, Minsky, Rochester and Shannon organise the summer workshop where the field formally names itself \u201cartificial intelligence\u201d.",
+      "references": [
+        { "label": "Dartmouth research proposal (1955)", "url": "https://raysolomonoff.com/dartmouth/boxa/dartmouthprops.pdf" },
+        { "label": "Dartmouth workshop \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Dartmouth_workshop" }
+      ]
+    },
+    {
+      "date": "1958",
+      "year": 1958,
+      "title": "The Perceptron",
+      "text": "Frank Rosenblatt builds the Mark I Perceptron, an early neural network for pattern recognition, igniting decades of connectionist research.",
+      "references": [
+        { "label": "Rosenblatt (1958), Psychological Review", "url": "https://doi.org/10.1037/h0042519" },
+        { "label": "Perceptron \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Perceptron" }
+      ]
+    },
+    {
+      "date": "1966",
+      "year": 1966,
+      "title": "ELIZA simulates a therapist",
+      "text": "Joseph Weizenbaum's ELIZA demonstrates conversational chatbot behaviour, showing how easily people anthropomorphise even simple scripts.",
+      "references": [
+        { "label": "Weizenbaum (1966), CACM", "url": "https://dl.acm.org/doi/10.1145/365153.365168" },
+        { "label": "ELIZA \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/ELIZA" }
+      ]
+    },
+    {
+      "date": "1986",
+      "year": 1986,
+      "title": "Backpropagation revival",
+      "text": "Rumelhart, Hinton and Williams popularise the backpropagation algorithm, making multi-layer neural network training practical.",
+      "references": [
+        { "label": "Rumelhart et al. (1986), Nature", "url": "https://www.nature.com/articles/323533a0" },
+        { "label": "Backpropagation \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Backpropagation" }
+      ]
+    },
+    {
+      "date": "1997",
+      "year": 1997,
+      "title": "Deep Blue beats Kasparov",
+      "text": "IBM's Deep Blue becomes the first computer to defeat a reigning world chess champion in a match, winning 3.5\u20132.5.",
+      "references": [
+        { "label": "Deep Blue \u2014 IBM history", "url": "https://www.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/" },
+        { "label": "Deep Blue \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)" }
+      ]
+    },
+    {
+      "date": "2012",
+      "year": 2012,
+      "title": "AlexNet wins ImageNet",
+      "text": "Krizhevsky, Sutskever and Hinton\u2019s deep convolutional network crushes the ImageNet competition, catalysing the modern deep-learning boom.",
+      "references": [
+        { "label": "AlexNet paper (NeurIPS 2012)", "url": "https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html" },
+        { "label": "AlexNet \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/AlexNet" }
+      ]
+    },
+    {
+      "date": "2016",
+      "year": 2016,
+      "title": "AlphaGo defeats Lee Sedol",
+      "text": "DeepMind\u2019s AlphaGo beats a world champion Go player 4\u20131, a milestone for reinforcement learning and search in strategy games.",
+      "references": [
+        { "label": "Silver et al. (2016), Nature", "url": "https://www.nature.com/articles/nature16961" },
+        { "label": "AlphaGo \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/AlphaGo" }
+      ]
+    },
+    {
+      "date": "2017",
+      "year": 2017,
+      "title": "Transformers arrive",
+      "text": "Vaswani et al. introduce the transformer architecture with self-attention, the foundation of most modern large language models.",
+      "references": [
+        { "label": "\u201cAttention Is All You Need\u201d (arXiv)", "url": "https://arxiv.org/abs/1706.03762" },
+        { "label": "Transformer \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)" }
+      ]
+    },
+    {
+      "date": "2020",
+      "year": 2020,
+      "title": "GPT-3: massive language models",
+      "text": "OpenAI\u2019s GPT-3 with 175 billion parameters shows emergent few-shot ability, foreshadowing the current era of foundation models.",
+      "references": [
+        { "label": "GPT-3 paper (arXiv)", "url": "https://arxiv.org/abs/2005.14165" },
+        { "label": "GPT-3 \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/GPT-3" }
+      ]
+    },
+    {
+      "date": "2022-11",
+      "year": 2022,
+      "title": "ChatGPT reaches the public",
+      "text": "OpenAI launches ChatGPT, bringing conversational generative AI to hundreds of millions of users within months.",
+      "references": [
+        { "label": "OpenAI ChatGPT announcement", "url": "https://openai.com/blog/chatgpt/" },
+        { "label": "ChatGPT \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/ChatGPT" }
+      ]
+    }
+  ]
+}

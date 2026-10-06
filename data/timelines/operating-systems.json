@@ -1,0 +1,300 @@
+{
+  "slug": "operating-systems",
+  "title": "Operating Systems",
+  "tagline": "The layer between humans and hardware.",
+  "category": "Technology",
+  "icon": "⚙️",
+  "color": "#64748b",
+  "source": "Generated from “Timeline of operating systems” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of operating systems",
+  "via": "wiki",
+  "generated": "2026-10-06",
+  "events": [
+    {
+      "year": 2022,
+      "title": "Slackware 15",
+      "text": "Slackware 15.0",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Ubuntu 22",
+      "text": "Ubuntu 22.04 (OpenBSD 7.1)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Ubuntu 22",
+      "text": "Ubuntu 22.10 (OpenBSD 7.2)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Android 14 (OpenBSD 7",
+      "text": "Android 14 (OpenBSD 7.4)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "ArcaOS 5",
+      "text": "ArcaOS 5.1.0 HarmonyOS NEXT beta (Linux 6.5)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Debian 12",
+      "text": "Debian 12.12",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Fedora Linux 38 Ubuntu 23",
+      "text": "Fedora Linux 38 Ubuntu 23.04 (OpenBSD 7.3)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Fedora Linux 39 (FreeBSD 14",
+      "text": "Fedora Linux 39 (FreeBSD 14.0)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "macOS Sonoma (14",
+      "text": "macOS Sonoma (14.0) iOS 17.0 iPadOS 17.0",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Android 15 (OpenBSD 7",
+      "text": "Android 15 (OpenBSD 7.6)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Fedora Linux 40 Ubuntu 24",
+      "text": "Fedora Linux 40 Ubuntu 24.04 (OpenBSD 7.5)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Haiku R1/beta5 (macOS Sequoia)",
+      "text": "Haiku R1/beta5 (macOS Sequoia)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Linux 6",
+      "text": "Linux 6.12 (Windows Server 2025)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "NetBSD 10",
+      "text": "NetBSD 10.0",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Android 16",
+      "text": "Android 16",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "ArcaOS 5",
+      "text": "ArcaOS 5.1.1",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Debian 13",
+      "text": "Debian 13.1",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "DragonFly BSD 6",
+      "text": "DragonFly BSD 6.4.2",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Fedora Linux 43 (OpenBSD 7",
+      "text": "Fedora Linux 43 (OpenBSD 7.8)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "FreeBSD 15",
+      "text": "FreeBSD 15.0",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "HarmonyOS 6",
+      "text": "HarmonyOS 6",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "IBM i 7",
+      "text": "IBM i 7.6 (Fedora Linux 42)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "macOS Tahoe",
+      "text": "macOS Tahoe",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "ReactOS 0",
+      "text": "ReactOS 0.4.15",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Linux 7",
+      "text": "Linux 7.0",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "macOS Golden Gate",
+      "text": "macOS Golden Gate",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of operating systems",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_operating_systems"
+        }
+      ]
+    }
+  ]
+}
