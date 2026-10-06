@@ -2,7 +2,7 @@
 
 Beautiful, explorable timelines about everything: science, technology, history, culture and more. A new timeline is generated every day, and every event links to its primary source.
 
-Live at **https://<your-username>.github.io/timeless/** (once published).
+Live at **https://certaindoubt.github.io/timelines/**.
 
 ## How it works
 
