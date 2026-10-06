@@ -11,30 +11,48 @@
       "date": "1826",
       "year": 1826,
       "title": "The first photograph",
-      "text": "Nic\u00e9phore Ni\u00e9pce produces \u201cView from the Window at Le Gras\u201d, the earliest surviving photograph, on a pewter plate.",
+      "text": "Nicéphore Niépce produces “View from the Window at Le Gras”, the earliest surviving photograph, on a pewter plate.",
       "references": [
-        { "label": "Heliography \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce" },
-        { "label": "First photograph \u2014 Harry Ransom Center", "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll9/id/67" }
+        {
+          "label": "Heliography — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce"
+        },
+        {
+          "label": "First photograph — Harry Ransom Center",
+          "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll9/id/67"
+        }
       ]
     },
     {
       "date": "1839",
       "year": 1839,
       "title": "The daguerreotype is revealed",
-      "text": "Daguerre\u2019s process (and Fox Talbot\u2019s calotype around the same time) gives the public a practical way to make permanent images.",
+      "text": "Daguerre’s process (and Fox Talbot’s calotype around the same time) gives the public a practical way to make permanent images.",
       "references": [
-        { "label": "Daguerreotype \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Daguerreotype" },
-        { "label": "History of photography \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_photography" }
+        {
+          "label": "Daguerreotype — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Daguerreotype"
+        },
+        {
+          "label": "History of photography — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_photography"
+        }
       ]
     },
     {
       "date": "1888",
       "year": 1888,
       "title": "Kodak: photography for everyone",
-      "text": "George Eastman\u2019s Kodak camera popularises roll film and the slogan \u201cYou press the button, we do the rest\u201d.",
+      "text": "George Eastman’s Kodak camera popularises roll film and the slogan “You press the button, we do the rest”.",
       "references": [
-        { "label": "Kodak history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Eastman_Kodak" },
-        { "label": "History of the Kodak camera \u2014 Kodak", "url": "https://www.kodak.com/en/motion/page/history/" }
+        {
+          "label": "Kodak history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eastman_Kodak"
+        },
+        {
+          "label": "History of the Kodak camera — Kodak",
+          "url": "https://www.kodak.com/en/motion/page/history/"
+        }
       ]
     },
     {
@@ -43,28 +61,46 @@
       "title": "Kodachrome brings colour",
       "text": "Kodachrome, the iconic colour film, is introduced, giving everyday photographers rich, archival colour.",
       "references": [
-        { "label": "Kodachrome \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Kodachrome" },
-        { "label": "Kodachrome milestones \u2014 Kodak", "url": "https://www.kodak.com/en/motion/page/history/" }
+        {
+          "label": "Kodachrome — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kodachrome"
+        },
+        {
+          "label": "Kodachrome milestones — Kodak",
+          "url": "https://www.kodak.com/en/motion/page/history/"
+        }
       ]
     },
     {
       "date": "1975",
       "year": 1975,
       "title": "The first digital camera",
-      "text": "Steven Sasson at Eastman Kodak builds the first self-contained digital camera \u2014 a 0.01 megapixel prototype.",
+      "text": "Steven Sasson at Eastman Kodak builds the first self-contained digital camera — a 0.01 megapixel prototype.",
       "references": [
-        { "label": "First digital camera \u2014 Crafted at Kodak", "url": "https://www.bbc.com/news/technology-29884002" },
-        { "label": "Digital camera history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Digital_camera" }
+        {
+          "label": "First digital camera — Crafted at Kodak",
+          "url": "https://www.bbc.com/news/technology-29884002"
+        },
+        {
+          "label": "Digital camera history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Digital_camera"
+        }
       ]
     },
     {
       "date": "2000",
       "year": 2000,
       "title": "The camera phone",
-      "text": "Sharp\u2019s J-SH04, sold in Japan, popularises the integrated camera phone, foreshadowing the universal camera.",
+      "text": "Sharp’s J-SH04, sold in Japan, popularises the integrated camera phone, foreshadowing the universal camera.",
       "references": [
-        { "label": "Camera phone history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Camera_phone" },
-        { "label": "Sharp J-SH04 \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/J-SH04" }
+        {
+          "label": "Camera phone history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Camera_phone"
+        },
+        {
+          "label": "Sharp J-SH04 — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/J-SH04"
+        }
       ]
     },
     {
@@ -73,9 +109,16 @@
       "title": "The smartphone camera",
       "text": "The iPhone (and Android successors) put a capable camera plus instant sharing in every pocket, ending the point-and-shoot era.",
       "references": [
-        { "label": "iPhone camera history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/IPhone" },
-        { "label": "The rise of the smartphone camera", "url": "https://en.wikipedia.org/wiki/Mobile_phone_camera" }
+        {
+          "label": "iPhone camera history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/IPhone"
+        },
+        {
+          "label": "The rise of the smartphone camera",
+          "url": "https://en.wikipedia.org/wiki/Mobile_phone_camera"
+        }
       ]
     }
-  ]
+  ],
+  "popularity": 86
 }

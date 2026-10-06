@@ -13,18 +13,30 @@
       "title": "First crewed balloon flight",
       "text": "A hot-air balloon built by the Montgolfier brothers carries the first humans into the air over Paris.",
       "references": [
-        { "label": "Montgolfier brothers \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Montgolfier_brothers" },
-        { "label": "History of aviation \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_aviation" }
+        {
+          "label": "Montgolfier brothers — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Montgolfier_brothers"
+        },
+        {
+          "label": "History of aviation — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_aviation"
+        }
       ]
     },
     {
       "date": "1903",
       "year": 1903,
       "title": "First powered controlled flight",
-      "text": "The Wright brothers\u2019 Flyer achieves the first sustained, controlled powered flight at Kitty Hawk.",
+      "text": "The Wright brothers’ Flyer achieves the first sustained, controlled powered flight at Kitty Hawk.",
       "references": [
-        { "label": "Wright brothers\u2019 first flight \u2014 Smithsonian", "url": "https://airandspace.si.edu/exhibitions/wright-brothers-and-invention-aerial-age" },
-        { "label": "Wright Flyer \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Wright_Flyer" }
+        {
+          "label": "Wright brothers’ first flight — Smithsonian",
+          "url": "https://airandspace.si.edu/exhibitions/wright-brothers-and-invention-aerial-age"
+        },
+        {
+          "label": "Wright Flyer — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wright_Flyer"
+        }
       ]
     },
     {
@@ -33,8 +45,14 @@
       "title": "Lindbergh flies the Atlantic solo",
       "text": "Charles Lindbergh crosses the Atlantic nonstop in the Spirit of St. Louis, electrifying the world and boosting aviation.",
       "references": [
-        { "label": "Lindbergh\u2019s flight \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Charles_Lindbergh" },
-        { "label": "Spirit of St. Louis \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Spirit_of_St._Louis" }
+        {
+          "label": "Lindbergh’s flight — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Charles_Lindbergh"
+        },
+        {
+          "label": "Spirit of St. Louis — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Spirit_of_St._Louis"
+        }
       ]
     },
     {
@@ -43,8 +61,14 @@
       "title": "Breaking the sound barrier",
       "text": "Chuck Yeager pilots the Bell X-1 past Mach 1, proving controlled supersonic flight possible.",
       "references": [
-        { "label": "Bell X-1 \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Bell_X-1" },
-        { "label": "Chuck Yeager \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Chuck_Yeager" }
+        {
+          "label": "Bell X-1 — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bell_X-1"
+        },
+        {
+          "label": "Chuck Yeager — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Yeager"
+        }
       ]
     },
     {
@@ -53,8 +77,14 @@
       "title": "The jet age takes off",
       "text": "The de Havilland Comet (1952) and Boeing 707 (from 1958) make jet air travel mainstream.",
       "references": [
-        { "label": "Boeing 707 \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Boeing_707" },
-        { "label": "De Havilland Comet \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/De_Havilland_Comet" }
+        {
+          "label": "Boeing 707 — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Boeing_707"
+        },
+        {
+          "label": "De Havilland Comet — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/De_Havilland_Comet"
+        }
       ]
     },
     {
@@ -63,8 +93,14 @@
       "title": "Concorde and the 747",
       "text": "The 747 jumbo jet and Concorde supersonic airliner both fly, symbolising the peak of 20th-century air travel.",
       "references": [
-        { "label": "Concorde \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Concorde" },
-        { "label": "Boeing 747 \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Boeing_747" }
+        {
+          "label": "Concorde — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Concorde"
+        },
+        {
+          "label": "Boeing 747 — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Boeing_747"
+        }
       ]
     },
     {
@@ -72,11 +108,17 @@
       "year": 2005,
       "title": "The A380 superjumbo",
       "text": "The Airbus A380 makes its first flight, becoming the largest passenger airliner ever built.",
-      "references":
-      [
-        { "label": "Airbus A380 \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Airbus_A380" },
-        { "label": "A380 first flight \u2014 Airbus", "url": "https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft/a380" }
+      "references": [
+        {
+          "label": "Airbus A380 — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Airbus_A380"
+        },
+        {
+          "label": "A380 first flight — Airbus",
+          "url": "https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft/a380"
+        }
       ]
     }
-  ]
+  ],
+  "popularity": 88
 }

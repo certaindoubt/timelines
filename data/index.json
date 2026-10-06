@@ -12,7 +12,8 @@
     "to": 2022,
     "generated": "2026-10-06",
     "via": "seed",
-    "wikiPage": null
+    "wikiPage": null,
+    "popularity": 97
   },
   {
     "slug": "black-holes",
@@ -27,7 +28,8 @@
     "to": 2022,
     "generated": "2026-10-06",
     "via": "wiki",
-    "wikiPage": "Timeline of black hole physics"
+    "wikiPage": "Timeline of black hole physics",
+    "popularity": 98
   },
   {
     "slug": "computing-1980-1989",
@@ -42,7 +44,8 @@
     "to": 1989,
     "generated": "2026-10-06",
     "via": "wiki",
-    "wikiPage": "Timeline of computing 1980–1989"
+    "wikiPage": "Timeline of computing 1980–1989",
+    "popularity": 88
   },
   {
     "slug": "computing-internet",
@@ -57,7 +60,8 @@
     "to": 2009,
     "generated": "2026-10-06",
     "via": "seed",
-    "wikiPage": null
+    "wikiPage": null,
+    "popularity": 93
   },
   {
     "slug": "deep-sea-exploration",
@@ -72,7 +76,8 @@
     "to": 2019,
     "generated": "2026-10-06",
     "via": "seed",
-    "wikiPage": null
+    "wikiPage": null,
+    "popularity": 79
   },
   {
     "slug": "flight-aviation",
@@ -87,7 +92,8 @@
     "to": 2005,
     "generated": "2026-10-06",
     "via": "seed",
-    "wikiPage": null
+    "wikiPage": null,
+    "popularity": 88
   },
   {
     "slug": "genetics-dna",
@@ -102,7 +108,8 @@
     "to": 2020,
     "generated": "2026-10-06",
     "via": "seed",
-    "wikiPage": null
+    "wikiPage": null,
+    "popularity": 90
   },
   {
     "slug": "inventions-that-changed-the-world",
@@ -117,7 +124,8 @@
     "to": 2400,
     "generated": "2026-10-06",
     "via": "wiki",
-    "wikiPage": "Timeline of historic inventions"
+    "wikiPage": "Timeline of historic inventions",
+    "popularity": 93
   },
   {
     "slug": "materials-technology",
@@ -132,7 +140,8 @@
     "to": 1986,
     "generated": "2026-10-06",
     "via": "wiki",
-    "wikiPage": "Timeline of materials technology"
+    "wikiPage": "Timeline of materials technology",
+    "popularity": 85
   },
   {
     "slug": "mathematics",
@@ -147,7 +156,8 @@
     "to": 2023,
     "generated": "2026-10-06",
     "via": "wiki",
-    "wikiPage": "Timeline of mathematics"
+    "wikiPage": "Timeline of mathematics",
+    "popularity": 92
   },
   {
     "slug": "music-recording",
@@ -162,7 +172,8 @@
     "to": 2018,
     "generated": "2026-10-06",
     "via": "seed",
-    "wikiPage": null
+    "wikiPage": null,
+    "popularity": 84
   },
   {
     "slug": "operating-systems",
@@ -177,7 +188,8 @@
     "to": 2026,
     "generated": "2026-10-06",
     "via": "wiki",
-    "wikiPage": "Timeline of operating systems"
+    "wikiPage": "Timeline of operating systems",
+    "popularity": 89
   },
   {
     "slug": "photography",
@@ -192,7 +204,8 @@
     "to": 2007,
     "generated": "2026-10-06",
     "via": "seed",
-    "wikiPage": null
+    "wikiPage": null,
+    "popularity": 86
   },
   {
     "slug": "programming-languages",
@@ -207,7 +220,8 @@
     "to": 2015,
     "generated": "2026-10-06",
     "via": "seed",
-    "wikiPage": null
+    "wikiPage": null,
+    "popularity": 92
   },
   {
     "slug": "quantum-computing",
@@ -222,7 +236,8 @@
     "to": 2023,
     "generated": "2026-10-06",
     "via": "seed",
-    "wikiPage": null
+    "wikiPage": null,
+    "popularity": 91
   },
   {
     "slug": "scientific-discoveries",
@@ -237,7 +252,8 @@
     "to": 2100,
     "generated": "2026-10-06",
     "via": "wiki",
-    "wikiPage": "Timeline of scientific discoveries"
+    "wikiPage": "Timeline of scientific discoveries",
+    "popularity": 94
   },
   {
     "slug": "space-exploration",
@@ -252,7 +268,8 @@
     "to": 2021,
     "generated": "2026-10-06",
     "via": "seed",
-    "wikiPage": null
+    "wikiPage": null,
+    "popularity": 95
   },
   {
     "slug": "spaceflight",
@@ -267,7 +284,8 @@
     "to": 2034,
     "generated": "2026-10-06",
     "via": "wiki",
-    "wikiPage": "Timeline of spaceflight"
+    "wikiPage": "Timeline of spaceflight",
+    "popularity": 91
   },
   {
     "slug": "telescopes-observatories",
@@ -282,7 +300,8 @@
     "to": 2027,
     "generated": "2026-10-06",
     "via": "wiki",
-    "wikiPage": "Timeline of telescopes, observatories, and observing technology"
+    "wikiPage": "Timeline of telescopes, observatories, and observing technology",
+    "popularity": 90
   },
   {
     "slug": "the-internet",
@@ -297,7 +316,8 @@
     "to": 2022,
     "generated": "2026-10-06",
     "via": "wiki",
-    "wikiPage": "Timeline of the history of the Internet"
+    "wikiPage": "Timeline of the history of the Internet",
+    "popularity": 97
   },
   {
     "slug": "the-telephone",
@@ -312,7 +332,8 @@
     "to": 2007,
     "generated": "2026-10-06",
     "via": "wiki",
-    "wikiPage": "Timeline of the telephone"
+    "wikiPage": "Timeline of the telephone",
+    "popularity": 87
   },
   {
     "slug": "world-wide-web",
@@ -327,6 +348,7 @@
     "to": 2014,
     "generated": "2026-10-06",
     "via": "seed",
-    "wikiPage": null
+    "wikiPage": null,
+    "popularity": 96
   }
 ]

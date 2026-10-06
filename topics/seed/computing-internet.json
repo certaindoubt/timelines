@@ -13,8 +13,14 @@
       "title": "ENIAC is completed",
       "text": "The Electronic Numerical Integrator and Computer, the first large general-purpose electronic computer, is unveiled at the University of Pennsylvania.",
       "references": [
-        { "label": "ENIAC museum documentation", "url": "https://en.wikipedia.org/wiki/ENIAC" },
-        { "label": "ENIAC \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/ENIAC" }
+        {
+          "label": "ENIAC museum documentation",
+          "url": "https://en.wikipedia.org/wiki/ENIAC"
+        },
+        {
+          "label": "ENIAC — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/ENIAC"
+        }
       ]
     },
     {
@@ -23,18 +29,30 @@
       "title": "FORTRAN is released",
       "text": "IBM ships FORTRAN, the first widely used high-level programming language, making computers approachable for scientists and engineers.",
       "references": [
-        { "label": "IBM FORTRAN history", "url": "https://en.wikipedia.org/wiki/Fortran" },
-        { "label": "FORTRAN \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Fortran" }
+        {
+          "label": "IBM FORTRAN history",
+          "url": "https://en.wikipedia.org/wiki/Fortran"
+        },
+        {
+          "label": "FORTRAN — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fortran"
+        }
       ]
     },
     {
       "date": "1969",
       "year": 1969,
       "title": "ARPANET sends its first message",
-      "text": "The ARPANET (predecessor of the internet) sends \u201cLO\u201d between UCLA and Stanford, the first data sent between two connected computers.",
+      "text": "The ARPANET (predecessor of the internet) sends “LO” between UCLA and Stanford, the first data sent between two connected computers.",
       "references": [
-        { "label": "DARPA ARPANET history", "url": "https://www.darpa.mil/about-us/timeline/arpanet" },
-        { "label": "ARPANET \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/ARPANET" }
+        {
+          "label": "DARPA ARPANET history",
+          "url": "https://www.darpa.mil/about-us/timeline/arpanet"
+        },
+        {
+          "label": "ARPANET — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/ARPANET"
+        }
       ]
     },
     {
@@ -43,8 +61,14 @@
       "title": "The first email is sent",
       "text": "Ray Tomlinson sends the first network email on ARPANET and popularises the @ symbol for addressing.",
       "references": [
-        { "label": "Email \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Email" },
-        { "label": "Ray Tomlinson \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Ray_Tomlinson" }
+        {
+          "label": "Email — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Email"
+        },
+        {
+          "label": "Ray Tomlinson — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ray_Tomlinson"
+        }
       ]
     },
     {
@@ -53,18 +77,30 @@
       "title": "Apple I kicks off the PC era",
       "text": "Steve Wozniak and Steve Jobs release the Apple I, putting a personal computer in the hands of individuals rather than institutions.",
       "references": [
-        { "label": "Apple I \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Apple_I" },
-        { "label": "Personal computer \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Personal_computer" }
+        {
+          "label": "Apple I — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Apple_I"
+        },
+        {
+          "label": "Personal computer — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Personal_computer"
+        }
       ]
     },
     {
       "date": "1989",
       "year": 1989,
       "title": "The World Wide Web is invented",
-      "text": "Tim Berners-Lee proposes the World Wide Web at CERN \u2014 a hypertext system that becomes the face of the internet.",
+      "text": "Tim Berners-Lee proposes the World Wide Web at CERN — a hypertext system that becomes the face of the internet.",
       "references": [
-        { "label": "CERN: the birth of the web", "url": "https://home.cern/science/computing/birth-web" },
-        { "label": "World Wide Web \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/World_Wide_Web" }
+        {
+          "label": "CERN: the birth of the web",
+          "url": "https://home.cern/science/computing/birth-web"
+        },
+        {
+          "label": "World Wide Web — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/World_Wide_Web"
+        }
       ]
     },
     {
@@ -73,8 +109,14 @@
       "title": "Mosaic makes the web visual",
       "text": "The Mosaic browser popularises images inside web pages, transforming the web from text-only to the graphical internet.",
       "references": [
-        { "label": "NCSA Mosaic \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Mosaic_(web_browser)" },
-        { "label": "History of the web browser \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_the_web_browser" }
+        {
+          "label": "NCSA Mosaic — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mosaic_(web_browser)"
+        },
+        {
+          "label": "History of the web browser — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_the_web_browser"
+        }
       ]
     },
     {
@@ -83,8 +125,14 @@
       "title": "Google is founded",
       "text": "Larry Page and Sergey Brin found Google, whose PageRank algorithm revamps web search and defines the commercial internet.",
       "references": [
-        { "label": "Google company history", "url": "https://about.google/our-story/" },
-        { "label": "PageRank \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/PageRank" }
+        {
+          "label": "Google company history",
+          "url": "https://about.google/our-story/"
+        },
+        {
+          "label": "PageRank — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/PageRank"
+        }
       ]
     },
     {
@@ -93,8 +141,14 @@
       "title": "The iPhone arrives",
       "text": "Apple introduces the iPhone, ushering in the smartphone era and permanently changing how people access the internet.",
       "references": [
-        { "label": "Apple newsroom: iPhone", "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/" },
-        { "label": "iPhone (1st generation) \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/iPhone_(1st_generation)" }
+        {
+          "label": "Apple newsroom: iPhone",
+          "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/"
+        },
+        {
+          "label": "iPhone (1st generation) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/iPhone_(1st_generation)"
+        }
       ]
     },
     {
@@ -103,9 +157,16 @@
       "title": "Bitcoin creates decentralised internet money",
       "text": "The Bitcoin network launches, introducing blockchain and a cryptocurrency that does not depend on banks or the state.",
       "references": [
-        { "label": "Bitcoin \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Bitcoin" },
-        { "label": "Satoshi Nakamoto\u2019s whitepaper", "url": "https://bitcoin.org/bitcoin.pdf" }
+        {
+          "label": "Bitcoin — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bitcoin"
+        },
+        {
+          "label": "Satoshi Nakamoto’s whitepaper",
+          "url": "https://bitcoin.org/bitcoin.pdf"
+        }
       ]
     }
-  ]
+  ],
+  "popularity": 93
 }

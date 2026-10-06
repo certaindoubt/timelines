@@ -28,6 +28,7 @@ function compileSeeds() {
       source: t.source || 'Curated timeline with references.',
       via: 'seed',
       generated: '2026-10-06',
+      popularity: t.popularity ?? 50 + Math.min(t.events.length, 30),
       events: t.events,
     };
     const target = join(TIMELINES_DIR, timeline.slug + '.json');

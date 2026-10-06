@@ -13,8 +13,14 @@
       "title": "The Challenger Expedition",
       "text": "The HMS Challenger sails on the first global oceanographic expedition, founding the science of oceanography.",
       "references": [
-        { "label": "Challenger expedition \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Challenger_expedition" },
-        { "label": "Oceanography \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Oceanography" }
+        {
+          "label": "Challenger expedition — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Challenger_expedition"
+        },
+        {
+          "label": "Oceanography — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Oceanography"
+        }
       ]
     },
     {
@@ -23,18 +29,30 @@
       "title": "First deep-sea descent",
       "text": "William Beebe and Otis Barton descend in a bathysphere, taking humans to then-unprecedented depths.",
       "references": [
-        { "label": "Bathysphere \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Bathysphere" },
-        { "label": "William Beebe \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/William_Beebe" }
+        {
+          "label": "Bathysphere — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bathysphere"
+        },
+        {
+          "label": "William Beebe — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/William_Beebe"
+        }
       ]
     },
     {
       "date": "1960",
       "year": 1960,
       "title": "The deepest point is reached",
-      "text": "Jacques Piccard and Don Walsh descend to the bottom of the Mariana Trench in the bathyscaphe Trieste \u2014 about 10,916 m down.",
+      "text": "Jacques Piccard and Don Walsh descend to the bottom of the Mariana Trench in the bathyscaphe Trieste — about 10,916 m down.",
       "references": [
-        { "label": "Trieste (bathyscaphe) \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)" },
-        { "label": "Mariana Trench \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Mariana_Trench" }
+        {
+          "label": "Trieste (bathyscaphe) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)"
+        },
+        {
+          "label": "Mariana Trench — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mariana_Trench"
+        }
       ]
     },
     {
@@ -43,8 +61,14 @@
       "title": "Hydrothermal vents discovered",
       "text": "Scientists aboard the submersible Alvin discover deep-sea hydrothermal vents and their astonishing ecosystems.",
       "references": [
-        { "label": "Hydrothermal vents \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Hydrothermal_vent" },
-        { "label": "Alvin (submersible) \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Alvin_(submersible)" }
+        {
+          "label": "Hydrothermal vents — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hydrothermal_vent"
+        },
+        {
+          "label": "Alvin (submersible) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alvin_(submersible)"
+        }
       ]
     },
     {
@@ -53,8 +77,14 @@
       "title": "The wreck of the Titanic is found",
       "text": "Robert Ballard and colleagues locate the Titanic 3,800 m down, demonstrating deep mapping and spawning modern deep-sea archaeology.",
       "references": [
-        { "label": "Wreck of the Titanic \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Wreck_of_the_Titanic" },
-        { "label": "Robert Ballard \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Robert_Ballard" }
+        {
+          "label": "Wreck of the Titanic — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wreck_of_the_Titanic"
+        },
+        {
+          "label": "Robert Ballard — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Robert_Ballard"
+        }
       ]
     },
     {
@@ -63,19 +93,32 @@
       "title": "James Cameron returns to the trench",
       "text": "James Cameron pilots the DEEPSEA CHALLENGER solo to the bottom of the Mariana Trench, the first single-person descent.",
       "references": [
-        { "label": "DEEPSEA CHALLENGER \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Deepsea_Challenger" },
-        { "label": "James Cameron\u2019s descent \u2014 National Geographic", "url": "https://www.nationalgeographic.com/science/article/deepsea-challenger" }
+        {
+          "label": "DEEPSEA CHALLENGER — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Deepsea_Challenger"
+        },
+        {
+          "label": "James Cameron’s descent — National Geographic",
+          "url": "https://www.nationalgeographic.com/science/article/deepsea-challenger"
+        }
       ]
     },
     {
       "date": "2019",
       "year": 2019,
       "title": "The Five Deeps Expedition",
-      "text": "The Five Deeps expedition maps all five of Earth\u2019s deepest ocean trenches, two years ahead of schedule.",
+      "text": "The Five Deeps expedition maps all five of Earth’s deepest ocean trenches, two years ahead of schedule.",
       "references": [
-        { "label": "Five Deeps Expedition \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Five_Deeps_Expedition" },
-        { "label": "Five Deeps overview \u2014 official", "url": "https://fivedeeps.com/home/" }
+        {
+          "label": "Five Deeps Expedition — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Five_Deeps_Expedition"
+        },
+        {
+          "label": "Five Deeps overview — official",
+          "url": "https://fivedeeps.com/home/"
+        }
       ]
     }
-  ]
+  ],
+  "popularity": 79
 }

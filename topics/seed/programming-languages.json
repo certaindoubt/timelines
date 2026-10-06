@@ -10,21 +10,33 @@
     {
       "date": "1957",
       "year": 1957,
-      "title": "FORTRAN\u2019s debut",
+      "title": "FORTRAN’s debut",
       "text": "The first high-level programming language with a compiler, FORTRAN makes scientific computing practical.",
       "references": [
-        { "label": "FORTRAN history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Fortran" },
-        { "label": "John Backus \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/John_Backus" }
+        {
+          "label": "FORTRAN history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fortran"
+        },
+        {
+          "label": "John Backus — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_Backus"
+        }
       ]
     },
     {
       "date": "1958",
       "year": 1958,
-      "title": "Lisp: AI\u2019s native tongue",
+      "title": "Lisp: AI’s native tongue",
       "text": "John McCarthy designs Lisp, pioneering functional programming and becoming the language of early AI research.",
       "references": [
-        { "label": "Lisp history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Lisp_(programming_language)" },
-        { "label": "John McCarthy \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)" }
+        {
+          "label": "Lisp history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lisp_(programming_language)"
+        },
+        {
+          "label": "John McCarthy — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)"
+        }
       ]
     },
     {
@@ -33,8 +45,14 @@
       "title": "C arrives",
       "text": "Dennis Ritchie creates C at Bell Labs; it becomes the lingua franca of systems programming.",
       "references": [
-        { "label": "C history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/C_(programming_language)" },
-        { "label": "Dennis Ritchie \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Dennis_Ritchie" }
+        {
+          "label": "C history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/C_(programming_language)"
+        },
+        {
+          "label": "Dennis Ritchie — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dennis_Ritchie"
+        }
       ]
     },
     {
@@ -43,8 +61,14 @@
       "title": "Python is released",
       "text": "Guido van Rossum releases Python, a readable and versatile language later adopted across science and AI.",
       "references": [
-        { "label": "Python history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_Python" },
-        { "label": "Python programming language \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Python_(programming_language)" }
+        {
+          "label": "Python history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_Python"
+        },
+        {
+          "label": "Python programming language — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Python_(programming_language)"
+        }
       ]
     },
     {
@@ -53,8 +77,14 @@
       "title": "JavaScript runs the web",
       "text": "Brendan Eich creates JavaScript in ten days at Netscape, embedding it in every web browser.",
       "references": [
-        { "label": "JavaScript history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/JavaScript" },
-        { "label": "Brendan Eich \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Brendan_Eich" }
+        {
+          "label": "JavaScript history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/JavaScript"
+        },
+        {
+          "label": "Brendan Eich — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Brendan_Eich"
+        }
       ]
     },
     {
@@ -63,8 +93,14 @@
       "title": "Go is announced",
       "text": "Google releases Go, designed for concurrency and large-scale systems at a time of multicore CPUs.",
       "references": [
-        { "label": "Go history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Go_(programming_language)" },
-        { "label": "The Go Programming Language", "url": "https://go.dev/" }
+        {
+          "label": "Go history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Go_(programming_language)"
+        },
+        {
+          "label": "The Go Programming Language",
+          "url": "https://go.dev/"
+        }
       ]
     },
     {
@@ -73,9 +109,16 @@
       "title": "Rust hits 1.0",
       "text": "Mozilla ships Rust 1.0, a memory-safe systems language that later wins hearts (and memory bugs) across industry.",
       "references": [
-        { "label": "Rust 1.0 announcement", "url": "https://blog.rust-lang.org/2015/05/15/Rust-1.0.html" },
-        { "label": "Rust history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Rust_(programming_language)" }
+        {
+          "label": "Rust 1.0 announcement",
+          "url": "https://blog.rust-lang.org/2015/05/15/Rust-1.0.html"
+        },
+        {
+          "label": "Rust history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rust_(programming_language)"
+        }
       ]
     }
-  ]
+  ],
+  "popularity": 92
 }

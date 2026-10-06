@@ -319,6 +319,7 @@ export async function generateFromWikipedia(config, { force = false } = {}) {
     wikiPage: pageTitle,
     via: 'wiki',
     generated: today,
+    popularity: config.popularity ?? 40 + Math.min(events.length, 30),
     events,
   };
 

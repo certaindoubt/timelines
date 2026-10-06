@@ -11,20 +11,32 @@
       "date": "1989",
       "year": 1989,
       "title": "The proposal",
-      "text": "Tim Berners-Lee at CERN circulates \u201cInformation Management: A Proposal\u201d, outlining a hypertext system \u2014 born of a need to share the web of his own scattered notes.",
+      "text": "Tim Berners-Lee at CERN circulates “Information Management: A Proposal”, outlining a hypertext system — born of a need to share the web of his own scattered notes.",
       "references": [
-        { "label": "Information Management: A Proposal (1989)", "url": "https://www.w3.org/History/1989/proposal.html" },
-        { "label": "World Wide Web \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/World_Wide_Web" }
+        {
+          "label": "Information Management: A Proposal (1989)",
+          "url": "https://www.w3.org/History/1989/proposal.html"
+        },
+        {
+          "label": "World Wide Web — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/World_Wide_Web"
+        }
       ]
     },
     {
       "date": "1990",
       "year": 1990,
       "title": "The first web server",
-      "text": "Berners-Lee builds the first web browser/editor and server, connecting the world\u2019s first website \u2014 info.cern.ch \u2014 to the internet.",
+      "text": "Berners-Lee builds the first web browser/editor and server, connecting the world’s first website — info.cern.ch — to the internet.",
       "references": [
-        { "label": "CERN: the first website", "url": "https://info.cern.ch/ " },
-        { "label": "Timeline of the web \u2014 W3C", "url": "https://www.w3.org/2004/Talks/w3c10-HowItAllStarted/" }
+        {
+          "label": "CERN: the first website",
+          "url": "https://info.cern.ch/ "
+        },
+        {
+          "label": "Timeline of the web — W3C",
+          "url": "https://www.w3.org/2004/Talks/w3c10-HowItAllStarted/"
+        }
       ]
     },
     {
@@ -32,10 +44,15 @@
       "year": 1991,
       "title": "The web goes public",
       "text": "The web becomes usable by anyone as Berners-Lee announces it on alt.hypertext and places it on the open internet.",
-      "references":
-      [
-        { "label": "WorldWideWeb announcement \u2014 usenet", "url": "https://groups.google.com/g/alt.hypertext/c/qCTiuZB60jU" },
-        { "label": "Website era history \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Web_browser" }
+      "references": [
+        {
+          "label": "WorldWideWeb announcement — usenet",
+          "url": "https://groups.google.com/g/alt.hypertext/c/qCTiuZB60jU"
+        },
+        {
+          "label": "Website era history — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Web_browser"
+        }
       ]
     },
     {
@@ -44,8 +61,14 @@
       "title": "The Web becomes visual",
       "text": "Mosaic, the graphical browser at NCSA, puts images inline and popularises the web for ordinary people.",
       "references": [
-        { "label": "NCSA Mosaic \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/NCSA_Mosaic" },
-        { "label": "History of the browser \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_web_browsers" }
+        {
+          "label": "NCSA Mosaic — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/NCSA_Mosaic"
+        },
+        {
+          "label": "History of the browser — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_web_browsers"
+        }
       ]
     },
     {
@@ -54,18 +77,30 @@
       "title": "The W3C is founded",
       "text": "Berners-Lee founds the World Wide Web Consortium (W3C) at MIT to set web standards, instead of letting companies own the web.",
       "references": [
-        { "label": "W3C founding \u2014 official", "url": "https://www.w3.org/Consortium/facts" },
-        { "label": "World Wide Web Consortium \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/World_Wide_Web_Consortium" }
+        {
+          "label": "W3C founding — official",
+          "url": "https://www.w3.org/Consortium/facts"
+        },
+        {
+          "label": "World Wide Web Consortium — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/World_Wide_Web_Consortium"
+        }
       ]
     },
     {
       "date": "2004",
       "year": 2004,
       "title": "Web 2.0: the web starts to talk back",
-      "text": "The term \u201cWeb 2.0\u201d takes off, marking the shift to user-generated content, social media and interactive pages.",
+      "text": "The term “Web 2.0” takes off, marking the shift to user-generated content, social media and interactive pages.",
       "references": [
-        { "label": "What Is Web 2.0 (O\u2019Reilly 2005)", "url": "https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html" },
-        { "label": "Web 2.0 \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Web_2.0" }
+        {
+          "label": "What Is Web 2.0 (O’Reilly 2005)",
+          "url": "https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html"
+        },
+        {
+          "label": "Web 2.0 — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Web_2.0"
+        }
       ]
     },
     {
@@ -74,9 +109,16 @@
       "title": "The Web turned into the mobile web",
       "text": "Mobile overtakes desktop as the primary web access medium worldwide, reshaping design, speed and search.",
       "references": [
-        { "label": "Mobile web \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Mobile_web" },
-        { "label": "Responsive web design \u2014 Wikipedia", "url": "https://en.wikipedia.org/wiki/Responsive_web_design" }
+        {
+          "label": "Mobile web — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mobile_web"
+        },
+        {
+          "label": "Responsive web design — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Responsive_web_design"
+        }
       ]
     }
-  ]
+  ],
+  "popularity": 96
 }

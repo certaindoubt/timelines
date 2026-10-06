@@ -118,6 +118,7 @@ export function makeIndexEntry(t) {
     generated: t.generated || '',
     via: t.via || 'seed',
     wikiPage: t.wikiPage || null,
+    popularity: t.popularity ?? 40 + Math.min(t.events.length, 30),
   };
 }
 
