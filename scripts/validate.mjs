@@ -49,10 +49,12 @@ function validate(t) {
 
   // flags worth a manual look: heavy clustering of recent years often signals
   // BC dates misparsed as AD (e.g. "2000 BC" -> 2000) or a truncated source.
+  // Skip timelines whose title/slug intentionally covers one era (e.g. Computing 2000-2009).
   const modern = years.filter((y) => y > 1980 && y <= 2026).length;
+  const era = `${t.slug} ${t.title}`.match(/(18|19|20)\d{2}/g) || [];
   const allRecent =
     modern === years.length && (max - min) < 40 && min > 1950;
-  if (allRecent && years.length >= MAX_EVENTS) {
+  if (allRecent && years.length >= MAX_EVENTS && era.length === 0) {
     console.log(`  [warn] ${t.slug}: all ${years.length} events cluster in ${min}-${max}; verify dates`);
     failures++;
   }

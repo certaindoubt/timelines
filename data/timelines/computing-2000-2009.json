@@ -12,31 +12,185 @@
   "popularity": 66,
   "events": [
     {
+      "year": 2000,
+      "title": "AMD released an Athlon clocked at 1 GHz",
+      "text": "AMD released an Athlon clocked at 1 GHz.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "IBM delivers the ASCI White supercomputer to the U",
+      "text": "IBM delivers the ASCI White supercomputer to the U.S. Department of Energy. This supercomputer was capable of performing 12.3 teraflops, making it the world's fastest at the time.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Microsoft releases Windows 2000",
+      "text": "Microsoft releases Windows 2000.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "RSA Security released their RSA algorithm into the public domain, in a",
+      "text": "RSA Security released their RSA algorithm into the public domain, in advance of the US patent (#4,405,829) expiring on September 20 of the same year. Following the relaxation of the US government restrictions earlier in the year (January 14) this rem",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "The US Government announces that restrictions on exporting cryptograph",
+      "text": "The US Government announces that restrictions on exporting cryptography are being relaxed (although not removed). This allows many US companies to stop the long running process of having to create US and international copies of their software.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "title": "Apple released macOS (as Mac OS X)",
+      "text": "Apple released macOS (as Mac OS X). This was a new operating system derived from NeXTSTEP, using Darwin as its kernel, an Open Source operating system based on BSD. This replaced the \"classic\" Mac OS for its Mac computers. Mac OS X finally gave Mac u",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "title": "Microsoft released Windows XP, based on Windows 2000 and Windows NT ke",
+      "text": "Microsoft released Windows XP, based on Windows 2000 and Windows NT kernel. Windows XP introduces a heavily redesigned GUI and brings the NT kernel to the consumer market.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "title": "The Agile Manifesto, which crystallised and named a growing trend towa",
+      "text": "The Agile Manifesto, which crystallised and named a growing trend towards more \"agile\" processes in software development, was released. The perceived success of agile project management led to agile approaches such as Scrum later being used as a gene",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "Blender, a 3D graphics software package, becomes open-source software ",
+      "text": "Blender, a 3D graphics software package, becomes open-source software after a crowdfunding campaign successfully raises €100,000.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "United Linux officially formed",
+      "text": "United Linux officially formed.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "title": "Intel releases the Pentium M for notebooks and the Centrino mobile pla",
+      "text": "Intel releases the Pentium M for notebooks and the Centrino mobile platform. The Pentium M delivers similar or higher performance than the Pentium 4-M while consuming less power.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "title": "SCO Group announces it would sue IBM for US$1 billion",
+      "text": "SCO Group announces it would sue IBM for US$1 billion. The claim is that Linux contains code inserted by IBM that was the copyrighted property of SCO (see SCO v. IBM).",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "Nintendo releases the Nintendo DS, introducing dual screens and touchs",
+      "text": "Nintendo releases the Nintendo DS, introducing dual screens and touchscreen technology to handheld gaming.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "Sony released Librié EBR-1000EP in Japan, the first e-book reader with",
+      "text": "Sony released Librié EBR-1000EP in Japan, the first e-book reader with an E Ink electronic paper display.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "title": "Apple announces they are going to use Intel processors in upcoming Mac",
+      "text": "Apple announces they are going to use Intel processors in upcoming Macintosh computers.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "title": "Jef Raskin, who in 1979 envisioned and established the Macintosh proje",
+      "text": "Jef Raskin, who in 1979 envisioned and established the Macintosh project at Apple Computer, dies at the age of 61.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 2000–2009",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
+        }
+      ]
+    },
+    {
       "year": 2005,
       "title": "Nokia announces the Nokia 770 Internet Tablet, the first device runnin",
       "text": "Nokia announces the Nokia 770 Internet Tablet, the first device running Maemo.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2006,
-      "title": "AmigaOS 4 was released by Hyperion Entertainment (VOF) under license f",
-      "text": "AmigaOS 4 was released by Hyperion Entertainment (VOF) under license from Amiga, Inc. for AmigaOne registered users.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2006,
-      "title": "Apple Computer introduces the MacBook Pro, their first Intel-based, du",
-      "text": "Apple Computer introduces the MacBook Pro, their first Intel-based, dual-core mobile computer, as well as an Intel-based iMac.",
       "references": [
         {
           "label": "Encyclopedia article: Timeline of computing 2000–2009",
@@ -57,41 +211,8 @@
     },
     {
       "year": 2006,
-      "title": "Intel announces plans for an 80-core processor that would exceed 1 TFL",
-      "text": "Intel announces plans for an 80-core processor that would exceed 1 TFLOP, planned to be available in 2011.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2006,
       "title": "Intel releases the Core 2 processor",
       "text": "Intel releases the Core 2 processor.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2006,
-      "title": "Intel releases the Core brand",
-      "text": "Intel releases the Core brand. These are mobile 32-bit single-core and dual-core processors that were built using a modified design of the Pentium M's microarchitecture.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2006,
-      "title": "Nintendo releases the Wii",
-      "text": "Nintendo releases the Wii.",
       "references": [
         {
           "label": "Encyclopedia article: Timeline of computing 2000–2009",
@@ -112,28 +233,6 @@
     },
     {
       "year": 2006,
-      "title": "Retail launch of the first dedicated PPU PhysX from Ageia",
-      "text": "Retail launch of the first dedicated PPU PhysX from Ageia",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2006,
-      "title": "Sony releases the PlayStation 3",
-      "text": "Sony releases the PlayStation 3.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2006,
       "title": "Twitter is launched, introducing a new platform for microblogging and ",
       "text": "Twitter is launched, introducing a new platform for microblogging and social interaction.",
       "references": [
@@ -145,52 +244,8 @@
     },
     {
       "year": 2007,
-      "title": "AMD releases the Phenom line of high performance processors, positioni",
-      "text": "AMD releases the Phenom line of high performance processors, positioning the Athlon as a mid-range line.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2007,
-      "title": "Apple launches Mac OS X Leopard (v10",
-      "text": "Apple launches Mac OS X Leopard (v10.5)",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2007,
       "title": "Asus announces the first Asus Eee PC, launching the netbook category o",
       "text": "Asus announces the first Asus Eee PC, launching the netbook category of mobile computers. It initially ran Linux; later models also offered a choice of Windows.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2007,
-      "title": "Microsoft Corporation launches Windows Vista more than 5 years after t",
-      "text": "Microsoft Corporation launches Windows Vista more than 5 years after their last major, new operating system, Windows XP, was released.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2007,
-      "title": "The first iPhone was introduced by Apple",
-      "text": "The first iPhone was introduced by Apple.",
       "references": [
         {
           "label": "Encyclopedia article: Timeline of computing 2000–2009",
@@ -211,41 +266,8 @@
     },
     {
       "year": 2008,
-      "title": "The first public beta version of the Google Chrome web browser was rel",
-      "text": "The first public beta version of the Google Chrome web browser was released. Chrome subsequently became the most popular web browser in the world, overtaking Internet Explorer.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2008,
       "title": "The first version of Android was introduced by Google",
       "text": "The first version of Android was introduced by Google.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2008,
-      "title": "The HTC Dream (T-Mobile G1), the first commercially available device t",
-      "text": "The HTC Dream (T-Mobile G1), the first commercially available device to run the Android operating system, was released.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2009,
-      "title": "Apple launches MacOS X Snow Leopard (v10",
-      "text": "Apple launches MacOS X Snow Leopard (v10.6)",
       "references": [
         {
           "label": "Encyclopedia article: Timeline of computing 2000–2009",
@@ -257,28 +279,6 @@
       "year": 2009,
       "title": "Facebook overtakes MySpace in America",
       "text": "Facebook overtakes MySpace in America.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2009,
-      "title": "Microsoft releases Windows 7",
-      "text": "Microsoft releases Windows 7.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 2000–2009",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_2000%E2%80%932009"
-        }
-      ]
-    },
-    {
-      "year": 2009,
-      "title": "Sony releases the PS3 Slim",
-      "text": "Sony releases the PS3 Slim.",
       "references": [
         {
           "label": "Encyclopedia article: Timeline of computing 2000–2009",
