@@ -1,27 +1,119 @@
 {
   "slug": "inventions-that-changed-the-world",
   "title": "Inventions That Changed the World",
-  "tagline": "Ideas that reshaped daily life.",
+  "tagline": "Milestones in inventions that changed the world.",
   "category": "Engineering",
   "icon": "💡",
-  "color": "#facc15",
+  "color": "#22d3ee",
   "source": "Generated from “Timeline of historic inventions” on Wikipedia; each event links to its source article.",
   "wikiPage": "Timeline of historic inventions",
   "via": "wiki",
-  "generated": "2026-10-06",
+  "generated": "2026-10-07",
+  "popularity": 93,
   "events": [
     {
-      "year": 2000,
-      "title": "Noodle",
-      "text": "Noodle in Lajia in China",
+      "year": -9500,
+      "title": "Oldest known surviving building",
+      "text": "9000 BC: Oldest known surviving building – Göbekli Tepe, in Turkey",
       "references": [
         {
-          "label": "Noodle",
-          "url": "https://en.wikipedia.org/wiki/Noodle"
+          "label": "Oldest known surviving building",
+          "url": "https://en.wikipedia.org/wiki/List_of_oldest_extant_buildings"
         },
         {
-          "label": "Lajia",
-          "url": "https://en.wikipedia.org/wiki/Lajia"
+          "label": "Göbekli Tepe",
+          "url": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe"
+        },
+        {
+          "label": "Turkey",
+          "url": "https://en.wikipedia.org/wiki/Turkey"
+        }
+      ]
+    },
+    {
+      "year": -5000,
+      "title": "potatoes",
+      "text": "Domestication of potatoes, in southern Peru and northwestern Bolivia by pre-Columbian farmers, around Lake Titicaca.",
+      "references": [
+        {
+          "label": "potatoes",
+          "url": "https://en.wikipedia.org/wiki/potatoes"
+        },
+        {
+          "label": "Peru",
+          "url": "https://en.wikipedia.org/wiki/Peru"
+        },
+        {
+          "label": "Bolivia",
+          "url": "https://en.wikipedia.org/wiki/Bolivia"
+        }
+      ]
+    },
+    {
+      "year": -3200,
+      "title": "Latrine",
+      "text": "Dry Latrines in the city of Uruk, Iraq, with later dry squat Toilets, that added raised fired brick foot platforms, and pedestal toilets, all over clay pipe constructed drains.",
+      "references": [
+        {
+          "label": "Latrine",
+          "url": "https://en.wikipedia.org/wiki/Latrine"
+        },
+        {
+          "label": "Uruk",
+          "url": "https://en.wikipedia.org/wiki/Uruk"
+        },
+        {
+          "label": "Toilet",
+          "url": "https://en.wikipedia.org/wiki/Toilet"
+        }
+      ]
+    },
+    {
+      "year": -2400,
+      "title": "Fork",
+      "text": "Fork in Bronze Age Qijia culture in China",
+      "references": [
+        {
+          "label": "Fork",
+          "url": "https://en.wikipedia.org/wiki/Fork"
+        },
+        {
+          "label": "Bronze Age",
+          "url": "https://en.wikipedia.org/wiki/Bronze_Age"
+        },
+        {
+          "label": "Qijia culture",
+          "url": "https://en.wikipedia.org/wiki/Qijia_culture"
+        }
+      ]
+    },
+    {
+      "year": -1100,
+      "title": "Star catalogue",
+      "text": "1100 BC Star catalogue — <em>Three Stars Each</em> is the earliest known catalogue in long-running tradition of Babylonian astronomy, likely drawing on Sumerian and/or Elamite constellations.",
+      "references": [
+        {
+          "label": "Star catalogue",
+          "url": "https://en.wikipedia.org/wiki/Star_catalogue"
+        },
+        {
+          "label": "Three Stars Each",
+          "url": "https://en.wikipedia.org/wiki/Babylonian_star_catalogues%23Three_Stars_Each"
+        },
+        {
+          "label": "Babylonian astronomy",
+          "url": "https://en.wikipedia.org/wiki/Babylonian_astronomy"
+        }
+      ]
+    },
+    {
+      "year": -40,
+      "title": "Trip hammer",
+      "text": "Before 40 BC: Trip hammer in China",
+      "references": [
+        {
+          "label": "Trip hammer",
+          "url": "https://en.wikipedia.org/wiki/Trip_hammer"
         },
         {
           "label": "China",
@@ -30,248 +122,319 @@
       ]
     },
     {
-      "year": 2000,
-      "title": "Satoshi Nakamoto",
-      "text": "Satoshi Nakamoto develops the first blockchain.",
+      "year": 337,
+      "title": "Schöningen",
+      "text": "300 kya: Schöningen Spears in Germany likely by Homo heidelbergensis or early Neandarthals.",
       "references": [
         {
-          "label": "Satoshi Nakamoto",
-          "url": "https://en.wikipedia.org/wiki/Satoshi_Nakamoto"
+          "label": "Schöningen",
+          "url": "https://en.wikipedia.org/wiki/Sch%C3%B6ningen_spears"
         },
         {
-          "label": "blockchain",
-          "url": "https://en.wikipedia.org/wiki/blockchain"
-        }
-      ]
-    },
-    {
-      "year": 2000,
-      "title": "Scissors",
-      "text": "Scissors, in Mesopotamia.",
-      "references": [
-        {
-          "label": "Scissors",
-          "url": "https://en.wikipedia.org/wiki/Scissors"
+          "label": "Spear",
+          "url": "https://en.wikipedia.org/wiki/Spear"
         },
         {
-          "label": "Mesopotamia",
-          "url": "https://en.wikipedia.org/wiki/Mesopotamia"
+          "label": "Germany",
+          "url": "https://en.wikipedia.org/wiki/Germany"
         }
       ]
     },
     {
-      "year": 2000,
-      "title": "quantum machine",
-      "text": "The first quantum machine was created by Aaron D. O'Connell",
+      "year": 974,
+      "title": "Fountain pen",
+      "text": "Fountain pen: invented at the request of al-Mu'izz li-Din Allah in Arab Egypt.",
       "references": [
         {
-          "label": "quantum machine",
-          "url": "https://en.wikipedia.org/wiki/quantum_machine"
+          "label": "Fountain pen",
+          "url": "https://en.wikipedia.org/wiki/Fountain_pen"
         },
         {
-          "label": "Aaron D. O'Connell",
-          "url": "https://en.wikipedia.org/wiki/Aaron_D._O'Connell"
-        }
-      ]
-    },
-    {
-      "year": 2000,
-      "title": "Food and Drug Administration",
-      "text": "The Food and Drug Administration approved the first contraceptive patch",
-      "references": [
-        {
-          "label": "Food and Drug Administration",
-          "url": "https://en.wikipedia.org/wiki/Food_and_Drug_Administration"
+          "label": "al-Mu'izz li-Din Allah",
+          "url": "https://en.wikipedia.org/wiki/al-Mu'izz_li-Din_Allah"
         },
         {
-          "label": "contraceptive patch",
-          "url": "https://en.wikipedia.org/wiki/contraceptive_patch"
+          "label": "Arab Egypt",
+          "url": "https://en.wikipedia.org/wiki/Egypt_in_the_Middle_Ages"
         }
       ]
     },
     {
-      "year": 2000,
-      "title": "Water clock",
-      "text": "Water clock by at least the old Babylonian period (c. 2000 – c. 1600 BC), but possibly earlier from Mohenjo-Daro in the Indus Valley.",
+      "year": 1594,
+      "title": "Backstaff",
+      "text": "Backstaff: Invented by Captain John Davis",
       "references": [
         {
-          "label": "Water clock",
-          "url": "https://en.wikipedia.org/wiki/Water_clock"
-        }
-      ]
-    },
-    {
-      "year": 2000,
-      "title": "YouTube",
-      "text": "YouTube, the first popular video-streaming site, was founded by Jawed Karim",
-      "references": [
-        {
-          "label": "YouTube",
-          "url": "https://en.wikipedia.org/wiki/YouTube"
+          "label": "Backstaff",
+          "url": "https://en.wikipedia.org/wiki/Backstaff"
         },
         {
-          "label": "Jawed Karim",
-          "url": "https://en.wikipedia.org/wiki/Jawed_Karim"
+          "label": "John Davis",
+          "url": "https://en.wikipedia.org/wiki/John_Davis_(English_explorer)"
         }
       ]
     },
     {
-      "year": 2001,
-      "title": "Wagner, Donald B",
-      "text": "Wagner, Donald B. (2001). The State and the Iron Industry in Han China. Copenhagen: Nordic Institute of Asian Studies Publishing. .",
+      "year": 1746,
+      "title": "John Roebuck",
+      "text": "John Roebuck invents the lead chamber process, mass producing sulfuric acid for manufacturing",
       "references": [
         {
-          "label": "Encyclopedia article: Timeline of historic inventions",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions"
+          "label": "John Roebuck",
+          "url": "https://en.wikipedia.org/wiki/John_Roebuck"
+        },
+        {
+          "label": "lead chamber process",
+          "url": "https://en.wikipedia.org/wiki/lead_chamber_process"
         }
       ]
     },
     {
-      "year": 2005,
-      "title": "Stark, Miriam T",
-      "text": "Stark, Miriam T. (2005). Archaeology of Asia. Malden, MA : Blackwell Pub. .",
+      "year": 1796,
+      "title": "Edward Jenner",
+      "text": "Edward Jenner invented the vaccine and inoculates an individual for smallpox",
       "references": [
         {
-          "label": "Encyclopedia article: Timeline of historic inventions",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions"
+          "label": "Edward Jenner",
+          "url": "https://en.wikipedia.org/wiki/Edward_Jenner"
+        },
+        {
+          "label": "vaccine",
+          "url": "https://en.wikipedia.org/wiki/vaccine"
+        },
+        {
+          "label": "smallpox",
+          "url": "https://en.wikipedia.org/wiki/smallpox"
         }
       ]
     },
     {
-      "year": 2006,
-      "title": "Ebrey, Walthall, Palais, (2006)",
-      "text": "Ebrey, Walthall, Palais, (2006). East Asia: A Cultural, Social, and Political History. Boston: Houghton Mifflin Company.",
+      "year": 1810,
+      "title": "René Laennec",
+      "text": "René Laennec invents the first Stethoscope.",
       "references": [
         {
-          "label": "Encyclopedia article: Timeline of historic inventions",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions"
+          "label": "René Laennec",
+          "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Laennec"
+        },
+        {
+          "label": "Stethoscope",
+          "url": "https://en.wikipedia.org/wiki/Stethoscope"
         }
       ]
     },
     {
-      "year": 2007,
-      "title": "Sushruta Samhita",
-      "text": "6th century – 2nd century BC: Systematization of medicine and surgery in the Sushruta Samhita in Vedic Northern India.Sarah Boslaugh (2007), Encyclopedia of Epidemiology, Volume 1, SAGE Publications, , page 547, Quote: \"The Hindu text known as Sushru",
+      "year": 1830,
+      "title": "Charles Goodyear",
+      "text": "Charles Goodyear invents vulcanized rubber.",
       "references": [
         {
-          "label": "Sushruta Samhita",
-          "url": "https://en.wikipedia.org/wiki/Sushruta_Samhita"
+          "label": "Charles Goodyear",
+          "url": "https://en.wikipedia.org/wiki/Charles_Goodyear"
+        },
+        {
+          "label": "vulcanized rubber",
+          "url": "https://en.wikipedia.org/wiki/Vulcanization"
         }
       ]
     },
     {
-      "year": 2010,
-      "title": "CRISPR gene editing",
-      "text": "Discovery of CRISPR gene editing method",
+      "year": 1840,
+      "title": "Horace Wells",
+      "text": "Horace Wells successfully used nitrous oxide as an anesthesia",
       "references": [
         {
-          "label": "CRISPR gene editing",
-          "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing"
+          "label": "Horace Wells",
+          "url": "https://en.wikipedia.org/wiki/Horace_Wells"
+        },
+        {
+          "label": "nitrous oxide",
+          "url": "https://en.wikipedia.org/wiki/nitrous_oxide"
+        },
+        {
+          "label": "anesthesia",
+          "url": "https://en.wikipedia.org/wiki/anesthesia"
         }
       ]
     },
     {
-      "year": 2010,
-      "title": "artificial pancreas",
-      "text": "First commercially available artificial pancreas",
+      "year": 1850,
+      "title": "James Clerk Maxwell",
+      "text": "James Clerk Maxwell invents the first practical method for color photography, whether chemical or electronic.",
       "references": [
         {
-          "label": "artificial pancreas",
-          "url": "https://en.wikipedia.org/wiki/artificial_pancreas"
+          "label": "James Clerk Maxwell",
+          "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell"
+        },
+        {
+          "label": "color photography",
+          "url": "https://en.wikipedia.org/wiki/color_photography"
         }
       ]
     },
     {
-      "year": 2010,
-      "title": "SpaceX",
-      "text": "First successful launch of a multi-use rocket by SpaceX",
+      "year": 1870,
+      "title": "stainless steel",
+      "text": "J. E. T. Woods and J. Clark invent stainless steel. Harry Brearley is the first to commercialize it.",
       "references": [
         {
-          "label": "SpaceX",
-          "url": "https://en.wikipedia.org/wiki/SpaceX"
+          "label": "stainless steel",
+          "url": "https://en.wikipedia.org/wiki/stainless_steel"
+        },
+        {
+          "label": "Harry Brearley",
+          "url": "https://en.wikipedia.org/wiki/Harry_Brearley"
         }
       ]
     },
     {
-      "year": 2010,
-      "title": "IBM",
-      "text": "IBM launches IBM Q System One, its first integrated quantum computing system for commercial use.",
+      "year": 1880,
+      "title": "Nikolay Benardos",
+      "text": "Nikolay Benardos presents carbon arc welding, the first practical arc welding method.",
       "references": [
+        {
+          "label": "Nikolay Benardos",
+          "url": "https://en.wikipedia.org/wiki/Nikolay_Benardos"
+        },
+        {
+          "label": "carbon arc welding",
+          "url": "https://en.wikipedia.org/wiki/carbon_arc_welding"
+        },
+        {
+          "label": "arc welding",
+          "url": "https://en.wikipedia.org/wiki/arc_welding"
+        }
+      ]
+    },
+    {
+      "year": 1900,
+      "title": "Cellophane",
+      "text": "Cellophane is invented by Jacques E. Brandenberger.",
+      "references": [
+        {
+          "label": "Cellophane",
+          "url": "https://en.wikipedia.org/wiki/Cellophane"
+        },
+        {
+          "label": "Jacques E. Brandenberger",
+          "url": "https://en.wikipedia.org/wiki/Jacques_E._Brandenberger"
+        }
+      ]
+    },
+    {
+      "year": 1920,
+      "title": "John Logie Baird",
+      "text": "John Logie Baird demonstrates the world's first live working television system.",
+      "references": [
+        {
+          "label": "John Logie Baird",
+          "url": "https://en.wikipedia.org/wiki/John_Logie_Baird"
+        },
+        {
+          "label": "television",
+          "url": "https://en.wikipedia.org/wiki/Mechanical_television"
+        }
+      ]
+    },
+    {
+      "year": 1940,
+      "title": "Pu-239 isotope",
+      "text": "Pu-239 isotope (isotope of plutonium) a form of matter existing with the capacity for use as a destructive element (because the isotope has an exponentially increasing spontaneous fissile decay) within nuclear devices — Glenn Seaborg.",
+      "references": [
+        {
+          "label": "Pu-239 isotope",
+          "url": "https://en.wikipedia.org/wiki/Isotopes_of_plutonium%23Notable_isotopes"
+        },
+        {
+          "label": "plutonium",
+          "url": "https://en.wikipedia.org/wiki/plutonium"
+        },
+        {
+          "label": "fissile",
+          "url": "https://en.wikipedia.org/wiki/spontaneous_fission"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "title": "personal computer",
+      "text": "The first personal computer used by one person and controlled by a keyboard, the IBM 610, is invented by IBM.",
+      "references": [
+        {
+          "label": "personal computer",
+          "url": "https://en.wikipedia.org/wiki/personal_computer"
+        },
+        {
+          "label": "IBM 610",
+          "url": "https://en.wikipedia.org/wiki/History_of_personal_computers%23The_beginnings_of_the_personal_computer_industry"
+        },
         {
           "label": "IBM",
           "url": "https://en.wikipedia.org/wiki/IBM"
-        },
-        {
-          "label": "IBM Q System One",
-          "url": "https://en.wikipedia.org/wiki/IBM_Q_System_One"
-        },
-        {
-          "label": "quantum computing",
-          "url": "https://en.wikipedia.org/wiki/quantum_computing"
         }
       ]
     },
     {
-      "year": 2010,
-      "title": "Pepper",
-      "text": "Introduction of Pepper, the first commercial humanoid robot",
+      "year": 1960,
+      "title": "laser",
+      "text": "The first functioning laser is invented by Theodore Maiman.",
       "references": [
         {
-          "label": "Pepper",
-          "url": "https://en.wikipedia.org/wiki/Pepper_(robot)"
+          "label": "laser",
+          "url": "https://en.wikipedia.org/wiki/laser"
         },
         {
-          "label": "humanoid robot",
-          "url": "https://en.wikipedia.org/wiki/humanoid_robot"
+          "label": "Theodore Maiman",
+          "url": "https://en.wikipedia.org/wiki/Theodore_Maiman"
         }
       ]
     },
     {
-      "year": 2010,
-      "title": "Lidar",
-      "text": "Solid-state Lidar technology was introduced, replacing mechanical scanning with electronic beam steering",
+      "year": 1970,
+      "title": "Global Positioning System",
+      "text": "The Global Positioning System (GPS) enters service. While not the first Satellite navigation system, it is the first to enter widespread civilian use",
       "references": [
         {
-          "label": "Lidar",
-          "url": "https://en.wikipedia.org/wiki/Lidar"
+          "label": "Global Positioning System",
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+        },
+        {
+          "label": "Satellite navigation",
+          "url": "https://en.wikipedia.org/wiki/Satellite_navigation"
         }
       ]
     },
     {
-      "year": 2010,
-      "title": "synthetic organism",
-      "text": "The first synthetic organism, Mycoplasma laboratorium is created by the J. Craig Venter Institute",
+      "year": 1980,
+      "title": "cell phone",
+      "text": "The first commercially available cell phone in the US, the DynaTAC 8000X, is created by Motorola.",
       "references": [
         {
-          "label": "synthetic organism",
-          "url": "https://en.wikipedia.org/wiki/Synthetic_biology"
+          "label": "cell phone",
+          "url": "https://en.wikipedia.org/wiki/cell_phone"
         },
         {
-          "label": "Mycoplasma laboratorium",
-          "url": "https://en.wikipedia.org/wiki/Mycoplasma_laboratorium"
+          "label": "DynaTAC",
+          "url": "https://en.wikipedia.org/wiki/Motorola_DynaTAC"
         },
         {
-          "label": "J. Craig Venter Institute",
-          "url": "https://en.wikipedia.org/wiki/J._Craig_Venter_Institute"
+          "label": "Motorola",
+          "url": "https://en.wikipedia.org/wiki/Motorola"
         }
       ]
     },
     {
-      "year": 2020,
-      "title": "OpenAI",
-      "text": "OpenAI demonstrated an Artificial Intelligence model called GPT-3. The program was created to generate human-like responses when given prompts.",
+      "year": 2000,
+      "title": "Amazon",
+      "text": "Amazon pioneered cloud computing",
       "references": [
         {
-          "label": "OpenAI",
-          "url": "https://en.wikipedia.org/wiki/OpenAI"
+          "label": "Amazon",
+          "url": "https://en.wikipedia.org/wiki/Amazon_(company)"
         },
         {
-          "label": "Artificial Intelligence",
-          "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
-        },
-        {
-          "label": "GPT-3",
-          "url": "https://en.wikipedia.org/wiki/GPT-3"
+          "label": "cloud computing",
+          "url": "https://en.wikipedia.org/wiki/cloud_computing"
         }
       ]
     },
@@ -293,109 +456,6 @@
           "url": "https://en.wikipedia.org/wiki/BioNTech"
         }
       ]
-    },
-    {
-      "year": 2200,
-      "title": "Iron smelting",
-      "text": "2000 BC: Iron smelting in Kaman-Kalehöyük.",
-      "references": [
-        {
-          "label": "Iron smelting",
-          "url": "https://en.wikipedia.org/wiki/Iron_smelting"
-        },
-        {
-          "label": "Kaman-Kalehöyük",
-          "url": "https://en.wikipedia.org/wiki/Kaman-Kaleh%C3%B6y%C3%BCk"
-        }
-      ]
-    },
-    {
-      "year": 2200,
-      "title": "Protractor",
-      "text": "Protractor, Phase IV, Lothal, Indus Valley (modern-day India), a Xancus shell cylinder with sawn grooves, at right angles, in its top and bottom surfaces, has been proposed as an angle marking tool.",
-      "references": [
-        {
-          "label": "Protractor",
-          "url": "https://en.wikipedia.org/wiki/Protractor"
-        },
-        {
-          "label": "Lothal",
-          "url": "https://en.wikipedia.org/wiki/Lothal"
-        },
-        {
-          "label": "Xancus",
-          "url": "https://en.wikipedia.org/wiki/Turbinella_pyrum"
-        }
-      ]
-    },
-    {
-      "year": 2300,
-      "title": "Dictionary",
-      "text": "Dictionary in Mesopotamia.",
-      "references": [
-        {
-          "label": "Dictionary",
-          "url": "https://en.wikipedia.org/wiki/Dictionary"
-        },
-        {
-          "label": "Mesopotamia",
-          "url": "https://en.wikipedia.org/wiki/Mesopotamia"
-        }
-      ]
-    },
-    {
-      "year": 2400,
-      "title": "Copper pipes",
-      "text": "Copper pipes, the Pyramid of Sahure, an adjoining temple complex at Abusir, was discovered to have a network of copper drainage pipes.",
-      "references": [
-        {
-          "label": "Copper pipes",
-          "url": "https://en.wikipedia.org/wiki/History_of_water_supply_and_sanitation%23Ancient_Egypt"
-        },
-        {
-          "label": "Pyramid of Sahure",
-          "url": "https://en.wikipedia.org/wiki/Pyramid_of_Sahure%23Drainage_system"
-        },
-        {
-          "label": "Abusir",
-          "url": "https://en.wikipedia.org/wiki/Abusir"
-        }
-      ]
-    },
-    {
-      "year": 2400,
-      "title": "Fork",
-      "text": "Fork in Bronze Age Qijia culture in China",
-      "references": [
-        {
-          "label": "Fork",
-          "url": "https://en.wikipedia.org/wiki/Fork"
-        },
-        {
-          "label": "Bronze Age",
-          "url": "https://en.wikipedia.org/wiki/Bronze_Age"
-        },
-        {
-          "label": "Qijia culture",
-          "url": "https://en.wikipedia.org/wiki/Qijia_culture"
-        }
-      ]
-    },
-    {
-      "year": 2400,
-      "title": "Touchstone",
-      "text": "Touchstone in the Indus Valley site of Banawali (modern-day India).",
-      "references": [
-        {
-          "label": "Touchstone",
-          "url": "https://en.wikipedia.org/wiki/Touchstone_(assaying_tool)"
-        },
-        {
-          "label": "Banawali",
-          "url": "https://en.wikipedia.org/wiki/Banawali"
-        }
-      ]
     }
-  ],
-  "popularity": 93
+  ]
 }

@@ -74,6 +74,32 @@ export function normalizeText(raw) {
 
 const LEADING_YEAR_RE = /^(?:c(?:irca)?\.?\s*)?(?:ca\.?\s*)?(?:\([^)]*\)\s*)?(\d{1,4})(?:\s*[-–\u2013]\s*(\d{1,4}))?(?:\s*[A-Z]{2,5}\.?\s*)?(?:\s*[-–\u2013:;]\s*)(.+)$/i;
 
+// "1 July 1875: ...", "July 1875: ...", "January 1, 1875: ...", "1875: ..."
+// The year must be a freestanding token, never a model number like CALL/360.
+const DATE_PREFIX_RE =
+  /^(?:[^a-z0-9"']*)?(?:(?:\d{1,2}(?:st|nd|rd|th)?,?\s+)?(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:tember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?),?\s+(?:\d{1,4})|\d{1,4})\s*(?:[-–\u2013:;])\s*/i;
+
+// filter out nav-table cells, colspan artifacts, and ref-looking noise
+function isMeaningfulText(s) {
+  if (!s) return false;
+  const t = s.trim();
+  if (t.length < 3) return false;
+  if (/^(?:colspan|rowspan)\s*=/i.test(t)) return false;
+  if (/\b(?:H[1-4]|Q[1-4]|T[1-4])\b/i.test(t)) return false;
+  if (/^\d{4}\s*\(\d{4}\)\s*\(?\s*$/i.test(t)) return false;
+  if (/^\d{1,4}\s*[-–]\s*\d{1,4}\s*$/i.test(t)) return false;
+  if (t.length < 8 && /^\d+$|^[^\s]{1,3}$/i.test(t)) return false;
+  return true;
+}
+
+// a believable inline year: only trust leading-date or section-anchored years
+function leadingYear(s) {
+  const m = s.match(LEADING_YEAR_RE) || s.match(DATE_PREFIX_RE);
+  if (!m) return null;
+  const y = Number(m[1]);
+  return y >= 0 && y <= 2600 ? y : null;
+}
+
 function splitTemplateParams(body) {
   const parts = [];
   let tDepth = 0;
@@ -92,7 +118,7 @@ function splitTemplateParams(body) {
 }
 
 export function extractTemplateEvents(wikitext, pageTitle, opts = {}) {
-  const EPOCH_LOW = opts.minYear ?? 900;
+  const EPOCH_LOW = opts.minYear ?? -120000;
   const EPOCH_HIGH = opts.maxYear ?? 2400;
   const events = [];
   let i = 0;
@@ -141,18 +167,17 @@ export function extractTemplateEvents(wikitext, pageTitle, opts = {}) {
 }
 
 function firstYearIn(text) {
-  const m = text.match(/(?:^|\D)(\d{3,4})(?:\D|$)/);
-  return m ? parseInt(m[1], 10) : null;
+  return extractYear(text);
 }
 
-function buildEvent(year, raw, pageTitle) {
+export function buildEvent(year, raw, pageTitle) {
   const links = extractLinks(raw);
   const clean = normalizeText(raw);
   const trimmed = clean.replace(/^[^a-z0-9"']*([0-9]{1,4}s?\b[^]{0,2})?:?\s*/i, '');
 
   // Try to find the "Year – description" split
   const m = clean.match(LEADING_YEAR_RE);
-  const body = (m?.[3] || trimmed || clean).trim();
+  const body = (m?.[3] || clean.replace(DATE_PREFIX_RE, '').trim() || trimmed || clean).trim();
 
   if (!body || body.length < 8) return null;
 
@@ -173,7 +198,7 @@ function buildEvent(year, raw, pageTitle) {
   };
 }
 
-function parseTablesAndBullets(rawWikitext, pageTitle, opts = {}) {
+export function parseTablesAndBullets(rawWikitext, pageTitle, opts = {}) {
   const wikitext = stripBalanced(rawWikitext)
     .replace(/<ref[^/]*\/>/g, '')
     .replace(/<!--[\s\S]*?-->/g, '')
@@ -182,21 +207,30 @@ function parseTablesAndBullets(rawWikitext, pageTitle, opts = {}) {
   const lines = wikitext.split('\n');
   const events = [];
   let currentSectionYear = null;
+  let currentSectionName = null;
   let inTable = false;
   let pendingCells = [];
   const sectionRe = /^==+\s*(.+?)\s*==+\s*/;
-  const EPOCH_LOW = opts.minYear ?? 900;
+  const skipSectionsRe = /references|further reading|external links|bibliography|sources|notes|see also/i;
+  const EPOCH_LOW = opts.minYear ?? -120000;
   const EPOCH_HIGH = opts.maxYear ?? 2400;
 
-  const flushTableRow = () => {
+const flushTableRow = () => {
     if (!pendingCells.length) return;
     const cells = pendingCells.map((c) => normalizeText(c)).filter((c) => c.length > 1);
     pendingCells = [];
     if (!cells.length) return;
     const year = extractYear(cells[0] || '') || currentSectionYear;
     if (!year || year < EPOCH_LOW || year > EPOCH_HIGH) return;
-    // cells are typically [date|location|event]; event is the last cell
-    const event = cells[cells.length - 1];
+    // cells are typically [date|location|event]; event is the last non-empty cell
+    let event = '';
+    for (let i = cells.length - 1; i >= 1; i--) {
+      if (cells[i].length >= 3 && !/^(?:[0-9]{1,4}|[0-9]{1,4}\s*[-–]\s*[0-9]{1,4})$/.test(cells[i])) {
+        event = cells[i];
+        break;
+      }
+    }
+    if (!isMeaningfulText(event) || !event) return;
     const loc = cells.length >= 3 ? cells[cells.length - 2] : '';
     const rest = [event, loc && event !== loc ? `(${loc})` : ''].filter(Boolean).join(' ');
     if (!rest || rest.length < 6) return;
@@ -219,8 +253,14 @@ function parseTablesAndBullets(rawWikitext, pageTitle, opts = {}) {
         flushTableRow();
         inTable = false;
         currentSectionYear = null;
-        const secText = section[1];
-        const sy = extractYear(secText);
+        const secName = section[1];
+        if (skipSectionsRe.test(secName)) {
+          currentSectionName = 'skip';
+          continue;
+        }
+        currentSectionName = secName;
+        const isRange = /(\d{1,4})\s*(?:-|–|to)\s*(\d{1,4}|present)/i.test(secName);
+        const sy = isRange ? null : extractYear(secName);
         currentSectionYear = sy && sy > EPOCH_LOW && sy < EPOCH_HIGH ? sy : null;
         continue;
       }
@@ -228,6 +268,7 @@ function parseTablesAndBullets(rawWikitext, pageTitle, opts = {}) {
       if (line.startsWith('{|')) { flushTableRow(); inTable = true; continue; }
       if (line.startsWith('|}')) { flushTableRow(); inTable = false; continue; }
       if (/^\|-\s*/u.test(line)) { flushTableRow(); continue; }
+      if (currentSectionName === 'skip') continue;
 
       if (inTable) {
         if (line.startsWith('!')) continue;
@@ -239,7 +280,9 @@ function parseTablesAndBullets(rawWikitext, pageTitle, opts = {}) {
             const cells = content.split(/\|\|/).map((c) => normalizeText(c)).filter(Boolean);
             if (!cells.length) continue;
             const year = extractYear(cells[0] || '') || currentSectionYear;
-            push(year, cells.slice(1).join(' \u2014 '));
+            const payload = cells.slice(1).join(' \u2014 ');
+            if (!isMeaningfulText(payload)) continue;
+            push(year, payload);
           } else {
             pendingCells.push(content);
           }
@@ -249,7 +292,7 @@ function parseTablesAndBullets(rawWikitext, pageTitle, opts = {}) {
 
       if (line.startsWith('*')) {
         const content = line.replace(/^\*+/, '');
-        const year = currentSectionYear || firstYearIn(content);
+        const year = leadingYear(content) ?? currentSectionYear ?? firstYearIn(content);
         push(year, content);
       }
     } catch {
@@ -273,8 +316,24 @@ function dedupeAndSort(events) {
 
   unique.sort((a, b) => a.year - b.year || a.text.localeCompare(b.text));
 
-  const capped = unique.slice(-MAX_EVENTS);
-  return capped;
+  if (unique.length <= MAX_EVENTS) return unique;
+
+  const step = (unique.length - 1) / (MAX_EVENTS - 1);
+  const picked = [];
+  for (let i = 0; i < MAX_EVENTS; i++) {
+    picked.push(unique[Math.round(i * step)]);
+  }
+  return dedupeByKey(picked);
+}
+
+function dedupeByKey(events) {
+  const seen = new Set();
+  return events.filter((e) => {
+    const key = `${e.year}:${e.text.slice(0, 40)}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
 
 export function parseWikiTimeline(wikitext, pageTitle) {
@@ -328,7 +387,7 @@ export async function generateFromWikipedia(config, { force = false } = {}) {
   return timeline;
 }
 
-function rebuildIndex() {
+export function rebuildIndex() {
   const entries = readdirSync(TIMELINES_DIR)
     .filter((f) => f.endsWith('.json'))
     .map((f) => makeIndexEntry(readJson(join(TIMELINES_DIR, f))))

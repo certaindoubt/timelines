@@ -8,41 +8,9 @@
   "source": "Generated from “Timeline of spaceflight” on Wikipedia; each event links to its source article.",
   "wikiPage": "Timeline of spaceflight",
   "via": "wiki",
-  "generated": "2026-10-06",
+  "generated": "2026-10-07",
+  "popularity": 91,
   "events": [
-    {
-      "year": 1951,
-      "title": "colspan=\"10\" | Spaceflight before 1951",
-      "text": "colspan=\"10\" | Spaceflight before 1951",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of spaceflight",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
-        }
-      ]
-    },
-    {
-      "year": 1951,
-      "title": "H1, H2) (1958 (H1, H2))",
-      "text": "H1, H2) (1958 (H1, H2))",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of spaceflight",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
-        }
-      ]
-    },
-    {
-      "year": 2010,
-      "title": "H1, (H2) (2018 (H1, H2))",
-      "text": "H1, (H2) (2018 (H1, H2))",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of spaceflight",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_spaceflight"
-        }
-      ]
-    },
     {
       "year": 2030,
       "title": "Target altitude 660 km (Third gravity assist at Earth)",
@@ -120,6 +88,5 @@
         }
       ]
     }
-  ],
-  "popularity": 91
+  ]
 }

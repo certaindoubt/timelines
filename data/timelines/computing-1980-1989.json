@@ -8,56 +8,233 @@
   "source": "Generated from “Timeline of computing 1980–1989” on Wikipedia; each event links to its source article.",
   "wikiPage": "Timeline of computing 1980–1989",
   "via": "wiki",
-  "generated": "2026-10-06",
+  "generated": "2026-10-07",
+  "popularity": 88,
   "events": [
+    {
+      "year": 1980,
+      "title": "Commodore released the VIC-20, which had 3",
+      "text": "Commodore released the VIC-20, which had 3.5 KB of usable memory and was based on the MOS Technology 6502 processor. Magazines became available which contained the code for various utilities and games. A 5¼\" disk drive was available, along with a cas",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "Tandy released the TRS-80 Color Computer, based on the Motorola 6809E ",
+      "text": "Tandy released the TRS-80 Color Computer, based on the Motorola 6809E processor and using Microsoft BASIC as its programming language. It was the first Tandy computer to support color graphics, and also supported cartridge programs and games, attempt",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1981,
+      "title": "Sinclair ZX81 was released, for a similar price to the ZX80 (see 1980)",
+      "text": "Sinclair ZX81 was released, for a similar price to the ZX80 (see 1980). (UK)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1982,
+      "title": "Commodore unveils the Commodore 64 at the Consumer Electronics Show in",
+      "text": "Commodore unveils the Commodore 64 at the Consumer Electronics Show in Las Vegas. Built in just two months around the VIC-II Video Integrated Circuit and the SID Sound Interface Device chips, the C64 used the 6510 processor to access 64K of RAM plus ",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1982,
+      "title": "Introduction of the BBC Micro, announced in December 1981",
+      "text": "Introduction of the BBC Micro, announced in December 1981. Based on the MOS Technology 6502 processor, it was a very popular computer for British schools up to the development of the Acorn Archimedes (in 1987). In 1984 the government offered to pay h",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1982,
+      "title": "The Sinclair ZX Spectrum was announced, released later in the year",
+      "text": "The Sinclair ZX Spectrum was announced, released later in the year. It is based on the Zilog Z80 microprocessor, running at 3.5 MHz with an 8 color graphics display. The Spectrum sold with two memory options, a 16 KB version for £125 or a 48 KB versi",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "title": "Compaq Portable released, the first IBM PC compatible machine released",
+      "text": "Compaq Portable released, the first IBM PC compatible machine released with an IBM PC compatible BIOS written from scratch.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "title": "IBM PC gets European launch at Which Computer Show",
+      "text": "IBM PC gets European launch at Which Computer Show.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "title": "MS-DOS 2",
+      "text": "MS-DOS 2.0, PC DOS 2.0",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "title": "Thinking Machines Corporation formed",
+      "text": "Thinking Machines Corporation formed. (US)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "title": "Apple released a 512KB version of the Macintosh, known as the \"Fat Mac",
+      "text": "Apple released a 512KB version of the Macintosh, known as the \"Fat Mac\". (US)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "title": "Sinclair Research announced its first (and only) personal computer aim",
+      "text": "Sinclair Research announced its first (and only) personal computer aimed to the business market, the Sinclair QL, at an introductory price of £399. The machine was based on the 68008 CPU of Motorola, the low-cost version of Motorola 68000 with 8-bit ",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "title": "Commodore 128 was released",
+      "text": "Commodore 128 was released. Based on a complex multi-mode architecture, this was Commodore's last 8-bit computer. Cost: $299.95 for each of the CPU unit and accompanying 1571 disk drive. (US)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "title": "Meiko Scientific formed",
+      "text": "Meiko Scientific formed.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "title": "PostScript introduced by Adobe Systems",
+      "text": "PostScript introduced by Adobe Systems. It is a powerful page description language used in the Apple Laserwriter printer. Adopted by IBM for their use in March 1987. (US)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "title": "Apple released another enhanced version of the Macintosh (the Macintos",
+      "text": "Apple released another enhanced version of the Macintosh (the Macintosh Plus personal computer)this one could cope with 4 MB of RAM (for the first time, upgradable via SIMMs) and it had a built-in SCSI adapter based on the NCR 5380. (US)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "title": "Compaq Deskpro 386 was released and is the first implementation of the",
+      "text": "Compaq Deskpro 386 was released and is the first implementation of the 80386 processor in a computer system for sale to the public. (US)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "title": "AD-LIB soundcard released",
+      "text": "AD-LIB soundcard released. Not widely supported until a software company, Taito, released several games fully supporting AD-LIBthe word then spread how much the special sound effects and music enhanced the games. (Canada)",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "title": "HyperCard software released",
+      "text": "HyperCard software released.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "title": "MCGA released (only for low end PS/2s, i",
+      "text": "MCGA released (only for low end PS/2s, i.e. the Model 30) by IBM.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of computing 1980–1989",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
+        }
+      ]
+    },
     {
       "year": 1987,
       "title": "On April 2 PS/2 Systems were introduced by IBM",
       "text": "On April 2 PS/2 Systems were introduced by IBM. The first 4 models were released on this date. The PS/2 Model 30 based on an 8086 processor and an old XT bus, Models 50 and 60 based on the 80286 processor and the Model 80 based on the 80386 processor",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1987,
-      "title": "OS/2 Launched by Microsoft and IBM",
-      "text": "OS/2 Launched by Microsoft and IBM. A later enhancement, OS/2 Warp provided many of the 32 bit enhancements boasted by Windows 95but several years earlier, yet the product failed to dominate the market in the way Windows 95 did 8 years later.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1987,
-      "title": "The 8514/A introduced by IBM",
-      "text": "The 8514/A introduced by IBM. This was a graphics card that included its own processor to speed up the drawing of common objects. The advantages included a reduction in CPU workload.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1987,
-      "title": "VGA released (designed for the PS/2) by IBM",
-      "text": "VGA released (designed for the PS/2) by IBM.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1988,
-      "title": "80386SX was released as a cheaper alternative to the 80386DX",
-      "text": "80386SX was released as a cheaper alternative to the 80386DX. It had a narrower (16 bit) time multiplexed bus. This reduction in pins, and the easier integration with 16 bit devices, made the cost savings. (US)",
       "references": [
         {
           "label": "Encyclopedia article: Timeline of computing 1980–1989",
@@ -78,107 +255,8 @@
     },
     {
       "year": 1988,
-      "title": "Common Access Method committee (CAM) formed",
-      "text": "Common Access Method committee (CAM) formed. They invented the ATA standard in March 1989.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1988,
-      "title": "EISA Bus standard introduced",
-      "text": "EISA Bus standard introduced.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1988,
-      "title": "First optical chip developed, it uses light instead of electricity to ",
-      "text": "First optical chip developed, it uses light instead of electricity to increase processing speed.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1988,
-      "title": "Foundation of the MPEG group by Leonardo Chiariglione and Hiroshi Yasu",
-      "text": "Foundation of the MPEG group by Leonardo Chiariglione and Hiroshi Yasuda. (Italy)",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1988,
-      "title": "IBM PS/2 Model 30 286 released, based on an 80286 processor and the ol",
-      "text": "IBM PS/2 Model 30 286 released, based on an 80286 processor and the old AT busIBM abandoned the MCA bus, released less than 18 months earlier. Other IBM machines continued to use the MCA bus. (US)",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1988,
       "title": "Macintosh IIx released",
       "text": "Macintosh IIx released. It was based on a new processor, the Motorola 68030. It still ran at 16 MHz but now achieved 3.9 MIPS. It could be expanded to 128 MB of RAM and had 6 NuBus expansions slots.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1988,
-      "title": "MS-DOS 4",
-      "text": "MS-DOS 4.01, PC DOS 4.01 (US)",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1988,
-      "title": "PC DOS 4",
-      "text": "PC DOS 4.0, MS-DOS 4.0 (US)",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1988,
-      "title": "WORM (Write Once Read Many times)disks marketed for first time by IBM",
-      "text": "WORM (Write Once Read Many times)disks marketed for first time by IBM.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1988,
-      "title": "XMS Standard introduced",
-      "text": "XMS Standard introduced.",
       "references": [
         {
           "label": "Encyclopedia article: Timeline of computing 1980–1989",
@@ -199,85 +277,8 @@
     },
     {
       "year": 1989,
-      "title": "Apple Computer Macintosh IIci released based on a faster version of th",
-      "text": "Apple Computer Macintosh IIci released based on a faster version of the 68030now running at 25 MHz, and achieved 6.3 MIPS. Apple also released the Macintosh Portablethe first notebook computer Mac, which went back to the original 68000 processor (but",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1989,
-      "title": "Apple Computer released Macintosh SE/30",
-      "text": "Apple Computer released Macintosh SE/30. Like the SE of March 1987 it only had a monochrome display adapter but was fitted with the newer 68030 processor. (US)",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1989,
-      "title": "Command set for E-IDE disk drives was defined by CAM (formed Oct",
-      "text": "Command set for E-IDE disk drives was defined by CAM (formed Oct. 1988). This supports drives over 528 MB in size. Early controllers often imposed a limit of 2.1 GB, then later ones 8.4GB. Newer controllers support much higher capacities. Drives grea",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1989,
-      "title": "Lotus Notes software launched",
-      "text": "Lotus Notes software launched.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1989,
       "title": "Open Architecture System Integration Strategy is presented by Apple Co",
       "text": "Open Architecture System Integration Strategy is presented by Apple Computer as the philosophy behind the Mac in marketing beginning in 1989.",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1989,
-      "title": "Release of Sound Blaster Card, by Creative Labs, its success was ensur",
-      "text": "Release of Sound Blaster Card, by Creative Labs, its success was ensured by maintaining compatibility with the widely supported AdLib soundcard of 1987. (Singapore)",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1989,
-      "title": "The Macintosh IIcx released, with the same basic capabilities of the M",
-      "text": "The Macintosh IIcx released, with the same basic capabilities of the Macintosh IIx but in a more compact half-width case. (US)",
-      "references": [
-        {
-          "label": "Encyclopedia article: Timeline of computing 1980–1989",
-          "url": "https://en.wikipedia.org/wiki/Timeline_of_computing_1980%E2%80%931989"
-        }
-      ]
-    },
-    {
-      "year": 1989,
-      "title": "The Video Electronics Standards Association, an industry consortium of",
-      "text": "The Video Electronics Standards Association, an industry consortium of major SVGA card manufacturers, was formed and introduced the VESA BIOS Extensions standard. (US)",
       "references": [
         {
           "label": "Encyclopedia article: Timeline of computing 1980–1989",
@@ -296,6 +297,5 @@
         }
       ]
     }
-  ],
-  "popularity": 88
+  ]
 }

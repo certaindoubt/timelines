@@ -8,24 +8,240 @@
   "source": "Generated from “Timeline of materials technology” on Wikipedia; each event links to its source article.",
   "wikiPage": "Timeline of materials technology",
   "via": "wiki",
-  "generated": "2026-10-06",
+  "generated": "2026-10-07",
+  "popularity": 85,
   "events": [
     {
-      "year": 1909,
-      "title": "1909",
-      "text": "Bakelite hard thermosetting plastic presented by Leo Baekeland",
+      "year": -500,
+      "title": "pottery",
+      "text": "14,500 BC – First pottery, made by the Jōmon people of Japan.",
       "references": [
         {
-          "label": "1909",
-          "url": "https://en.wikipedia.org/wiki/1909_in_science"
+          "label": "pottery",
+          "url": "https://en.wikipedia.org/wiki/pottery"
         },
         {
-          "label": "Bakelite",
-          "url": "https://en.wikipedia.org/wiki/Bakelite"
+          "label": "Jōmon",
+          "url": "https://en.wikipedia.org/wiki/J%C5%8Dmon_period"
+        }
+      ]
+    },
+    {
+      "year": 900,
+      "title": "Abū Bakr al-Rāzī describes the preparation of plaster of Paris and met",
+      "text": "Abū Bakr al-Rāzī describes the preparation of plaster of Paris and metallic antimony",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of materials technology",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_materials_technology"
+        }
+      ]
+    },
+    {
+      "year": 900,
+      "title": "Synthesis",
+      "text": "Synthesis of ammonium chloride from organic substances described in the works attributed to Jābir ibn Ḥayyān (Latin: Geber)",
+      "references": [
+        {
+          "label": "Synthesis",
+          "url": "https://en.wikipedia.org/wiki/Chemical_synthesis"
         },
         {
-          "label": "plastic",
-          "url": "https://en.wikipedia.org/wiki/plastic"
+          "label": "ammonium chloride",
+          "url": "https://en.wikipedia.org/wiki/ammonium_chloride"
+        },
+        {
+          "label": "organic substances",
+          "url": "https://en.wikipedia.org/wiki/Organic_compound"
+        }
+      ]
+    },
+    {
+      "year": 1340,
+      "title": "Liège, Belgium",
+      "text": "In Liège, Belgium, the first blast furnaces for the production of iron are developed",
+      "references": [
+        {
+          "label": "Liège, Belgium",
+          "url": "https://en.wikipedia.org/wiki/Li%C3%A8ge"
+        }
+      ]
+    },
+    {
+      "year": 1450,
+      "title": "Cristallo",
+      "text": "1450s – Cristallo, a clear soda-based glass, is invented by Angelo Barovier",
+      "references": [
+        {
+          "label": "Cristallo",
+          "url": "https://en.wikipedia.org/wiki/Cristallo"
+        },
+        {
+          "label": "Angelo Barovier",
+          "url": "https://en.wikipedia.org/wiki/Angelo_Barovier"
+        }
+      ]
+    },
+    {
+      "year": 1550,
+      "title": "1556",
+      "text": "Georg Agricola's influential book on metallurgy",
+      "references": [
+        {
+          "label": "1556",
+          "url": "https://en.wikipedia.org/wiki/%3ACategory%3A1550s_in_science"
+        },
+        {
+          "label": "Georg Agricola",
+          "url": "https://en.wikipedia.org/wiki/Georg_Agricola"
+        },
+        {
+          "label": "metallurgy",
+          "url": "https://en.wikipedia.org/wiki/metallurgy"
+        }
+      ]
+    },
+    {
+      "year": 1664,
+      "title": "In the pipes supplying water to the gardens at Versailles, cast iron i",
+      "text": "In the pipes supplying water to the gardens at Versailles, cast iron is used",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of materials technology",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_materials_technology"
+        }
+      ]
+    },
+    {
+      "year": 1738,
+      "title": "1738",
+      "text": "Metallic zinc processed by distillation from calamine and charcoal patented by William Champion",
+      "references": [
+        {
+          "label": "1738",
+          "url": "https://en.wikipedia.org/wiki/1738_in_science"
+        },
+        {
+          "label": "zinc",
+          "url": "https://en.wikipedia.org/wiki/zinc"
+        },
+        {
+          "label": "distillation",
+          "url": "https://en.wikipedia.org/wiki/distillation"
+        }
+      ]
+    },
+    {
+      "year": 1799,
+      "title": "1799",
+      "text": "Acid battery made from copper/zinc by Alessandro Volta",
+      "references": [
+        {
+          "label": "1799",
+          "url": "https://en.wikipedia.org/wiki/1799_in_science"
+        },
+        {
+          "label": "Acid",
+          "url": "https://en.wikipedia.org/wiki/Acid"
+        },
+        {
+          "label": "battery",
+          "url": "https://en.wikipedia.org/wiki/battery_(electricity)"
+        }
+      ]
+    },
+    {
+      "year": 1824,
+      "title": "1824",
+      "text": "Portland cement patent issued to Joseph Aspdin",
+      "references": [
+        {
+          "label": "1824",
+          "url": "https://en.wikipedia.org/wiki/1824_in_science"
+        },
+        {
+          "label": "Portland cement",
+          "url": "https://en.wikipedia.org/wiki/Portland_cement"
+        },
+        {
+          "label": "Joseph Aspdin",
+          "url": "https://en.wikipedia.org/wiki/Joseph_Aspdin"
+        }
+      ]
+    },
+    {
+      "year": 1839,
+      "title": "1839",
+      "text": "Silver-based photographic processes invented by Louis Daguerre and William Fox Talbot",
+      "references": [
+        {
+          "label": "1839",
+          "url": "https://en.wikipedia.org/wiki/1839_in_science"
+        },
+        {
+          "label": "Silver",
+          "url": "https://en.wikipedia.org/wiki/Silver"
+        },
+        {
+          "label": "photographic",
+          "url": "https://en.wikipedia.org/wiki/photography"
+        }
+      ]
+    },
+    {
+      "year": 1855,
+      "title": "1855",
+      "text": "Bessemer process for mass production of steel patented by Henry Bessemer",
+      "references": [
+        {
+          "label": "1855",
+          "url": "https://en.wikipedia.org/wiki/1855_in_science"
+        },
+        {
+          "label": "Bessemer process",
+          "url": "https://en.wikipedia.org/wiki/Bessemer_process"
+        },
+        {
+          "label": "Henry Bessemer",
+          "url": "https://en.wikipedia.org/wiki/Henry_Bessemer"
+        }
+      ]
+    },
+    {
+      "year": 1883,
+      "title": "1883",
+      "text": "First solar cells using selenium waffles made by Charles Fritts",
+      "references": [
+        {
+          "label": "1883",
+          "url": "https://en.wikipedia.org/wiki/1883_in_science"
+        },
+        {
+          "label": "solar cell",
+          "url": "https://en.wikipedia.org/wiki/solar_cell"
+        },
+        {
+          "label": "selenium",
+          "url": "https://en.wikipedia.org/wiki/selenium"
+        }
+      ]
+    },
+    {
+      "year": 1908,
+      "title": "1908",
+      "text": "Cellophane invented by Jacques E. Brandenberger",
+      "references": [
+        {
+          "label": "1908",
+          "url": "https://en.wikipedia.org/wiki/1908_in_science"
+        },
+        {
+          "label": "Cellophane",
+          "url": "https://en.wikipedia.org/wiki/Cellophane"
+        },
+        {
+          "label": "Jacques E. Brandenberger",
+          "url": "https://en.wikipedia.org/wiki/Jacques_E._Brandenberger"
         }
       ]
     },
@@ -49,25 +265,6 @@
       ]
     },
     {
-      "year": 1912,
-      "title": "1912",
-      "text": "Stainless steel invented by Harry Brearley",
-      "references": [
-        {
-          "label": "1912",
-          "url": "https://en.wikipedia.org/wiki/1912_in_science"
-        },
-        {
-          "label": "Stainless steel",
-          "url": "https://en.wikipedia.org/wiki/Stainless_steel"
-        },
-        {
-          "label": "Harry Brearley",
-          "url": "https://en.wikipedia.org/wiki/Harry_Brearley"
-        }
-      ]
-    },
-    {
       "year": 1916,
       "title": "1916",
       "text": "Method for growing single crystals of metals invented by Jan Czochralski",
@@ -83,21 +280,6 @@
         {
           "label": "metal",
           "url": "https://en.wikipedia.org/wiki/metal"
-        }
-      ]
-    },
-    {
-      "year": 1919,
-      "title": "Fullagar",
-      "text": "The merchant ship Fullagar has the first all welded hull.",
-      "references": [
-        {
-          "label": "Fullagar",
-          "url": "https://en.wikipedia.org/wiki/Cammell_Laird"
-        },
-        {
-          "label": "welded",
-          "url": "https://en.wikipedia.org/wiki/Welding"
         }
       ]
     },
@@ -123,25 +305,6 @@
     {
       "year": 1931,
       "title": "1931",
-      "text": "Nylon developed by Wallace Carothers",
-      "references": [
-        {
-          "label": "1931",
-          "url": "https://en.wikipedia.org/wiki/1931_in_science"
-        },
-        {
-          "label": "Nylon",
-          "url": "https://en.wikipedia.org/wiki/Nylon"
-        },
-        {
-          "label": "Wallace Carothers",
-          "url": "https://en.wikipedia.org/wiki/Wallace_Carothers"
-        }
-      ]
-    },
-    {
-      "year": 1931,
-      "title": "1931",
       "text": "synthetic rubber called neoprene developed by Julius Nieuwland (see also: E.K. Bolton, Wallace Carothers)",
       "references": [
         {
@@ -155,44 +318,6 @@
         {
           "label": "neoprene",
           "url": "https://en.wikipedia.org/wiki/neoprene"
-        }
-      ]
-    },
-    {
-      "year": 1935,
-      "title": "1935",
-      "text": "Langmuir–Blodgett film coating of glass was developed by Katharine Burr Blodgett, creating \"invisible glass\" which is >99% transmissive",
-      "references": [
-        {
-          "label": "1935",
-          "url": "https://en.wikipedia.org/wiki/1935_in_science"
-        },
-        {
-          "label": "Langmuir–Blodgett film",
-          "url": "https://en.wikipedia.org/wiki/Langmuir%E2%80%93Blodgett_film"
-        },
-        {
-          "label": "Katharine Burr Blodgett",
-          "url": "https://en.wikipedia.org/wiki/Katharine_Burr_Blodgett"
-        }
-      ]
-    },
-    {
-      "year": 1938,
-      "title": "1938",
-      "text": "The process for making poly-tetrafluoroethylene, better known as Teflon discovered by Roy Plunkett",
-      "references": [
-        {
-          "label": "1938",
-          "url": "https://en.wikipedia.org/wiki/1938_in_science"
-        },
-        {
-          "label": "Teflon",
-          "url": "https://en.wikipedia.org/wiki/Polytetrafluoroethylene"
-        },
-        {
-          "label": "Roy Plunkett",
-          "url": "https://en.wikipedia.org/wiki/Roy_J._Plunkett"
         }
       ]
     },
@@ -214,25 +339,6 @@
     {
       "year": 1947,
       "title": "1947",
-      "text": "First commercial application of a piezoelectric ceramic: barium titanate used as a phonograph pickup",
-      "references": [
-        {
-          "label": "1947",
-          "url": "https://en.wikipedia.org/wiki/1947_in_science"
-        },
-        {
-          "label": "piezoelectric",
-          "url": "https://en.wikipedia.org/wiki/piezoelectricity"
-        },
-        {
-          "label": "ceramic",
-          "url": "https://en.wikipedia.org/wiki/ceramic"
-        }
-      ]
-    },
-    {
-      "year": 1947,
-      "title": "1947",
       "text": "First germanium point-contact transistor invented",
       "references": [
         {
@@ -246,25 +352,6 @@
         {
           "label": "point-contact transistor",
           "url": "https://en.wikipedia.org/wiki/point-contact_transistor"
-        }
-      ]
-    },
-    {
-      "year": 1951,
-      "title": "1951",
-      "text": "Individual atoms seen for the first time using the field ion microscope",
-      "references": [
-        {
-          "label": "1951",
-          "url": "https://en.wikipedia.org/wiki/1951_in_science"
-        },
-        {
-          "label": "atom",
-          "url": "https://en.wikipedia.org/wiki/atom"
-        },
-        {
-          "label": "field ion microscope",
-          "url": "https://en.wikipedia.org/wiki/field_ion_microscope"
         }
       ]
     },
@@ -290,25 +377,6 @@
     {
       "year": 1954,
       "title": "1954",
-      "text": "Argon oxygen decarburization (AOD) refining invented by scientists at the Union Carbide Corporation",
-      "references": [
-        {
-          "label": "1954",
-          "url": "https://en.wikipedia.org/wiki/1954_in_science"
-        },
-        {
-          "label": "Argon oxygen decarburization",
-          "url": "https://en.wikipedia.org/wiki/Argon_oxygen_decarburization"
-        },
-        {
-          "label": "Union Carbide Corporation",
-          "url": "https://en.wikipedia.org/wiki/Union_Carbide_Corporation"
-        }
-      ]
-    },
-    {
-      "year": 1954,
-      "title": "1954",
       "text": "Silicon solar cells with 6% efficiency made at Bell Laboratories",
       "references": [
         {
@@ -326,25 +394,6 @@
       ]
     },
     {
-      "year": 1959,
-      "title": "1959",
-      "text": "Float glass process patented by the Pilkington Brothers",
-      "references": [
-        {
-          "label": "1959",
-          "url": "https://en.wikipedia.org/wiki/1959_in_science"
-        },
-        {
-          "label": "Float glass",
-          "url": "https://en.wikipedia.org/wiki/Float_glass"
-        },
-        {
-          "label": "Pilkington Brothers",
-          "url": "https://en.wikipedia.org/wiki/Pilkington_Brothers"
-        }
-      ]
-    },
-    {
       "year": 1962,
       "title": "1962",
       "text": "SQUID superconducting quantum interference device invented",
@@ -356,44 +405,6 @@
         {
           "label": "SQUID",
           "url": "https://en.wikipedia.org/wiki/SQUID"
-        }
-      ]
-    },
-    {
-      "year": 1966,
-      "title": "1966",
-      "text": "Stephanie Kwolek invented a fibre that would later become known as Kevlar",
-      "references": [
-        {
-          "label": "1966",
-          "url": "https://en.wikipedia.org/wiki/1966_in_science"
-        },
-        {
-          "label": "Stephanie Kwolek",
-          "url": "https://en.wikipedia.org/wiki/Stephanie_Kwolek"
-        },
-        {
-          "label": "Kevlar",
-          "url": "https://en.wikipedia.org/wiki/Kevlar"
-        }
-      ]
-    },
-    {
-      "year": 1968,
-      "title": "1968",
-      "text": "Liquid crystal display developed by RCA",
-      "references": [
-        {
-          "label": "1968",
-          "url": "https://en.wikipedia.org/wiki/1968_in_science"
-        },
-        {
-          "label": "Liquid crystal display",
-          "url": "https://en.wikipedia.org/wiki/Liquid_crystal_display"
-        },
-        {
-          "label": "RCA",
-          "url": "https://en.wikipedia.org/wiki/RCA_Corporation"
         }
       ]
     },
@@ -417,21 +428,6 @@
       ]
     },
     {
-      "year": 1980,
-      "title": "1980",
-      "text": "Duplex stainless steels developed which resist oxidation in chlorides",
-      "references": [
-        {
-          "label": "1980",
-          "url": "https://en.wikipedia.org/wiki/1980_in_science"
-        },
-        {
-          "label": "Duplex stainless steel",
-          "url": "https://en.wikipedia.org/wiki/Duplex_stainless_steel"
-        }
-      ]
-    },
-    {
       "year": 1984,
       "title": "1984",
       "text": "Fold-forming system developed by Charles Lewton-Brain to produce complex three dimensional forms rapidly from sheet metal",
@@ -443,25 +439,6 @@
         {
           "label": "Fold-forming",
           "url": "https://en.wikipedia.org/wiki/Fold-forming"
-        }
-      ]
-    },
-    {
-      "year": 1985,
-      "title": "1985",
-      "text": "The first fullerene molecule discovered by scientists at Rice University (see also: Timeline of carbon nanotubes)",
-      "references": [
-        {
-          "label": "1985",
-          "url": "https://en.wikipedia.org/wiki/1985_in_science"
-        },
-        {
-          "label": "fullerene",
-          "url": "https://en.wikipedia.org/wiki/fullerene"
-        },
-        {
-          "label": "Rice University",
-          "url": "https://en.wikipedia.org/wiki/Rice_University"
         }
       ]
     },
@@ -484,6 +461,5 @@
         }
       ]
     }
-  ],
-  "popularity": 85
+  ]
 }

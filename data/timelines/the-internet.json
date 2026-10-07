@@ -8,53 +8,261 @@
   "source": "Generated from “Timeline of the history of the Internet” on Wikipedia; each event links to its source article.",
   "wikiPage": "Timeline of the history of the Internet",
   "via": "wiki",
-  "generated": "2026-10-06",
+  "generated": "2026-10-07",
+  "popularity": 97,
   "events": [
     {
-      "year": 2006,
-      "title": "Twitter microblogging",
-      "text": "Twitter microblogging",
+      "year": 1960,
+      "title": "Distributed networking concepts for digital voice communication develo",
+      "text": "Distributed networking concepts for digital voice communication developed by Paul Baran at RAND",
       "references": [
         {
-          "label": "Twitter",
-          "url": "https://en.wikipedia.org/wiki/Twitter"
-        }
-      ]
-    },
-    {
-      "year": 2007,
-      "title": "Google Street View",
-      "text": "Google Street View",
-      "references": [
-        {
-          "label": "Google Street View",
-          "url": "https://en.wikipedia.org/wiki/Google_Street_View"
-        }
-      ]
-    },
-    {
-      "year": 2007,
-      "title": "Kindle, e-reader and virtual bookshop",
-      "text": "Kindle, e-reader and virtual bookshop",
-      "references": [
-        {
-          "label": "Kindle",
-          "url": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+          "label": "Paul Baran",
+          "url": "https://en.wikipedia.org/wiki/Paul_Baran"
         },
         {
-          "label": "e-reader",
-          "url": "https://en.wikipedia.org/wiki/e-reader"
+          "label": "RAND",
+          "url": "https://en.wikipedia.org/wiki/RAND"
         }
       ]
     },
     {
-      "year": 2007,
-      "title": "WikiLeaks anonymous news and information leaks",
-      "text": "WikiLeaks anonymous news and information leaks",
+      "year": 1969,
+      "title": "NPL network followed by the ARPANET carry their first packets",
+      "text": "NPL network followed by the ARPANET carry their first packets",
       "references": [
         {
-          "label": "WikiLeaks",
-          "url": "https://en.wikipedia.org/wiki/WikiLeaks"
+          "label": "NPL network",
+          "url": "https://en.wikipedia.org/wiki/NPL_network"
+        }
+      ]
+    },
+    {
+      "year": 1973,
+      "title": "CYCLADES network demonstrated by Louis Pouzin and Hubert Zimmerman",
+      "text": "CYCLADES network demonstrated by Louis Pouzin and Hubert Zimmerman",
+      "references": [
+        {
+          "label": "CYCLADES",
+          "url": "https://en.wikipedia.org/wiki/CYCLADES"
+        },
+        {
+          "label": "Louis Pouzin",
+          "url": "https://en.wikipedia.org/wiki/Louis_Pouzin"
+        },
+        {
+          "label": "Hubert Zimmerman",
+          "url": "https://en.wikipedia.org/wiki/Hubert_Zimmerman"
+        }
+      ]
+    },
+    {
+      "year": 1978,
+      "title": "Minitel introduced",
+      "text": "Minitel introduced",
+      "references": [
+        {
+          "label": "Minitel",
+          "url": "https://en.wikipedia.org/wiki/Minitel"
+        }
+      ]
+    },
+    {
+      "year": 1982,
+      "title": "Simple Mail Transfer Protocol (SMTP)",
+      "text": "Simple Mail Transfer Protocol (SMTP)",
+      "references": [
+        {
+          "label": "Simple Mail Transfer Protocol",
+          "url": "https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "title": "First",
+      "text": "First .COM domain name registered",
+      "references": [
+        {
+          "label": "First .COM domain name registered",
+          "url": "https://en.wikipedia.org/wiki/Domain_names%23Domain_name_registration"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "title": "Morris worm",
+      "text": "Morris worm",
+      "references": [
+        {
+          "label": "Morris worm",
+          "url": "https://en.wikipedia.org/wiki/Morris_worm"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "title": "PSINet founded, allows commercial traffic",
+      "text": "PSINet founded, allows commercial traffic",
+      "references": [
+        {
+          "label": "PSINet",
+          "url": "https://en.wikipedia.org/wiki/PSINet"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "IMDb Internet movie database",
+      "text": "IMDb Internet movie database",
+      "references": [
+        {
+          "label": "IMDb",
+          "url": "https://en.wikipedia.org/wiki/IMDb"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "title": "World Wide Web (WWW)",
+      "text": "World Wide Web (WWW)",
+      "references": [
+        {
+          "label": "World Wide Web",
+          "url": "https://en.wikipedia.org/wiki/World_Wide_Web"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "title": "Mosaic web browser released",
+      "text": "Mosaic web browser released",
+      "references": [
+        {
+          "label": "Mosaic web browser",
+          "url": "https://en.wikipedia.org/wiki/NCSA_Mosaic"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "title": "Amazon online retailer",
+      "text": "Amazon online retailer",
+      "references": [
+        {
+          "label": "Amazon",
+          "url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "title": "New Internet architecture with commercial ISPs connected at NAPs",
+      "text": "New Internet architecture with commercial ISPs connected at NAPs",
+      "references": [
+        {
+          "label": "ISP",
+          "url": "https://en.wikipedia.org/wiki/Internet_service_provider"
+        },
+        {
+          "label": "NAPs",
+          "url": "https://en.wikipedia.org/wiki/Network_Access_Point"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "title": "RankDex search engine",
+      "text": "RankDex search engine",
+      "references": [
+        {
+          "label": "RankDex",
+          "url": "https://en.wikipedia.org/wiki/Baidu"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "title": "Rotten Tomatoes review aggregator",
+      "text": "Rotten Tomatoes review aggregator",
+      "references": [
+        {
+          "label": "Rotten Tomatoes",
+          "url": "https://en.wikipedia.org/wiki/Rotten_Tomatoes"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "title": "Internet2/Abilene Network",
+      "text": "Internet2/Abilene Network",
+      "references": [
+        {
+          "label": "Internet2",
+          "url": "https://en.wikipedia.org/wiki/Internet2"
+        },
+        {
+          "label": "Abilene Network",
+          "url": "https://en.wikipedia.org/wiki/Abilene_Network"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "title": "BitTorrent peer-to-peer file sharing",
+      "text": "BitTorrent peer-to-peer file sharing",
+      "references": [
+        {
+          "label": "BitTorrent",
+          "url": "https://en.wikipedia.org/wiki/BitTorrent"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "title": "iTunes Store",
+      "text": "iTunes Store",
+      "references": [
+        {
+          "label": "iTunes Store",
+          "url": "https://en.wikipedia.org/wiki/iTunes_Store"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "title": "The Pirate Bay, torrent file host",
+      "text": "The Pirate Bay, torrent file host",
+      "references": [
+        {
+          "label": "The Pirate Bay",
+          "url": "https://en.wikipedia.org/wiki/The_Pirate_Bay"
+        },
+        {
+          "label": "torrent file",
+          "url": "https://en.wikipedia.org/wiki/torrent_file"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "UN Working Group on Internet Governance (WGIG)",
+      "text": "UN Working Group on Internet Governance (WGIG)",
+      "references": [
+        {
+          "label": "UN Working Group on Internet Governance (WGIG)",
+          "url": "https://en.wikipedia.org/wiki/Working_Group_on_Internet_Governance"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "title": "First meeting of the Internet Governance Forum",
+      "text": "First meeting of the Internet Governance Forum",
+      "references": [
+        {
+          "label": "First meeting of the Internet Governance Forum",
+          "url": "https://en.wikipedia.org/wiki/Internet_Governance_Forum"
         }
       ]
     },
@@ -70,69 +278,6 @@
       ]
     },
     {
-      "year": 2008,
-      "title": "Dropbox cloud-based file hosting",
-      "text": "Dropbox cloud-based file hosting",
-      "references": [
-        {
-          "label": "Dropbox",
-          "url": "https://en.wikipedia.org/wiki/Dropbox"
-        }
-      ]
-    },
-    {
-      "year": 2008,
-      "title": "Encyclopedia of Life, a collaborative encyclopedia intended to documen",
-      "text": "Encyclopedia of Life, a collaborative encyclopedia intended to document all living species",
-      "references": [
-        {
-          "label": "Encyclopedia of Life",
-          "url": "https://en.wikipedia.org/wiki/Encyclopedia_of_Life"
-        }
-      ]
-    },
-    {
-      "year": 2008,
-      "title": "Spotify, a DRM-based music streaming service",
-      "text": "Spotify, a DRM-based music streaming service",
-      "references": [
-        {
-          "label": "Spotify",
-          "url": "https://en.wikipedia.org/wiki/Spotify"
-        },
-        {
-          "label": "DRM-based",
-          "url": "https://en.wikipedia.org/wiki/Digital_rights_management"
-        }
-      ]
-    },
-    {
-      "year": 2009,
-      "title": "Bing search engine",
-      "text": "Bing search engine",
-      "references": [
-        {
-          "label": "Bing",
-          "url": "https://en.wikipedia.org/wiki/Microsoft_Bing"
-        }
-      ]
-    },
-    {
-      "year": 2009,
-      "title": "Bitcoin, a digital currency",
-      "text": "Bitcoin, a digital currency",
-      "references": [
-        {
-          "label": "Bitcoin",
-          "url": "https://en.wikipedia.org/wiki/Bitcoin"
-        },
-        {
-          "label": "digital currency",
-          "url": "https://en.wikipedia.org/wiki/digital_currency"
-        }
-      ]
-    },
-    {
       "year": 2009,
       "title": "Google Docs, Web-based word processor, spreadsheet, presentation, form",
       "text": "Google Docs, Web-based word processor, spreadsheet, presentation, form, and data storage service",
@@ -140,66 +285,6 @@
         {
           "label": "Google Docs",
           "url": "https://en.wikipedia.org/wiki/Google_Docs"
-        }
-      ]
-    },
-    {
-      "year": 2009,
-      "title": "Kickstarter, a threshold pledge system",
-      "text": "Kickstarter, a threshold pledge system",
-      "references": [
-        {
-          "label": "Kickstarter",
-          "url": "https://en.wikipedia.org/wiki/Kickstarter"
-        },
-        {
-          "label": "threshold pledge system",
-          "url": "https://en.wikipedia.org/wiki/threshold_pledge_system"
-        }
-      ]
-    },
-    {
-      "year": 2010,
-      "title": "First internationalized country code top-level domains registered",
-      "text": "First internationalized country code top-level domains registered",
-      "references": [
-        {
-          "label": "First internationalized country code top-level domains",
-          "url": "https://en.wikipedia.org/wiki/Top-level_domain%23Internationalized_country_code_TLDs"
-        }
-      ]
-    },
-    {
-      "year": 2010,
-      "title": "Instagram, photo sharing and social networking",
-      "text": "Instagram, photo sharing and social networking",
-      "references": [
-        {
-          "label": "Instagram",
-          "url": "https://en.wikipedia.org/wiki/Instagram"
-        },
-        {
-          "label": "photo sharing",
-          "url": "https://en.wikipedia.org/wiki/photo_sharing"
-        },
-        {
-          "label": "social networking",
-          "url": "https://en.wikipedia.org/wiki/social_networking"
-        }
-      ]
-    },
-    {
-      "year": 2011,
-      "title": "Google+, social networking",
-      "text": "Google+, social networking",
-      "references": [
-        {
-          "label": "Google+",
-          "url": "https://en.wikipedia.org/wiki/Google%2B"
-        },
-        {
-          "label": "social networking",
-          "url": "https://en.wikipedia.org/wiki/social_networking"
         }
       ]
     },
@@ -219,50 +304,6 @@
       ]
     },
     {
-      "year": 2012,
-      "title": "Coursera, massive open online courses",
-      "text": "Coursera, massive open online courses",
-      "references": [
-        {
-          "label": "Coursera",
-          "url": "https://en.wikipedia.org/wiki/Coursera"
-        }
-      ]
-    },
-    {
-      "year": 2012,
-      "title": "ICANN begins accepting applications for new generic top-level domain n",
-      "text": "ICANN begins accepting applications for new generic top-level domain names",
-      "references": [
-        {
-          "label": "ICANN begins accepting applications for new generic top-level domain names",
-          "url": "https://en.wikipedia.org/wiki/Generic_top-level_domain%23New_top-level_domains"
-        }
-      ]
-    },
-    {
-      "year": 2013,
-      "title": "Montevideo Statement on the Future of Internet Cooperation",
-      "text": "Montevideo Statement on the Future of Internet Cooperation",
-      "references": [
-        {
-          "label": "Montevideo Statement on the Future of Internet Cooperation",
-          "url": "https://en.wikipedia.org/wiki/Montevideo_Statement_on_the_Future_of_Internet_Cooperation"
-        }
-      ]
-    },
-    {
-      "year": 2014,
-      "title": "NetMundial international Internet governance proposal",
-      "text": "NetMundial international Internet governance proposal",
-      "references": [
-        {
-          "label": "NetMundial international Internet governance proposal",
-          "url": "https://en.wikipedia.org/wiki/NetMundial_Initiative"
-        }
-      ]
-    },
-    {
       "year": 2016,
       "title": "ICANN contract with U",
       "text": "ICANN contract with U.S. Dept. of Commerce ends, IANA oversight passes to the global Internet community on October 1st",
@@ -274,58 +315,6 @@
         {
           "label": "IANA",
           "url": "https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority"
-        }
-      ]
-    },
-    {
-      "year": 2016,
-      "title": "TikTok, video sharing and social networking",
-      "text": "TikTok, video sharing and social networking",
-      "references": [
-        {
-          "label": "TikTok",
-          "url": "https://en.wikipedia.org/wiki/TikTok"
-        },
-        {
-          "label": "video sharing",
-          "url": "https://en.wikipedia.org/wiki/video_sharing"
-        },
-        {
-          "label": "social networking",
-          "url": "https://en.wikipedia.org/wiki/social_networking"
-        }
-      ]
-    },
-    {
-      "year": 2018,
-      "title": "The European Union's General Data Protection Regulation (GDPR) goes in",
-      "text": "The European Union's General Data Protection Regulation (GDPR) goes into effect, establishing stringent new global data privacy standards",
-      "references": [
-        {
-          "label": "General Data Protection Regulation",
-          "url": "https://en.wikipedia.org/wiki/General_Data_Protection_Regulation"
-        }
-      ]
-    },
-    {
-      "year": 2020,
-      "title": "Global internet traffic experiences a massive surge due to the COVID-1",
-      "text": "Global internet traffic experiences a massive surge due to the COVID-19 pandemic, heavily accelerating remote work and digital communication platforms",
-      "references": [
-        {
-          "label": "COVID-19 pandemic",
-          "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic"
-        }
-      ]
-    },
-    {
-      "year": 2020,
-      "title": "Zoom experiences widespread global adoption during the COVID-19 pandem",
-      "text": "Zoom experiences widespread global adoption during the COVID-19 pandemic",
-      "references": [
-        {
-          "label": "Zoom",
-          "url": "https://en.wikipedia.org/wiki/Zoom_(software)"
         }
       ]
     },
@@ -348,6 +337,5 @@
         }
       ]
     }
-  ],
-  "popularity": 97
+  ]
 }

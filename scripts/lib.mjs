@@ -71,6 +71,12 @@ export function normalizeText(raw) {
 }
 
 export function extractYear(s) {
+  if (s == null) return null;
+  s = String(s);
+  const bc = s.match(/(\d{1,4})\s*(?:B\.?\s*C\.?(?:\s*E\.?)?)/i);
+  if (bc) return -parseInt(bc[1], 10);
+  const ad = s.match(/(\d{1,4})\s*(?:A\.?\s*D\.?|C\.?\s*E\.?)/i);
+  if (ad) return parseInt(ad[1], 10);
   const m = s.match(/(?:^|\D)(\d{3,4})(?:\D|$)/);
   return m ? parseInt(m[1], 10) : null;
 }

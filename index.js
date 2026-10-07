@@ -1,4 +1,4 @@
-import { ESC, fmtNumber, pluralize, loadIndex } from './assets/common.js';
+import { ESC, fmtNumber, fmtYear, pluralize, loadIndex } from './assets/common.js';
 
 const grid = document.getElementById('grid');
 const countEl = document.getElementById('count');
@@ -31,7 +31,7 @@ function tileHtml(t) {
       <h3>${ESC(t.title)}</h3>
       <div class="tagline">${ESC(t.tagline)}</div>
       <div class="meta">
-        <span><b>${fmtNumber(t.from)}</b> &ndash; <b>${fmtNumber(t.to)}</b></span>
+        <span><b>${fmtYear(t.from)}</b> &ndash; <b>${fmtYear(t.to)}</b></span>
         <span><b>${pluralize(t.events, 'event', 'events')}</b></span>
       </div>
     </a>`;

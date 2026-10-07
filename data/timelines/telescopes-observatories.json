@@ -8,46 +8,302 @@
   "source": "Generated from “Timeline of telescopes, observatories, and observing technology” on Wikipedia; each event links to its source article.",
   "wikiPage": "Timeline of telescopes, observatories, and observing technology",
   "via": "wiki",
-  "generated": "2026-10-06",
+  "generated": "2026-10-07",
+  "popularity": 90,
   "events": [
     {
-      "year": 1980,
-      "title": "Infrared Astronomical Satellite",
-      "text": "Infrared Astronomical Satellite (IRAS) telescope",
+      "year": 100,
+      "title": "Astrolabe",
+      "text": "150 BCE, Astrolabe invented by Apollonius of Perga",
       "references": [
         {
-          "label": "Infrared Astronomical Satellite",
-          "url": "https://en.wikipedia.org/wiki/Infrared_Astronomical_Satellite"
+          "label": "Astrolabe",
+          "url": "https://en.wikipedia.org/wiki/Astrolabe"
+        },
+        {
+          "label": "Apollonius of Perga",
+          "url": "https://en.wikipedia.org/wiki/Apollonius_of_Perga"
         }
       ]
     },
     {
-      "year": 1980,
-      "title": "IRAM 30-m",
-      "text": "IRAM 30-m telescope at Pico Veleta near Granada, Spain completed",
+      "year": 600,
+      "title": "Tang dynasty",
+      "text": "Tang dynasty-Song dynasty, observatories built in Chang'an, Kaifeng, Hangzhou, China",
       "references": [
         {
-          "label": "IRAM 30-m",
-          "url": "https://en.wikipedia.org/wiki/IRAM_30-m"
+          "label": "Tang dynasty",
+          "url": "https://en.wikipedia.org/wiki/Tang_dynasty"
         },
         {
-          "label": "Pico Veleta",
-          "url": "https://en.wikipedia.org/wiki/Veleta_(Sierra_Nevada)"
+          "label": "Song dynasty",
+          "url": "https://en.wikipedia.org/wiki/Song_dynasty"
         },
         {
-          "label": "Granada",
-          "url": "https://en.wikipedia.org/wiki/Granada"
+          "label": "Chang'an",
+          "url": "https://en.wikipedia.org/wiki/Chang'an"
         }
       ]
     },
     {
-      "year": 1980,
-      "title": "James Clerk Maxwell Telescope",
-      "text": "m James Clerk Maxwell Telescope UK submillimetre telescope installed at Mauna Kea Observatory",
+      "year": 1000,
+      "title": "Planisphere",
+      "text": "11th century – Planisphere invented by Biruni",
       "references": [
         {
-          "label": "James Clerk Maxwell Telescope",
-          "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell_Telescope"
+          "label": "Planisphere",
+          "url": "https://en.wikipedia.org/wiki/Planisphere"
+        }
+      ]
+    },
+    {
+      "year": 1100,
+      "title": "Jabir ibn Aflah",
+      "text": "Jabir ibn Aflah develops instruments resembling and perhaps inspiring the torquetum, an observational instrument and mechanical analog computer device",
+      "references": [
+        {
+          "label": "Jabir ibn Aflah",
+          "url": "https://en.wikipedia.org/wiki/Jabir_ibn_Aflah"
+        },
+        {
+          "label": "torquetum",
+          "url": "https://en.wikipedia.org/wiki/torquetum"
+        },
+        {
+          "label": "analog computer",
+          "url": "https://en.wikipedia.org/wiki/analog_computer"
+        }
+      ]
+    },
+    {
+      "year": 1400,
+      "title": "Oradea",
+      "text": "Observatory at Nagyvarad Oradea, Kingdom of Hungary for Matthias Corvinus. Tabula Varadensis.",
+      "references": [
+        {
+          "label": "Oradea",
+          "url": "https://en.wikipedia.org/wiki/Oradea"
+        },
+        {
+          "label": "Matthias Corvinus",
+          "url": "https://en.wikipedia.org/wiki/Matthias_Corvinus"
+        }
+      ]
+    },
+    {
+      "year": 1500,
+      "title": "Uraniborg",
+      "text": "Royal Danish Astronomical Observatory Uraniborg at Ven by Tycho Brahe",
+      "references": [
+        {
+          "label": "Uraniborg",
+          "url": "https://en.wikipedia.org/wiki/Uraniborg"
+        },
+        {
+          "label": "Ven",
+          "url": "https://en.wikipedia.org/wiki/Ven_(Sweden)"
+        },
+        {
+          "label": "Tycho Brahe",
+          "url": "https://en.wikipedia.org/wiki/Tycho_Brahe"
+        }
+      ]
+    },
+    {
+      "year": 1600,
+      "title": "Jan Hevelius",
+      "text": "Danzig/Gdansk observatory of Jan Hevelius",
+      "references": [
+        {
+          "label": "Jan Hevelius",
+          "url": "https://en.wikipedia.org/wiki/Johannes_Hevelius"
+        }
+      ]
+    },
+    {
+      "year": 1600,
+      "title": "Niccolò Zucchi",
+      "text": "Niccolò Zucchi experiments with a reflecting telescope",
+      "references": [
+        {
+          "label": "Niccolò Zucchi",
+          "url": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Zucchi"
+        },
+        {
+          "label": "reflecting telescope",
+          "url": "https://en.wikipedia.org/wiki/reflecting_telescope"
+        }
+      ]
+    },
+    {
+      "year": 1700,
+      "title": "Florence",
+      "text": "Florence Specola observatory",
+      "references": [
+        {
+          "label": "Florence",
+          "url": "https://en.wikipedia.org/wiki/Florence"
+        },
+        {
+          "label": "Specola",
+          "url": "https://en.wikipedia.org/wiki/La_Specola"
+        }
+      ]
+    },
+    {
+      "year": 1700,
+      "title": "Short",
+      "text": "Short reflectors used at 63 station network for transit of Venus",
+      "references": [
+        {
+          "label": "Short",
+          "url": "https://en.wikipedia.org/wiki/James_Short_(mathematician)"
+        },
+        {
+          "label": "transit of Venus",
+          "url": "https://en.wikipedia.org/wiki/transit_of_Venus"
+        }
+      ]
+    },
+    {
+      "year": 1800,
+      "title": "1836 Swathithirunal opened Trivandrum observatory",
+      "text": "1836 Swathithirunal opened Trivandrum observatory",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of telescopes, observatories, and observing technology",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_telescopes%2C_observatories%2C_and_observing_technology"
+        }
+      ]
+    },
+    {
+      "year": 1800,
+      "title": "91cm refracting telescope",
+      "text": "First light of 91cm refracting telescope at Lick Observatory, on Mount Hamilton near San Jose, California",
+      "references": [
+        {
+          "label": "91cm refracting telescope",
+          "url": "https://en.wikipedia.org/wiki/James_Lick_telescope"
+        },
+        {
+          "label": "Lick Observatory",
+          "url": "https://en.wikipedia.org/wiki/Lick_Observatory"
+        },
+        {
+          "label": "Mount Hamilton",
+          "url": "https://en.wikipedia.org/wiki/Mount_Hamilton_(California)"
+        }
+      ]
+    },
+    {
+      "year": 1800,
+      "title": "Kirchhoff",
+      "text": "Kirchhoff and Bunsen develop spectroscopy",
+      "references": [
+        {
+          "label": "Kirchhoff",
+          "url": "https://en.wikipedia.org/wiki/Gustav_Kirchhoff"
+        },
+        {
+          "label": "Bunsen",
+          "url": "https://en.wikipedia.org/wiki/Robert_Bunsen"
+        },
+        {
+          "label": "spectroscopy",
+          "url": "https://en.wikipedia.org/wiki/spectroscopy"
+        }
+      ]
+    },
+    {
+      "year": 1900,
+      "title": "Carnegie Institution",
+      "text": "Observatories of the Carnegie Institution of Washington founded",
+      "references": [
+        {
+          "label": "Carnegie Institution",
+          "url": "https://en.wikipedia.org/wiki/Carnegie_Institution"
+        }
+      ]
+    },
+    {
+      "year": 1930,
+      "title": "Bernard-Ferdinand Lyot",
+      "text": "Bernard-Ferdinand Lyot invents the Lyot filter",
+      "references": [
+        {
+          "label": "Bernard-Ferdinand Lyot",
+          "url": "https://en.wikipedia.org/wiki/Bernard-Ferdinand_Lyot"
+        },
+        {
+          "label": "Lyot filter",
+          "url": "https://en.wikipedia.org/wiki/Lyot_filter"
+        }
+      ]
+    },
+    {
+      "year": 1940,
+      "title": "Martin Ryle",
+      "text": "Martin Ryle and his group perform the first astronomical observations with a radio interferometer",
+      "references": [
+        {
+          "label": "Martin Ryle",
+          "url": "https://en.wikipedia.org/wiki/Martin_Ryle"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "title": "Luoxue Mountain Cosmic Rays Research Center",
+      "text": "Luoxue Mountain Cosmic Rays Research Center, Yunnan Province, in China founded",
+      "references": [
+        {
+          "label": "Luoxue Mountain Cosmic Rays Research Center",
+          "url": "https://en.wikipedia.org/wiki/Luoxue_Mountain_Cosmic_Rays_Research_Center"
+        },
+        {
+          "label": "Yunnan",
+          "url": "https://en.wikipedia.org/wiki/Yunnan"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "VLBI",
+      "text": "First VLBI images, with 183 km baseline",
+      "references": [
+        {
+          "label": "VLBI",
+          "url": "https://en.wikipedia.org/wiki/VLBI"
+        },
+        {
+          "label": "baseline",
+          "url": "https://en.wikipedia.org/wiki/Astronomical_interferometer"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Owens Valley",
+      "text": "Owens Valley 27-meter radio telescopes begin operation, located in Big Pine, California",
+      "references": [
+        {
+          "label": "Owens Valley",
+          "url": "https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory"
+        },
+        {
+          "label": "Big Pine, California",
+          "url": "https://en.wikipedia.org/wiki/Big_Pine%2C_California"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "Canada-France-Hawaii",
+      "text": "Canada-France-Hawaii optical reflecting telescope begins operation, located at Mauna Kea Observatory, Hawaii",
+      "references": [
+        {
+          "label": "Canada-France-Hawaii",
+          "url": "https://en.wikipedia.org/wiki/Canada-France-Hawaii_Telescope"
         },
         {
           "label": "Mauna Kea Observatory",
@@ -56,13 +312,28 @@
       ]
     },
     {
-      "year": 1980,
-      "title": "La Silla Observatory",
-      "text": "m Swedish-ESO Submillimetre Telescope (SEST) installed at the ESO La Silla Observatory",
+      "year": 1970,
+      "title": "NASA Infrared Telescope Facility",
+      "text": "NASA Infrared Telescope Facility infrared reflecting telescope begins operation, located at Mauna Kea, Hawaii",
       "references": [
         {
-          "label": "La Silla Observatory",
-          "url": "https://en.wikipedia.org/wiki/La_Silla_Observatory"
+          "label": "NASA Infrared Telescope Facility",
+          "url": "https://en.wikipedia.org/wiki/NASA_Infrared_Telescope_Facility"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "VLA",
+      "text": "Completion of construction of the VLA, located in Socorro, New Mexico",
+      "references": [
+        {
+          "label": "VLA",
+          "url": "https://en.wikipedia.org/wiki/Very_Large_Array"
+        },
+        {
+          "label": "Socorro, New Mexico",
+          "url": "https://en.wikipedia.org/wiki/Socorro%2C_New_Mexico"
         }
       ]
     },
@@ -83,76 +354,6 @@
     },
     {
       "year": 1990,
-      "title": "Compton Gamma Ray Observatory",
-      "text": "Compton Gamma Ray Observatory satellite",
-      "references": [
-        {
-          "label": "Compton Gamma Ray Observatory",
-          "url": "https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory"
-        }
-      ]
-    },
-    {
-      "year": 1990,
-      "title": "VLT",
-      "text": "First light at VLT1, the 8.2 m ESO telescope",
-      "references": [
-        {
-          "label": "VLT",
-          "url": "https://en.wikipedia.org/wiki/Very_Large_Telescope"
-        },
-        {
-          "label": "ESO",
-          "url": "https://en.wikipedia.org/wiki/European_Southern_Observatory"
-        }
-      ]
-    },
-    {
-      "year": 1990,
-      "title": "Giant Metrewave Radio Telescope",
-      "text": "Giant Metrewave Radio Telescope of thirty 45 m dishes at Pune",
-      "references": [
-        {
-          "label": "Giant Metrewave Radio Telescope",
-          "url": "https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope"
-        }
-      ]
-    },
-    {
-      "year": 1990,
-      "title": "Hubble",
-      "text": "Hubble 2.4m space Telescope launched, mirror found to be flawed",
-      "references": [
-        {
-          "label": "Hubble",
-          "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
-        }
-      ]
-    },
-    {
-      "year": 1990,
-      "title": "Keck 10-meter optical/infrared reflecting telescope",
-      "text": "Keck 10-meter optical/infrared reflecting telescope begins operation, located at Mauna Kea, Hawaii",
-      "references": [
-        {
-          "label": "Keck 10-meter optical/infrared reflecting telescope",
-          "url": "https://en.wikipedia.org/wiki/Keck_telescope"
-        }
-      ]
-    },
-    {
-      "year": 1990,
-      "title": "Keck 2",
-      "text": "Keck 2 10-meter optical/infrared reflecting telescope begins operation, located at Mauna Kea, Hawaii",
-      "references": [
-        {
-          "label": "Keck 2",
-          "url": "https://en.wikipedia.org/wiki/Keck_2"
-        }
-      ]
-    },
-    {
-      "year": 1990,
       "title": "HALCA",
       "text": "The Japanese HALCA satellite begins operations, producing first VLBI observations from space, 25,000 km maximum baseline",
       "references": [
@@ -167,58 +368,6 @@
       ]
     },
     {
-      "year": 1990,
-      "title": "Very Long Baseline Array",
-      "text": "Very Long Baseline Array of 10 dishes",
-      "references": [
-        {
-          "label": "Very Long Baseline Array",
-          "url": "https://en.wikipedia.org/wiki/Very_Long_Baseline_Array"
-        }
-      ]
-    },
-    {
-      "year": 2000,
-      "title": "Euclid",
-      "text": "Euclid, was launched on 1 July 2023 on a Falcon 9 Block 5 rocket from Cape Canaveral, Florida, to study dark matter and energy.",
-      "references": [
-        {
-          "label": "Euclid",
-          "url": "https://en.wikipedia.org/wiki/Euclid_(spacecraft)"
-        },
-        {
-          "label": "Falcon 9 Block 5",
-          "url": "https://en.wikipedia.org/wiki/Falcon_9_Block_5"
-        }
-      ]
-    },
-    {
-      "year": 2000,
-      "title": "VLTI",
-      "text": "First imaging with the VLTI using the AMBER optical aperture synthesis instrument and three VLT telescopes.",
-      "references": [
-        {
-          "label": "VLTI",
-          "url": "https://en.wikipedia.org/wiki/VLTI"
-        },
-        {
-          "label": "VLT",
-          "url": "https://en.wikipedia.org/wiki/Very_Large_Telescope"
-        }
-      ]
-    },
-    {
-      "year": 2000,
-      "title": "Gran Telescopio de Canarias (GTC)",
-      "text": "First light at Gran Telescopio de Canarias (GTC), in Spain, the largest optical telescope in the world with an effective diameter of 10.4 meters.",
-      "references": [
-        {
-          "label": "Gran Telescopio de Canarias (GTC)",
-          "url": "https://en.wikipedia.org/wiki/Gran_Telescopio_Canarias"
-        }
-      ]
-    },
-    {
       "year": 2000,
       "title": "SALT",
       "text": "First light at SALT, the largest optical telescope in the Southern Hemisphere, with a hexagonal primary mirror of 11.1 by 9.8 meters.",
@@ -226,102 +375,6 @@
         {
           "label": "SALT",
           "url": "https://en.wikipedia.org/wiki/Southern_African_Large_Telescope"
-        }
-      ]
-    },
-    {
-      "year": 2000,
-      "title": "Keck Interferometer",
-      "text": "First light at the Keck Interferometer. Single-baseline operations begin in the near-infrared.",
-      "references": [
-        {
-          "label": "Keck Interferometer",
-          "url": "https://en.wikipedia.org/wiki/Keck_Interferometer"
-        }
-      ]
-    },
-    {
-      "year": 2000,
-      "title": "VLTI",
-      "text": "First light at VLTI interferometry array. Operations on the interferometer start with single-baseline near-infrared observations with the 103 m baseline.",
-      "references": [
-        {
-          "label": "VLTI",
-          "url": "https://en.wikipedia.org/wiki/VLTI"
-        },
-        {
-          "label": "baseline",
-          "url": "https://en.wikipedia.org/wiki/Astronomical_interferometer"
-        }
-      ]
-    },
-    {
-      "year": 2000,
-      "title": "James Webb Space Telescope (JWST)",
-      "text": "James Webb Space Telescope (JWST), was launched 25 December 2021 on an ESA Ariane 5 rocket from Kourou, French Guiana and will succeed the Hubble Space Telescope as NASA's flagship mission in astrophysics.",
-      "references": [
-        {
-          "label": "James Webb Space Telescope (JWST)",
-          "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope"
-        }
-      ]
-    },
-    {
-      "year": 2000,
-      "title": "XRISM",
-      "text": "XRISM was launched on 6 September 2023 on a H-IIA rocket to study the formation of the universe and the dark matter.",
-      "references": [
-        {
-          "label": "XRISM",
-          "url": "https://en.wikipedia.org/wiki/X-Ray_Imaging_and_Spectroscopy_Mission"
-        },
-        {
-          "label": "H-IIA",
-          "url": "https://en.wikipedia.org/wiki/H-IIA"
-        }
-      ]
-    },
-    {
-      "year": 2019,
-      "title": "Public Telescope (PST)",
-      "text": "Public Telescope (PST), German project of astrofactum. Launch was planned for 2019, but the project's website is now defunct and no updates have been provided on the fate of the effort.",
-      "references": [
-        {
-          "label": "Public Telescope (PST)",
-          "url": "https://en.wikipedia.org/wiki/Public_Telescope"
-        }
-      ]
-    },
-    {
-      "year": 2020,
-      "title": "Iranian National Observatory",
-      "text": "Iranian National Observatory 3.4 m (first light planned in 2020)",
-      "references": [
-        {
-          "label": "Iranian National Observatory",
-          "url": "https://en.wikipedia.org/wiki/Iranian_National_Observatory"
-        }
-      ]
-    },
-    {
-      "year": 2021,
-      "title": "Vera C. Rubin Observatory",
-      "text": "Mid/late-2021 – Science first light of the Vera C. Rubin Observatory is anticipated for 2021 with full science operations to begin a year later.",
-      "references": [
-        {
-          "label": "Vera C. Rubin Observatory",
-          "url": "https://en.wikipedia.org/wiki/Vera_C._Rubin_Observatory"
-        }
-      ]
-    },
-    {
-      "year": 2027,
-      "title": "Extremely Large Telescope",
-      "text": "Extremely Large Telescope (first light planned in 2027)",
-      "references": [
-        {
-          "label": "Extremely Large Telescope",
-          "url": "https://en.wikipedia.org/wiki/Extremely_Large_Telescope"
         }
       ]
     },
@@ -340,6 +393,5 @@
         }
       ]
     }
-  ],
-  "popularity": 90
+  ]
 }

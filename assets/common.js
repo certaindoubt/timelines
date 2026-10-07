@@ -1,6 +1,14 @@
 export const ESC = (s) =>
   String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
+export const fmtYear = (n) => {
+  if (n == null || n === '') return '?';
+  const v = Number(n);
+  if (v === 0) return '1 BC';
+  if (v < 0) return `${Math.abs(v).toLocaleString('en-US')} BC`;
+  return v.toLocaleString('en-US');
+};
+
 export const fmtNumber = (n) => (n == null || n === '' ? '?' : Number(n).toLocaleString('en-US'));
 
 export function pluralize(n, one, many) {
@@ -26,4 +34,4 @@ export async function loadTimeline(slug) {
   return r.json();
 }
 
-if (typeof window !== 'undefined') window.App = { ESC, fmtNumber, pluralize, dateStr, loadIndex, loadTimeline };
+if (typeof window !== 'undefined') window.App = { ESC, fmtNumber, fmtYear, pluralize, dateStr, loadIndex, loadTimeline };

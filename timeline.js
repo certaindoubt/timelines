@@ -1,4 +1,4 @@
-import { ESC, fmtNumber, pluralize, dateStr, loadTimeline } from './assets/common.js';
+import { ESC, fmtNumber, fmtYear, pluralize, dateStr, loadTimeline } from './assets/common.js';
 
 const titleEl = document.getElementById('title');
 const taglineEl = document.getElementById('tagline');
@@ -29,7 +29,7 @@ function eventHtml(e, i, total) {
     .join('');
   return `
     <div class="tl-event" data-i="${i}" data-year="${e.year}">
-      <div class="year">${e.year ?? '&mdash;'}</div>
+      <div class="year">${fmtYear(e.year)}</div>
       <div class="dot" style="--dot-accent:${yearColorSnake(e.year, total)}"></div>
       <div class="card">
         <h4>${ESC(e.title)}</h4>
@@ -52,7 +52,7 @@ function render() {
   tlEl.innerHTML = events.map((e, i) => eventHtml(e, i, events.length)).join('');
   const first = events[0];
   const last = events[events.length - 1];
-  rangeEl.innerHTML = `Showing <b>${fmtNumber(first.year)}</b>&ndash;<b>${fmtNumber(last.year)}</b> &middot; ${events.length} events`;
+  rangeEl.innerHTML = `Showing <b>${fmtYear(first.year)}</b>&ndash;<b>${fmtYear(last.year)}</b> &middot; ${events.length} events`;
 }
 
 function highlight(i) {
