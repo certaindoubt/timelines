@@ -1,0 +1,437 @@
+{
+  "slug": "paleontology",
+  "title": "Paleontology",
+  "tagline": "Digging up the age of dinosaurs.",
+  "category": "Life Sciences",
+  "icon": "🦕",
+  "color": "#78716c",
+  "source": "Generated from “Timeline of paleontology” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of paleontology",
+  "via": "wiki",
+  "generated": "2026-10-09",
+  "popularity": 66,
+  "events": [
+    {
+      "year": 1027,
+      "title": "Persian naturalist",
+      "text": "1027 — The Persian naturalist Avicenna elaborates on Aristotle's speculations in The Book of Healing by proposing that fossils are caused by petrifying fluids (succus lapidificatus).",
+      "references": [
+        {
+          "label": "Persian naturalist",
+          "url": "https://en.wikipedia.org/wiki/Islamic_geography"
+        },
+        {
+          "label": "Avicenna",
+          "url": "https://en.wikipedia.org/wiki/Avicenna"
+        },
+        {
+          "label": "The Book of Healing",
+          "url": "https://en.wikipedia.org/wiki/The_Book_of_Healing"
+        }
+      ]
+    },
+    {
+      "year": 1320,
+      "title": "Albert of Saxony",
+      "text": "1390 — Avicenna's theory of petrifying fluids is elaborated on by Albert of Saxony.",
+      "references": [
+        {
+          "label": "Albert of Saxony",
+          "url": "https://en.wikipedia.org/wiki/Albert_of_Saxony_(philosopher)"
+        }
+      ]
+    },
+    {
+      "year": 1669,
+      "title": "Nicolas Steno",
+      "text": "1669 — Nicolas Steno writes that some kinds of rock formed from layers of sediment deposited in water and that fossils were organic remains buried in the process.",
+      "references": [
+        {
+          "label": "Nicolas Steno",
+          "url": "https://en.wikipedia.org/wiki/Nicolas_Steno"
+        },
+        {
+          "label": "some kinds of rock",
+          "url": "https://en.wikipedia.org/wiki/sedimentary_rock"
+        }
+      ]
+    },
+    {
+      "year": 1770,
+      "title": "fossilized",
+      "text": "1770 — The fossilized bones of a huge animal are found in a quarry near Maastricht in the Netherlands. In 1808 Georges Cuvier identified it as an extinct marine reptile and in 1822 William Conybeare names it Mosasaurus.",
+      "references": [
+        {
+          "label": "fossilized",
+          "url": "https://en.wikipedia.org/wiki/fossil"
+        },
+        {
+          "label": "Maastricht",
+          "url": "https://en.wikipedia.org/wiki/Maastricht"
+        },
+        {
+          "label": "Netherlands",
+          "url": "https://en.wikipedia.org/wiki/Netherlands"
+        }
+      ]
+    },
+    {
+      "year": 1800,
+      "title": "Bavaria",
+      "text": "1800 — Cuvier writes that a drawing of a fossil found in Bavaria shows a flying reptile; in 1809 he names it Pterodactyl.",
+      "references": [
+        {
+          "label": "Bavaria",
+          "url": "https://en.wikipedia.org/wiki/Bavaria"
+        },
+        {
+          "label": "Pterodactyl",
+          "url": "https://en.wikipedia.org/wiki/Pterodactylus"
+        }
+      ]
+    },
+    {
+      "year": 1808,
+      "title": "Alexandre Brongniart",
+      "text": "1808 — Cuvier and Alexandre Brongniart publish preliminary results of their survey of the geology of the Paris Basin that uses the fossils found in different strata to reconstruct the geologic history of the region.",
+      "references": [
+        {
+          "label": "Alexandre Brongniart",
+          "url": "https://en.wikipedia.org/wiki/Alexandre_Brongniart"
+        }
+      ]
+    },
+    {
+      "year": 1812,
+      "title": "Plagiolophus",
+      "text": "Cuvier draws skeletal reconstructions of \"Palaeotherium\" minor (= Plagiolophus minor), \"Anoplotherium medium\" (= Xiphodon gracilis), and, most famously, Anoplotherium commune based on known fossil remains (of which A. commune was the most nearly comp",
+      "references": [
+        {
+          "label": "Plagiolophus",
+          "url": "https://en.wikipedia.org/wiki/Plagiolophus_(mammal)"
+        },
+        {
+          "label": "Xiphodon",
+          "url": "https://en.wikipedia.org/wiki/Xiphodon"
+        }
+      ]
+    },
+    {
+      "year": 1821,
+      "title": "Plesiosaur",
+      "text": "1822 — Mary Anning discovers the world's first Plesiosaur skeleton at Lyme Regis.",
+      "references": [
+        {
+          "label": "Plesiosaur",
+          "url": "https://en.wikipedia.org/wiki/Plesiosaur"
+        },
+        {
+          "label": "Lyme Regis",
+          "url": "https://en.wikipedia.org/wiki/Lyme_Regis"
+        }
+      ]
+    },
+    {
+      "year": 1822,
+      "title": "Henri Marie Ducrotay de Blainville",
+      "text": "1822 — The editor of the French journal Journal de Phisique, Henri Marie Ducrotay de Blainville, invents the word \"paleontologie\" for the reconstruction of ancient animals and plants from fossils.",
+      "references": [
+        {
+          "label": "Henri Marie Ducrotay de Blainville",
+          "url": "https://en.wikipedia.org/wiki/Henri_Marie_Ducrotay_de_Blainville"
+        }
+      ]
+    },
+    {
+      "year": 1829,
+      "title": "coprolite",
+      "text": "1829 — Buckland publishes a paper on work he and Mary Anning had done identifying and analyzing fossilized feces found at Lyme Regis and elsewhere. Buckland coins the term \"coprolite\" for them and uses them to analyze ancient food chains.",
+      "references": [
+        {
+          "label": "coprolite",
+          "url": "https://en.wikipedia.org/wiki/coprolite"
+        },
+        {
+          "label": "food chains",
+          "url": "https://en.wikipedia.org/wiki/food_chains"
+        }
+      ]
+    },
+    {
+      "year": 1831,
+      "title": "1831 — Mantell publishes an influential paper entitled \"The Age of Rep",
+      "text": "1831 — Mantell publishes an influential paper entitled \"The Age of Reptiles\" summarizing evidence of an extended period during which large reptiles had been the dominant animals.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of paleontology",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_paleontology"
+        }
+      ]
+    },
+    {
+      "year": 1836,
+      "title": "Edward Hitchcock",
+      "text": "1836 — Edward Hitchcock describes footprints (Eubrontes and Otozoum) of giant birds from Jurassic formations in Connecticut. Later they would be recognized as dinosaur tracks.",
+      "references": [
+        {
+          "label": "Edward Hitchcock",
+          "url": "https://en.wikipedia.org/wiki/Edward_Hitchcock"
+        },
+        {
+          "label": "Eubrontes",
+          "url": "https://en.wikipedia.org/wiki/Eubrontes"
+        },
+        {
+          "label": "Otozoum",
+          "url": "https://en.wikipedia.org/wiki/Otozoum"
+        }
+      ]
+    },
+    {
+      "year": 1856,
+      "title": "Neander Valley",
+      "text": "1856 — Fossils are found in the Neander Valley in Germany that Johann Carl Fuhlrott and Hermann Schaaffhausen recognize as a human different from modern people. A few years later William King names it Homo neanderthalensis.",
+      "references": [
+        {
+          "label": "Neander Valley",
+          "url": "https://en.wikipedia.org/wiki/Neandertal"
+        },
+        {
+          "label": "Johann Carl Fuhlrott",
+          "url": "https://en.wikipedia.org/wiki/Johann_Carl_Fuhlrott"
+        },
+        {
+          "label": "Hermann Schaaffhausen",
+          "url": "https://en.wikipedia.org/wiki/Hermann_Schaaffhausen"
+        }
+      ]
+    },
+    {
+      "year": 1859,
+      "title": "Charles Darwin",
+      "text": "1859 — Charles Darwin publishes On the Origin of Species.",
+      "references": [
+        {
+          "label": "Charles Darwin",
+          "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
+        },
+        {
+          "label": "On the Origin of Species",
+          "url": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species"
+        }
+      ]
+    },
+    {
+      "year": 1871,
+      "title": "Othniel Charles Marsh",
+      "text": "1871 — Othniel Charles Marsh discovers the first American pterosaur fossils.",
+      "references": [
+        {
+          "label": "Othniel Charles Marsh",
+          "url": "https://en.wikipedia.org/wiki/Othniel_Charles_Marsh"
+        },
+        {
+          "label": "pterosaur",
+          "url": "https://en.wikipedia.org/wiki/pterosaur"
+        }
+      ]
+    },
+    {
+      "year": 1877,
+      "title": "Diplodocus",
+      "text": "1877 — The first Diplodocus skeleton is found near Cañon City, Colorado.",
+      "references": [
+        {
+          "label": "Diplodocus",
+          "url": "https://en.wikipedia.org/wiki/Diplodocus"
+        },
+        {
+          "label": "Cañon City, Colorado",
+          "url": "https://en.wikipedia.org/wiki/Ca%C3%B1on_City%2C_Colorado"
+        }
+      ]
+    },
+    {
+      "year": 1901,
+      "title": "W.W. Orcutt",
+      "text": "1901 — Petroleum geologist W.W. Orcutt recovers the first fossils from the La Brea Tar Pits in Southern California, a rich source of ice age mammal remains.",
+      "references": [
+        {
+          "label": "W.W. Orcutt",
+          "url": "https://en.wikipedia.org/wiki/William_Warren_Orcutt"
+        },
+        {
+          "label": "La Brea Tar Pits",
+          "url": "https://en.wikipedia.org/wiki/La_Brea_Tar_Pits"
+        },
+        {
+          "label": "California",
+          "url": "https://en.wikipedia.org/wiki/California"
+        }
+      ]
+    },
+    {
+      "year": 1909,
+      "title": "Cambrian",
+      "text": "1909 — Cambrian fossils in the Burgess Shale are discovered by Charles Walcott.",
+      "references": [
+        {
+          "label": "Cambrian",
+          "url": "https://en.wikipedia.org/wiki/Cambrian"
+        },
+        {
+          "label": "Burgess Shale",
+          "url": "https://en.wikipedia.org/wiki/Burgess_Shale"
+        },
+        {
+          "label": "Charles Walcott",
+          "url": "https://en.wikipedia.org/wiki/Charles_Doolittle_Walcott"
+        }
+      ]
+    },
+    {
+      "year": 1912,
+      "title": "Charles Dawson",
+      "text": "1912 — Charles Dawson announces the discovery of \"Piltdown Man\" in England, a hoax that would confuse paleoanthropology until the fossils were revealed as forgeries in 1953.",
+      "references": [
+        {
+          "label": "Charles Dawson",
+          "url": "https://en.wikipedia.org/wiki/Charles_Dawson"
+        },
+        {
+          "label": "Piltdown Man",
+          "url": "https://en.wikipedia.org/wiki/Piltdown_Man"
+        },
+        {
+          "label": "paleoanthropology",
+          "url": "https://en.wikipedia.org/wiki/paleoanthropology"
+        }
+      ]
+    },
+    {
+      "year": 1924,
+      "title": "Raymond Dart",
+      "text": "1924 — Raymond Dart examines fossils of \"Taung Child,\" found by quarrymen in South Africa, and names it Australopithecus africanus.",
+      "references": [
+        {
+          "label": "Raymond Dart",
+          "url": "https://en.wikipedia.org/wiki/Raymond_Dart"
+        },
+        {
+          "label": "Taung Child",
+          "url": "https://en.wikipedia.org/wiki/Taung_Child"
+        },
+        {
+          "label": "South Africa",
+          "url": "https://en.wikipedia.org/wiki/South_Africa"
+        }
+      ]
+    },
+    {
+      "year": 1946,
+      "title": "Reginald Sprigg",
+      "text": "1946 — Reginald Sprigg discovers fossils of the Ediacaran biota in Australia. In the 1960s Martin Glaessner would show that they were pre-Cambrian.",
+      "references": [
+        {
+          "label": "Reginald Sprigg",
+          "url": "https://en.wikipedia.org/wiki/Reginald_Sprigg"
+        },
+        {
+          "label": "Ediacaran biota",
+          "url": "https://en.wikipedia.org/wiki/Ediacaran_biota"
+        },
+        {
+          "label": "Martin Glaessner",
+          "url": "https://en.wikipedia.org/wiki/Martin_Glaessner"
+        }
+      ]
+    },
+    {
+      "year": 1953,
+      "title": "Stanley A. Tyler",
+      "text": "1953 — Stanley A. Tyler discovers microfossils in the Gunflint Chert Formation of cyanobacteria that created pre-Cambrian stromatolites approximately 2 billion years ago.",
+      "references": [
+        {
+          "label": "Stanley A. Tyler",
+          "url": "https://en.wikipedia.org/wiki/Stanley_A._Tyler"
+        },
+        {
+          "label": "microfossils",
+          "url": "https://en.wikipedia.org/wiki/fossils%23Microfossils"
+        },
+        {
+          "label": "Gunflint Chert",
+          "url": "https://en.wikipedia.org/wiki/Gunflint_Chert"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "Luis Alvarez",
+      "text": "1980 — Luis Alvarez, Walter Alvarez, Frank Asaro, and Helen Michel propose the Alvarez hypothesis, that a comet or asteroid struck the Earth 66 million years ago, causing the Cretaceous–Paleogene extinction event, including the extinction of the non-",
+      "references": [
+        {
+          "label": "Luis Alvarez",
+          "url": "https://en.wikipedia.org/wiki/Luis_Walter_Alvarez"
+        },
+        {
+          "label": "Walter Alvarez",
+          "url": "https://en.wikipedia.org/wiki/Walter_Alvarez"
+        },
+        {
+          "label": "Frank Asaro",
+          "url": "https://en.wikipedia.org/wiki/Frank_Asaro"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "title": "Maotianshan Shales",
+      "text": "1984 — Hou Xianguang discovers the Maotianshan Shales Cambrian fossil site in the Yunnan province of China.",
+      "references": [
+        {
+          "label": "Maotianshan Shales",
+          "url": "https://en.wikipedia.org/wiki/Maotianshan_Shales"
+        },
+        {
+          "label": "Yunnan",
+          "url": "https://en.wikipedia.org/wiki/Yunnan"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "Tiktaalik",
+      "text": "2004 — Tiktaalik, a transitional form between lobe-finned fish and tetrapods is discovered in Canada by Ted Daeschler, Neil H. Shubin, and Farish A. Jenkins Jr.",
+      "references": [
+        {
+          "label": "Tiktaalik",
+          "url": "https://en.wikipedia.org/wiki/Tiktaalik"
+        },
+        {
+          "label": "transitional form",
+          "url": "https://en.wikipedia.org/wiki/transitional_fossil"
+        },
+        {
+          "label": "lobe-finned fish",
+          "url": "https://en.wikipedia.org/wiki/Sarcopterygii"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "coelurosaur",
+      "text": "2016 — Tail fossils of a baby species of coelurosaur, fully preserved in amber including soft tissue, are found in Myanmar by Lida Xing",
+      "references": [
+        {
+          "label": "coelurosaur",
+          "url": "https://en.wikipedia.org/wiki/coelurosaur"
+        },
+        {
+          "label": "Myanmar",
+          "url": "https://en.wikipedia.org/wiki/Myanmar"
+        }
+      ]
+    }
+  ]
+}

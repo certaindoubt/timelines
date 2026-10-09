@@ -1,37 +1,5 @@
 [
   {
-    "wikiPage": "History of film",
-    "title": "History of Film",
-    "tagline": "From nickelodeons to blockbusters.",
-    "category": "Culture",
-    "icon": "🎬",
-    "color": "#ef4444"
-  },
-  {
-    "wikiPage": "History of photography",
-    "title": "History of Photography",
-    "tagline": "From daguerreotypes to the digital camera.",
-    "category": "Culture",
-    "icon": "📷",
-    "color": "#8b5cf6"
-  },
-  {
-    "wikiPage": "History of the bicycle",
-    "title": "History of the Bicycle",
-    "tagline": "Two wheels that changed the world.",
-    "category": "Engineering",
-    "icon": "🚲",
-    "color": "#22c55e"
-  },
-  {
-    "wikiPage": "Timeline of paleontology",
-    "title": "Paleontology",
-    "tagline": "Digging up the age of dinosaurs.",
-    "category": "Life Sciences",
-    "icon": "🦕",
-    "color": "#78716c"
-  },
-  {
     "wikiPage": "Timeline of zoology",
     "title": "Zoology",
     "tagline": "The science of animal life.",
