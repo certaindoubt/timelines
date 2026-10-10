@@ -1,0 +1,433 @@
+{
+  "slug": "zoology",
+  "title": "Zoology",
+  "tagline": "The science of animal life.",
+  "category": "Life Sciences",
+  "icon": "🐘",
+  "color": "#16a34a",
+  "source": "Generated from “Timeline of zoology” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of zoology",
+  "via": "wiki",
+  "generated": "2026-10-10",
+  "popularity": 66,
+  "events": [
+    {
+      "year": -8000,
+      "title": "Bubalus Period",
+      "text": "12000–8000 BC. Bubalus Period creation of rock art in the Central Sahara depicting a range of animals including elephants, antelopes, rhinoceros and catfish.",
+      "references": [
+        {
+          "label": "Bubalus Period",
+          "url": "https://en.wikipedia.org/wiki/Bubalus_Period"
+        },
+        {
+          "label": "elephants",
+          "url": "https://en.wikipedia.org/wiki/elephants"
+        },
+        {
+          "label": "antelopes",
+          "url": "https://en.wikipedia.org/wiki/antelopes"
+        }
+      ]
+    },
+    {
+      "year": -500,
+      "title": "Xenophanes",
+      "text": "500 BC. Xenophanes (Greek, 576–460 BC), a disciple of Pythagoras (570–497 BC), first recognized fossils as animal remains and inferred that their presence on mountains indicated the latter had once been beneath the sea. \"If horses or oxen had hands a",
+      "references": [
+        {
+          "label": "Xenophanes",
+          "url": "https://en.wikipedia.org/wiki/Xenophanes"
+        },
+        {
+          "label": "Pythagoras",
+          "url": "https://en.wikipedia.org/wiki/Pythagoras"
+        },
+        {
+          "label": "fossil",
+          "url": "https://en.wikipedia.org/wiki/fossil"
+        }
+      ]
+    },
+    {
+      "year": -4,
+      "title": "Lucius Annaeus Seneca",
+      "text": "50. Lucius Annaeus Seneca (Roman, 4 BC–65 AD), tutor to Roman emperor Nero, maintained that animals have no reason, just instinct, a \"stoic\" position.",
+      "references": [
+        {
+          "label": "Lucius Annaeus Seneca",
+          "url": "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+        },
+        {
+          "label": "Nero",
+          "url": "https://en.wikipedia.org/wiki/Nero"
+        }
+      ]
+    },
+    {
+      "year": 1225,
+      "title": "Thomas of Cantimpré",
+      "text": "1244. Thomas of Cantimpré‚ (Fleming, 1204?–1275?) wrote ', a major 13th-century encyclopedia.",
+      "references": [
+        {
+          "label": "Thomas of Cantimpré",
+          "url": "https://en.wikipedia.org/wiki/Thomas_of_Cantimpr%C3%A9"
+        }
+      ]
+    },
+    {
+      "year": 1551,
+      "title": "Conrad Gessner",
+      "text": "1551. Conrad Gessner (Swiss, 1516–1565) wrote ' (Tiguri, 4 vols., 1551–1558, last volume published in 1587) and gained renown. This work, although uncritically compiled in places, was consulted for over 200 years. He also wrote ' (1553) and ' (1563).",
+      "references": [
+        {
+          "label": "Conrad Gessner",
+          "url": "https://en.wikipedia.org/wiki/Conrad_Gessner"
+        }
+      ]
+    },
+    {
+      "year": 1607,
+      "title": "Captain John Smith",
+      "text": "1607 (1612?). Captain John Smith (English), head of the Jamestown colony, wrote A Map of Virginia in which he describes the physical features of the country, its climate, plants and animals, and inhabitants. He describes the raccoon, muskrat, flying ",
+      "references": [
+        {
+          "label": "Captain John Smith",
+          "url": "https://en.wikipedia.org/wiki/Captain_John_Smith"
+        },
+        {
+          "label": "Jamestown",
+          "url": "https://en.wikipedia.org/wiki/Jamestown%2C_Virginia"
+        },
+        {
+          "label": "muskrat",
+          "url": "https://en.wikipedia.org/wiki/muskrat"
+        }
+      ]
+    },
+    {
+      "year": 1661,
+      "title": "Marcello Malpighi",
+      "text": "1661. Marcello Malpighi (Italian, 1628–1694) discovered capillaries (1661), structures predicted to exist by Harvey some thirty years earlier. Malpighi was the founder of microanatomy. He studied, among other things, the anatomy of the silkworm (1669",
+      "references": [
+        {
+          "label": "Marcello Malpighi",
+          "url": "https://en.wikipedia.org/wiki/Marcello_Malpighi"
+        },
+        {
+          "label": "capillaries",
+          "url": "https://en.wikipedia.org/wiki/Capillary"
+        },
+        {
+          "label": "microanatomy",
+          "url": "https://en.wikipedia.org/wiki/Histology"
+        }
+      ]
+    },
+    {
+      "year": 1705,
+      "title": "Maria Sybilla Merian",
+      "text": "1705. Maria Sybilla Merian (German, 1647–1717) wrote and illustrated her ' (') (1705). In this book she stated that Fulgora lanternaria was luminous.",
+      "references": [
+        {
+          "label": "Maria Sybilla Merian",
+          "url": "https://en.wikipedia.org/wiki/Maria_Sybilla_Merian"
+        },
+        {
+          "label": "Fulgora lanternaria",
+          "url": "https://en.wikipedia.org/wiki/Fulgora_lanternaria"
+        }
+      ]
+    },
+    {
+      "year": 1753,
+      "title": "British Museum",
+      "text": "1753. The British Museum was founded in the will of Sir Hans Sloane (English (born Ireland), 1660–1753). It would open its doors in 1759.",
+      "references": [
+        {
+          "label": "British Museum",
+          "url": "https://en.wikipedia.org/wiki/British_Museum"
+        },
+        {
+          "label": "Hans Sloane",
+          "url": "https://en.wikipedia.org/wiki/Hans_Sloane"
+        }
+      ]
+    },
+    {
+      "year": 1780,
+      "title": "Antoine Lavoisier",
+      "text": "1780. Antoine Lavoisier (French, 1743–1794) and Pierre Laplace (French, 1749–1827) wrote Memoir on heat. Lavoisier, the discoverer of oxygen, concluded that animal respiration was a form of combustion.",
+      "references": [
+        {
+          "label": "Antoine Lavoisier",
+          "url": "https://en.wikipedia.org/wiki/Antoine_Lavoisier"
+        },
+        {
+          "label": "Pierre Laplace",
+          "url": "https://en.wikipedia.org/wiki/Pierre_Laplace"
+        },
+        {
+          "label": "oxygen",
+          "url": "https://en.wikipedia.org/wiki/oxygen"
+        }
+      ]
+    },
+    {
+      "year": 1793,
+      "title": "Lazaro Spallanzani",
+      "text": "1793. Lazaro Spallanzani (Italian, 1729–1799) conducted experiments on the orientation of bats and owls in the dark.",
+      "references": [
+        {
+          "label": "Lazaro Spallanzani",
+          "url": "https://en.wikipedia.org/wiki/Lazaro_Spallanzani"
+        },
+        {
+          "label": "bat",
+          "url": "https://en.wikipedia.org/wiki/bat"
+        },
+        {
+          "label": "owl",
+          "url": "https://en.wikipedia.org/wiki/owl"
+        }
+      ]
+    },
+    {
+      "year": 1799,
+      "title": "Alexander von Humboldt",
+      "text": "1803. Alexander von Humboldt (German, 1769–1859) and Aimé Jacques Alexandre Goujaud Bonpland (French) arrived in Venezuela in 1799. Humboldt's Personal Narrative of Travels to the Equinoctial Regions of America during the years 1799–1804 and Kosmos w",
+      "references": [
+        {
+          "label": "Alexander von Humboldt",
+          "url": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt"
+        },
+        {
+          "label": "Aimé Jacques Alexandre Goujaud Bonpland",
+          "url": "https://en.wikipedia.org/wiki/Aim%C3%A9_Bonpland"
+        }
+      ]
+    },
+    {
+      "year": 1819,
+      "title": "Malayan tapir",
+      "text": "1819. Malayan tapir, a first species of tapir to be discovered, is described.",
+      "references": [
+        {
+          "label": "Malayan tapir",
+          "url": "https://en.wikipedia.org/wiki/Malayan_tapir"
+        },
+        {
+          "label": "tapir",
+          "url": "https://en.wikipedia.org/wiki/tapir"
+        }
+      ]
+    },
+    {
+      "year": 1829,
+      "title": "James Smithson",
+      "text": "1829. James Smithson (English, 1765–1829) donates seed money in his will for the founding of the Smithsonian Institution in Washington.",
+      "references": [
+        {
+          "label": "James Smithson",
+          "url": "https://en.wikipedia.org/wiki/James_Smithson"
+        },
+        {
+          "label": "Smithsonian Institution",
+          "url": "https://en.wikipedia.org/wiki/Smithsonian_Institution"
+        },
+        {
+          "label": "Washington",
+          "url": "https://en.wikipedia.org/wiki/Washington%2C_D.C."
+        }
+      ]
+    },
+    {
+      "year": 1839,
+      "title": "Louis Agassiz",
+      "text": "1839. Louis Agassiz (Swiss-American, 1807–1873), an expert on fossil fishes, founds the Museum of Comparative Zoology at Harvard University, and becomes Darwin's North American opposition. He was a popularizer of natural history. His ' (1842–1847) wa",
+      "references": [
+        {
+          "label": "Louis Agassiz",
+          "url": "https://en.wikipedia.org/wiki/Louis_Agassiz"
+        }
+      ]
+    },
+    {
+      "year": 1848,
+      "title": "Josiah C. Nott",
+      "text": "1848. Josiah C. Nott (American), a physician from New Orleans, publishes his belief that mosquitoes transmit malaria.",
+      "references": [
+        {
+          "label": "Josiah C. Nott",
+          "url": "https://en.wikipedia.org/wiki/Josiah_C._Nott"
+        },
+        {
+          "label": "New Orleans",
+          "url": "https://en.wikipedia.org/wiki/New_Orleans"
+        },
+        {
+          "label": "mosquito",
+          "url": "https://en.wikipedia.org/wiki/mosquito"
+        }
+      ]
+    },
+    {
+      "year": 1865,
+      "title": "Gregor Mendel",
+      "text": "1865. Gregor Mendel demonstrates in pea plants that inheritance follows definite rules. The Principle of Segregation states that each organism has two genes per trait, which segregate when the organism makes eggs or sperm. The Principle of Independen",
+      "references": [
+        {
+          "label": "Gregor Mendel",
+          "url": "https://en.wikipedia.org/wiki/Gregor_Mendel"
+        },
+        {
+          "label": "pea plants",
+          "url": "https://en.wikipedia.org/wiki/Pea"
+        },
+        {
+          "label": "definite rules",
+          "url": "https://en.wikipedia.org/wiki/Mendelian_Inheritance"
+        }
+      ]
+    },
+    {
+      "year": 1885,
+      "title": "Polypodium hydriforme",
+      "text": "1885. Polypodium hydriforme, an unusual cnidarian, is described.",
+      "references": [
+        {
+          "label": "Polypodium hydriforme",
+          "url": "https://en.wikipedia.org/wiki/Polypodium_hydriforme"
+        },
+        {
+          "label": "cnidarian",
+          "url": "https://en.wikipedia.org/wiki/cnidarian"
+        }
+      ]
+    },
+    {
+      "year": 1901,
+      "title": "Okapi",
+      "text": "1901. Okapi is described for science.",
+      "references": [
+        {
+          "label": "Okapi",
+          "url": "https://en.wikipedia.org/wiki/Okapi"
+        }
+      ]
+    },
+    {
+      "year": 1931,
+      "title": "Prague Zoo",
+      "text": "1931. Founding of Prague Zoo.",
+      "references": [
+        {
+          "label": "Prague Zoo",
+          "url": "https://en.wikipedia.org/wiki/Prague_Zoo"
+        }
+      ]
+    },
+    {
+      "year": 1952,
+      "title": "developmental biologists",
+      "text": "1952. American developmental biologists Robert Briggs and Thomas King clone the first vertebrate by transplanting nuclei from leopard frog embryos into enucleated eggs.",
+      "references": [
+        {
+          "label": "developmental biologists",
+          "url": "https://en.wikipedia.org/wiki/Developmental_biology"
+        },
+        {
+          "label": "Robert Briggs",
+          "url": "https://en.wikipedia.org/wiki/Robert_Briggs_(scientist)"
+        },
+        {
+          "label": "Thomas King",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Joseph_King"
+        }
+      ]
+    },
+    {
+      "year": 1967,
+      "title": "John Gurdon",
+      "text": "1967. John Gurdon used nuclear transplantation to clone an African clawed frog; first cloning of a vertebrate using a nucleus from a fully differentiated adult cell.",
+      "references": [
+        {
+          "label": "John Gurdon",
+          "url": "https://en.wikipedia.org/wiki/John_Gurdon"
+        },
+        {
+          "label": "clone",
+          "url": "https://en.wikipedia.org/wiki/cloning"
+        },
+        {
+          "label": "clawed frog",
+          "url": "https://en.wikipedia.org/wiki/clawed_frog"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "title": "Dian Fossey",
+      "text": "1985. The primatologist Dian Fossey is murdered by poachers.",
+      "references": [
+        {
+          "label": "Dian Fossey",
+          "url": "https://en.wikipedia.org/wiki/Dian_Fossey"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "insect",
+      "text": "2002. First species from insect suborder Mantophasmatodea are described.",
+      "references": [
+        {
+          "label": "insect",
+          "url": "https://en.wikipedia.org/wiki/insect"
+        },
+        {
+          "label": "Mantophasmatodea",
+          "url": "https://en.wikipedia.org/wiki/Mantophasmatodea"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "title": "Halicephalobus mephisto",
+      "text": "2011. Halicephalobus mephisto, a species of nematode living 3.6 km under the surface of Earth in gold mines in South Africa, is discovered.",
+      "references": [
+        {
+          "label": "Halicephalobus mephisto",
+          "url": "https://en.wikipedia.org/wiki/Halicephalobus_mephisto"
+        },
+        {
+          "label": "nematode",
+          "url": "https://en.wikipedia.org/wiki/nematode"
+        },
+        {
+          "label": "South Africa",
+          "url": "https://en.wikipedia.org/wiki/South_Africa"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "Eumillipes persephone",
+      "text": "2021. Eumillipes persephone, a species of millipede with up to 1,306 legs and the first myriapod known to have more than 1,000 legs is discovered.",
+      "references": [
+        {
+          "label": "Eumillipes persephone",
+          "url": "https://en.wikipedia.org/wiki/Eumillipes_persephone"
+        },
+        {
+          "label": "millipede",
+          "url": "https://en.wikipedia.org/wiki/millipede"
+        },
+        {
+          "label": "leg",
+          "url": "https://en.wikipedia.org/wiki/leg"
+        }
+      ]
+    }
+  ]
+}
