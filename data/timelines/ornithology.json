@@ -1,0 +1,377 @@
+{
+  "slug": "ornithology",
+  "title": "Ornithology",
+  "tagline": "The study of birds, from museums to field guides.",
+  "category": "Life Sciences",
+  "icon": "🦉",
+  "color": "#14b8a6",
+  "source": "Generated from “Timeline of ornithology” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of ornithology",
+  "via": "wiki",
+  "generated": "2026-10-11",
+  "popularity": 66,
+  "events": [
+    {
+      "year": 1037,
+      "title": "Avicenna",
+      "text": "Death of Abu ‘Ali al-Husayn ibn Abd Allah ibn Sina (known as Avicenna in Latin) author of Abbreviatio de animalibus, a homage to Aristotle",
+      "references": [
+        {
+          "label": "Avicenna",
+          "url": "https://en.wikipedia.org/wiki/Avicenna"
+        },
+        {
+          "label": "Aristotle",
+          "url": "https://en.wikipedia.org/wiki/Aristotle"
+        }
+      ]
+    },
+    {
+      "year": 1605,
+      "title": "Clusius",
+      "text": "Clusius publishes Exoticorum libri decem (\"Ten books of exotics\") in which he describes many new exotic species.",
+      "references": [
+        {
+          "label": "Clusius",
+          "url": "https://en.wikipedia.org/wiki/Carolus_Clusius"
+        }
+      ]
+    },
+    {
+      "year": 1700,
+      "title": "Aristotle",
+      "text": "4th century BC – Aristotle mentions over 170 sorts of birds in his work on animals. He recognises eight principal groups.",
+      "references": [
+        {
+          "label": "Aristotle",
+          "url": "https://en.wikipedia.org/wiki/Aristotle"
+        }
+      ]
+    },
+    {
+      "year": 1741,
+      "title": "Georg Steller",
+      "text": "Georg Steller studies the birds of the north Pacific on his voyage with Vitus Bering",
+      "references": [
+        {
+          "label": "Georg Steller",
+          "url": "https://en.wikipedia.org/wiki/Georg_Steller"
+        },
+        {
+          "label": "Vitus Bering",
+          "url": "https://en.wikipedia.org/wiki/Vitus_Bering"
+        }
+      ]
+    },
+    {
+      "year": 1766,
+      "title": "Philibert Commerçon",
+      "text": "1769 French naturalist Philibert Commerçon accompanies Louis Antoine de Bougainville on a voyage of circumnavigation",
+      "references": [
+        {
+          "label": "Philibert Commerçon",
+          "url": "https://en.wikipedia.org/wiki/Philibert_Commer%C3%A7on"
+        },
+        {
+          "label": "Louis Antoine de Bougainville",
+          "url": "https://en.wikipedia.org/wiki/Louis_Antoine_de_Bougainville"
+        },
+        {
+          "label": "circumnavigation",
+          "url": "https://en.wikipedia.org/wiki/circumnavigation"
+        }
+      ]
+    },
+    {
+      "year": 1778,
+      "title": "Juan Ignacio Molina",
+      "text": "Juan Ignacio Molina publishes Saggio sulla storia naturale del Chile which includes the first descriptions of many South American species",
+      "references": [
+        {
+          "label": "Juan Ignacio Molina",
+          "url": "https://en.wikipedia.org/wiki/Juan_Ignacio_Molina"
+        }
+      ]
+    },
+    {
+      "year": 1788,
+      "title": "Blasius Merrem",
+      "text": "“de Arte Venandi cum Avibus” by Frederick II (d. 1250) published and compared favorably to contemporary science by Blasius Merrem and Johan Gottlobb Schneider",
+      "references": [
+        {
+          "label": "Blasius Merrem",
+          "url": "https://en.wikipedia.org/wiki/Blasius_Merrem"
+        }
+      ]
+    },
+    {
+      "year": 1800,
+      "title": "Pacific Ocean",
+      "text": "\"Le Geographe\" and \"Le Naturaliste\" leave France for the Pacific Ocean under the overall command of Nicolas Baudin. The naturalists on board made a collection of over 100,000 zoological specimens. Many bird species will be described by Louis Pierre V",
+      "references": [
+        {
+          "label": "Pacific Ocean",
+          "url": "https://en.wikipedia.org/wiki/Baudin_expedition_to_Australia"
+        },
+        {
+          "label": "Nicolas Baudin",
+          "url": "https://en.wikipedia.org/wiki/Nicolas_Baudin"
+        },
+        {
+          "label": "Louis Pierre Vieillot",
+          "url": "https://en.wikipedia.org/wiki/Louis_Pierre_Vieillot"
+        }
+      ]
+    },
+    {
+      "year": 1811,
+      "title": "Peter Simon Pallas",
+      "text": "Publication of Peter Simon Pallas' Zoographia Russo-Asiatica includes details of the birds encountered in his journeys through Siberia",
+      "references": [
+        {
+          "label": "Peter Simon Pallas",
+          "url": "https://en.wikipedia.org/wiki/Peter_Simon_Pallas"
+        },
+        {
+          "label": "Siberia",
+          "url": "https://en.wikipedia.org/wiki/Siberia"
+        }
+      ]
+    },
+    {
+      "year": 1826,
+      "title": "Senjawin",
+      "text": "Russian Senjawin expedition. Heinrich von Kittlitz collects 754 specimens of 314 bird species, including unique specimens of species that subsequently became extinct to the museum of the Russian Academy of Sciences.",
+      "references": [
+        {
+          "label": "Senjawin",
+          "url": "https://en.wikipedia.org/wiki/Fyodor_Petrovich_Litke"
+        },
+        {
+          "label": "Heinrich von Kittlitz",
+          "url": "https://en.wikipedia.org/wiki/Heinrich_von_Kittlitz"
+        },
+        {
+          "label": "Russian Academy of Sciences",
+          "url": "https://en.wikipedia.org/wiki/Zoological_Museum_of_the_Zoological_Institute_of_the_Russian_Academy_of_Sciences"
+        }
+      ]
+    },
+    {
+      "year": 1840,
+      "title": "The Birds of Australia",
+      "text": "John Gould publishes the first part of The Birds of Australia",
+      "references": [
+        {
+          "label": "The Birds of Australia",
+          "url": "https://en.wikipedia.org/wiki/The_Birds_of_Australia_(Gould)"
+        }
+      ]
+    },
+    {
+      "year": 1858,
+      "title": "Alfred Newton",
+      "text": "Alfred Newton forms the British Ornithologists' Union",
+      "references": [
+        {
+          "label": "Alfred Newton",
+          "url": "https://en.wikipedia.org/wiki/Alfred_Newton"
+        },
+        {
+          "label": "British Ornithologists' Union",
+          "url": "https://en.wikipedia.org/wiki/British_Ornithologists'_Union"
+        }
+      ]
+    },
+    {
+      "year": 1872,
+      "title": "Christoph Gottfried Andreas Giebel",
+      "text": "Christoph Gottfried Andreas Giebel begins Thesaurus ornithologiae",
+      "references": [
+        {
+          "label": "Christoph Gottfried Andreas Giebel",
+          "url": "https://en.wikipedia.org/wiki/Christoph_Gottfried_Andreas_Giebel"
+        }
+      ]
+    },
+    {
+      "year": 1883,
+      "title": "Bombay Natural History Society",
+      "text": "Foundation of the Bombay Natural History Society",
+      "references": [
+        {
+          "label": "Bombay Natural History Society",
+          "url": "https://en.wikipedia.org/wiki/Bombay_Natural_History_Society"
+        }
+      ]
+    },
+    {
+      "year": 1890,
+      "title": "Giovanni Batista Grassi",
+      "text": "Giovanni Batista Grassi and Raimondo Feletti discover avian malaria",
+      "references": [
+        {
+          "label": "Giovanni Batista Grassi",
+          "url": "https://en.wikipedia.org/wiki/Giovanni_Batista_Grassi"
+        },
+        {
+          "label": "Raimondo Feletti",
+          "url": "https://en.wikipedia.org/wiki/Raimondo_Feletti"
+        },
+        {
+          "label": "avian malaria",
+          "url": "https://en.wikipedia.org/wiki/avian_malaria"
+        }
+      ]
+    },
+    {
+      "year": 1905,
+      "title": "National Audubon Society",
+      "text": "Foundation of the National Audubon Society",
+      "references": [
+        {
+          "label": "National Audubon Society",
+          "url": "https://en.wikipedia.org/wiki/National_Audubon_Society"
+        }
+      ]
+    },
+    {
+      "year": 1912,
+      "title": "barn swallow",
+      "text": "A barn swallow ringed by James Masefield in Staffordshire, England is recovered in Natal, South Africa",
+      "references": [
+        {
+          "label": "barn swallow",
+          "url": "https://en.wikipedia.org/wiki/barn_swallow"
+        },
+        {
+          "label": "James Masefield",
+          "url": "https://en.wikipedia.org/wiki/James_Masefield"
+        },
+        {
+          "label": "Staffordshire",
+          "url": "https://en.wikipedia.org/wiki/Staffordshire"
+        }
+      ]
+    },
+    {
+      "year": 1925,
+      "title": "Perrine Millais Moncrieff",
+      "text": "Perrine Millais Moncrieff publishes a field guide New Zealand Birds and How to Identify Them.",
+      "references": [
+        {
+          "label": "Perrine Millais Moncrieff",
+          "url": "https://en.wikipedia.org/wiki/Perrine_Millais_Moncrieff"
+        }
+      ]
+    },
+    {
+      "year": 1934,
+      "title": "Brian Roberts",
+      "text": "Brian Roberts is the expedition ornithologist on John Rymill's British Graham Land Expedition (BGLE).",
+      "references": [
+        {
+          "label": "Brian Roberts",
+          "url": "https://en.wikipedia.org/wiki/Brian_Birley_Roberts"
+        },
+        {
+          "label": "John Rymill",
+          "url": "https://en.wikipedia.org/wiki/John_Rymill"
+        },
+        {
+          "label": "British Graham Land Expedition",
+          "url": "https://en.wikipedia.org/wiki/British_Graham_Land_Expedition"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "title": "Rocket nets developed by the Wildfowl Trust for catching geese",
+      "text": "Rocket nets developed by the Wildfowl Trust for catching geese",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of ornithology",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_ornithology"
+        }
+      ]
+    },
+    {
+      "year": 1957,
+      "title": "G. Evelyn Hutchinson",
+      "text": "G. Evelyn Hutchinson develops the niche concept",
+      "references": [
+        {
+          "label": "G. Evelyn Hutchinson",
+          "url": "https://en.wikipedia.org/wiki/G._Evelyn_Hutchinson"
+        },
+        {
+          "label": "niche concept",
+          "url": "https://en.wikipedia.org/wiki/Ecological_niche"
+        }
+      ]
+    },
+    {
+      "year": 1968,
+      "title": "First national breeding bird atlas project conducted in Britain and Ir",
+      "text": "First national breeding bird atlas project conducted in Britain and Ireland",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of ornithology",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_ornithology"
+        }
+      ]
+    },
+    {
+      "year": 1977,
+      "title": "The Birds of the Western Palearctic",
+      "text": "Publication of the first volume of The Birds of the Western Palearctic",
+      "references": [
+        {
+          "label": "The Birds of the Western Palearctic",
+          "url": "https://en.wikipedia.org/wiki/The_Birds_of_the_Western_Palearctic"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "title": "Bird Studies Canada",
+      "text": "Avibase database commenced by Bird Studies Canada. At 2010 the database holds 5 million records of 10,000 species (22,000 subspecies) and has online World checklists, taxonomic notes and multilingual synonyms.",
+      "references": [
+        {
+          "label": "Bird Studies Canada",
+          "url": "https://en.wikipedia.org/wiki/Bird_Studies_Canada"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "host-specific",
+      "text": "Harold Lisle Gibbs, Michael D. Sorenson, Karen Marchetti, Nick Davies, M. de L. Brooke and Hiroshi Nakamura provide genetic evidence for female host-specific races of the common cuckoo",
+      "references": [
+        {
+          "label": "host-specific",
+          "url": "https://en.wikipedia.org/wiki/Gens_(behaviour)"
+        },
+        {
+          "label": "common cuckoo",
+          "url": "https://en.wikipedia.org/wiki/common_cuckoo"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Neoaves",
+      "text": "A genomic study updated Neoaves and proposed the clade Elementaves.",
+      "references": [
+        {
+          "label": "Neoaves",
+          "url": "https://en.wikipedia.org/wiki/Neoaves"
+        },
+        {
+          "label": "Elementaves",
+          "url": "https://en.wikipedia.org/wiki/Elementaves"
+        }
+      ]
+    }
+  ]
+}
