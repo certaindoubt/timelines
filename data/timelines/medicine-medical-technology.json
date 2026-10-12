@@ -1,0 +1,337 @@
+{
+  "slug": "medicine-medical-technology",
+  "title": "Medicine & Medical Technology",
+  "tagline": "From leeches to MRI machines.",
+  "category": "Life Sciences",
+  "icon": "🩺",
+  "color": "#ef4444",
+  "source": "Generated from “Timeline of medicine and medical technology” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of medicine and medical technology",
+  "via": "wiki",
+  "generated": "2026-10-12",
+  "popularity": 66,
+  "events": [
+    {
+      "year": -6200,
+      "title": "trepanation",
+      "text": "First evidence of trepanation, with signs of healing suggesting survival, identified in a skull in Ukraine.",
+      "references": [
+        {
+          "label": "trepanation",
+          "url": "https://en.wikipedia.org/wiki/Trepanning"
+        }
+      ]
+    },
+    {
+      "year": -1500,
+      "title": "Saffron",
+      "text": "Saffron used as a medicine on the Aegean island of Thera in ancient Greece",
+      "references": [
+        {
+          "label": "Saffron",
+          "url": "https://en.wikipedia.org/wiki/Saffron"
+        }
+      ]
+    },
+    {
+      "year": -405,
+      "title": "Sophocles",
+      "text": "Sophocles \"It is not a learned physician who sings incantations over pains which should be cured by cutting.\"",
+      "references": [
+        {
+          "label": "Sophocles",
+          "url": "https://en.wikipedia.org/wiki/Sophocles"
+        }
+      ]
+    },
+    {
+      "year": 200,
+      "title": "– Fabulla or Fabylla, medical writer",
+      "text": "– Fabulla or Fabylla, medical writer",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of medicine and medical technology",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_medicine_and_medical_technology"
+        }
+      ]
+    },
+    {
+      "year": 200,
+      "title": "Averroes",
+      "text": "Averroes",
+      "references": [
+        {
+          "label": "Averroes",
+          "url": "https://en.wikipedia.org/wiki/Averroes"
+        }
+      ]
+    },
+    {
+      "year": 200,
+      "title": "Isaac Judaeus",
+      "text": "d. 955 – Isaac Judaeus Isḥāq ibn Sulaymān al-Isrāʾīlī Egyptian born Jewish physician",
+      "references": [
+        {
+          "label": "Isaac Judaeus",
+          "url": "https://en.wikipedia.org/wiki/Isaac_Judaeus"
+        }
+      ]
+    },
+    {
+      "year": 200,
+      "title": "Michael Psellos",
+      "text": "Michael Psellos or Psellus a Byzantine monk, writer, philosopher, politician and historian. several books on medicine",
+      "references": [
+        {
+          "label": "Michael Psellos",
+          "url": "https://en.wikipedia.org/wiki/Michael_Psellos"
+        }
+      ]
+    },
+    {
+      "year": 216,
+      "title": "Galen",
+      "text": "Galen – Clinical medicine based on observation and experience. The resulting tightly integrated and comprehensive system, offering a complete medical philosophy dominated medicine throughout the Middle Ages and until the beginning of the modern era.",
+      "references": [
+        {
+          "label": "Galen",
+          "url": "https://en.wikipedia.org/wiki/Galen"
+        }
+      ]
+    },
+    {
+      "year": 1260,
+      "title": "Louis IX",
+      "text": "Louis IX establishes Les Quinze-vingt; originally a retreat for the blind, it became a hospital for eye diseases, and is now one of the most important medical centers in Paris",
+      "references": [
+        {
+          "label": "Louis IX",
+          "url": "https://en.wikipedia.org/wiki/Louis_IX"
+        }
+      ]
+    },
+    {
+      "year": 1493,
+      "title": "Paracelsus",
+      "text": "Paracelsus On the relationship between medicine and surgery surgery book",
+      "references": [
+        {
+          "label": "Paracelsus",
+          "url": "https://en.wikipedia.org/wiki/Paracelsus"
+        }
+      ]
+    },
+    {
+      "year": 1563,
+      "title": "Garcia de Orta",
+      "text": "Garcia de Orta founds tropical medicine with his treatise on Indian diseases and treatments",
+      "references": [
+        {
+          "label": "Garcia de Orta",
+          "url": "https://en.wikipedia.org/wiki/Garcia_de_Orta"
+        },
+        {
+          "label": "tropical medicine",
+          "url": "https://en.wikipedia.org/wiki/tropical_medicine"
+        }
+      ]
+    },
+    {
+      "year": 1720,
+      "title": "Lady Mary Wortley Montagu",
+      "text": "Lady Mary Wortley Montagu",
+      "references": [
+        {
+          "label": "Lady Mary Wortley Montagu",
+          "url": "https://en.wikipedia.org/wiki/Lady_Mary_Wortley_Montagu"
+        }
+      ]
+    },
+    {
+      "year": 1777,
+      "title": "Baron Guillaume Dupuytren",
+      "text": "Baron Guillaume Dupuytren – Head surgeon at Hôtel-Dieu de Paris, The age Dupuytren",
+      "references": [
+        {
+          "label": "Baron Guillaume Dupuytren",
+          "url": "https://en.wikipedia.org/wiki/Baron_Guillaume_Dupuytren"
+        },
+        {
+          "label": "Hôtel-Dieu de Paris",
+          "url": "https://en.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Paris"
+        }
+      ]
+    },
+    {
+      "year": 1846,
+      "title": "anesthetic",
+      "text": "First painless surgery with general anesthetic.",
+      "references": [
+        {
+          "label": "anesthetic",
+          "url": "https://en.wikipedia.org/wiki/anesthetic"
+        }
+      ]
+    },
+    {
+      "year": 1882,
+      "title": "rabies",
+      "text": "Louis Pasteur develops a rabies vaccine.",
+      "references": [
+        {
+          "label": "rabies",
+          "url": "https://en.wikipedia.org/wiki/rabies"
+        }
+      ]
+    },
+    {
+      "year": 1910,
+      "title": "Julius Wagner-Jauregg",
+      "text": "Julius Wagner-Jauregg discovers the malarial fever shock therapy for general paresis of the insane",
+      "references": [
+        {
+          "label": "Julius Wagner-Jauregg",
+          "url": "https://en.wikipedia.org/wiki/Julius_Wagner-Jauregg"
+        },
+        {
+          "label": "shock therapy",
+          "url": "https://en.wikipedia.org/wiki/Electroconvulsive_therapy"
+        },
+        {
+          "label": "general paresis of the insane",
+          "url": "https://en.wikipedia.org/wiki/general_paresis_of_the_insane"
+        }
+      ]
+    },
+    {
+      "year": 1930,
+      "title": "Gerhard Domagk",
+      "text": "Gerhard Domagk develops a chemotherapeutic cure for streptococcus",
+      "references": [
+        {
+          "label": "Gerhard Domagk",
+          "url": "https://en.wikipedia.org/wiki/Gerhard_Domagk"
+        },
+        {
+          "label": "streptococcus",
+          "url": "https://en.wikipedia.org/wiki/streptococcus"
+        }
+      ]
+    },
+    {
+      "year": 1940,
+      "title": "Willem J. Kolff",
+      "text": "Willem J. Kolff builds the first dialysis machine",
+      "references": [
+        {
+          "label": "Willem J. Kolff",
+          "url": "https://en.wikipedia.org/wiki/Willem_J._Kolff"
+        },
+        {
+          "label": "dialysis machine",
+          "url": "https://en.wikipedia.org/wiki/dialysis_machine"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "title": "William Grey Walter",
+      "text": "William Grey Walter invents the brain EEG topography (toposcope)",
+      "references": [
+        {
+          "label": "William Grey Walter",
+          "url": "https://en.wikipedia.org/wiki/William_Grey_Walter"
+        },
+        {
+          "label": "EEG topography",
+          "url": "https://en.wikipedia.org/wiki/Electroencephalography"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "mumps",
+      "text": "First vaccine for mumps",
+      "references": [
+        {
+          "label": "mumps",
+          "url": "https://en.wikipedia.org/wiki/mumps"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "Cyclosporine",
+      "text": "Cyclosporine, the first effective immunosuppressive drug is introduced in organ transplant practice",
+      "references": [
+        {
+          "label": "Cyclosporine",
+          "url": "https://en.wikipedia.org/wiki/Cyclosporine"
+        },
+        {
+          "label": "immunosuppressive drug",
+          "url": "https://en.wikipedia.org/wiki/immunosuppressive_drug"
+        },
+        {
+          "label": "organ transplant",
+          "url": "https://en.wikipedia.org/wiki/organ_transplant"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "DNA sequencer",
+      "text": "Automated DNA sequencer – Leroy Hood and Lloyd Smith",
+      "references": [
+        {
+          "label": "DNA sequencer",
+          "url": "https://en.wikipedia.org/wiki/DNA_sequencer"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "Lithotripter",
+      "text": "Lithotripter – Dornier Research Group",
+      "references": [
+        {
+          "label": "Lithotripter",
+          "url": "https://en.wikipedia.org/wiki/Lithotripter"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "vaccine for hepatitis A",
+      "text": "First vaccine for hepatitis A available",
+      "references": [
+        {
+          "label": "vaccine for hepatitis A",
+          "url": "https://en.wikipedia.org/wiki/Hepatitis_A_vaccine"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Human Genome Project",
+      "text": "The Human Genome Project draft was completed.",
+      "references": [
+        {
+          "label": "Human Genome Project",
+          "url": "https://en.wikipedia.org/wiki/Human_Genome_Project"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "human genome",
+      "text": "The complete human genome is sequenced.",
+      "references": [
+        {
+          "label": "human genome",
+          "url": "https://en.wikipedia.org/wiki/human_genome"
+        }
+      ]
+    }
+  ]
+}
