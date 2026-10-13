@@ -1,0 +1,405 @@
+{
+  "slug": "psychology",
+  "title": "Psychology",
+  "tagline": "How the science of the mind emerged.",
+  "category": "Science",
+  "icon": "🧠",
+  "color": "#8b5cf6",
+  "source": "Generated from “Timeline of psychology” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of psychology",
+  "via": "wiki",
+  "generated": "2026-10-13",
+  "popularity": 66,
+  "events": [
+    {
+      "year": -1550,
+      "title": "Ebers Papyrus",
+      "text": "The Ebers Papyrus mentioned depression and thought disorders.",
+      "references": [
+        {
+          "label": "Ebers Papyrus",
+          "url": "https://en.wikipedia.org/wiki/Ebers_papyrus"
+        },
+        {
+          "label": "depression",
+          "url": "https://en.wikipedia.org/wiki/clinical_depression"
+        },
+        {
+          "label": "thought disorder",
+          "url": "https://en.wikipedia.org/wiki/thought_disorder"
+        }
+      ]
+    },
+    {
+      "year": 323,
+      "title": "Oribasius",
+      "text": "Oribasius compiled medical writings based on the works of Aristotle, Asclepiades, and Soranus of Ephesus, and wrote on melancholia in Galenic terms.",
+      "references": [
+        {
+          "label": "Oribasius",
+          "url": "https://en.wikipedia.org/wiki/Oribasius"
+        },
+        {
+          "label": "Aristotle",
+          "url": "https://en.wikipedia.org/wiki/Aristotle"
+        },
+        {
+          "label": "Asclepiades",
+          "url": "https://en.wikipedia.org/wiki/Asclepiades_of_Bithynia"
+        }
+      ]
+    },
+    {
+      "year": 850,
+      "title": "Ali ibn Sahl Rabban al-Tabari",
+      "text": "Ali ibn Sahl Rabban al-Tabari wrote a work emphasizing the need for psychotherapy.",
+      "references": [
+        {
+          "label": "Ali ibn Sahl Rabban al-Tabari",
+          "url": "https://en.wikipedia.org/wiki/Ali_ibn_Sahl_Rabban_al-Tabari"
+        },
+        {
+          "label": "psychotherapy",
+          "url": "https://en.wikipedia.org/wiki/psychotherapy"
+        }
+      ]
+    },
+    {
+      "year": 1433,
+      "title": "Marsilio Ficino",
+      "text": "1499 Marsilio Ficino was a renowned figure of the Italian Renaissance, a Neoplatonist humanist, a translator of Greek philosophical writing, and the most influential exponent of Platonism in Italy in the fifteenth century.",
+      "references": [
+        {
+          "label": "Marsilio Ficino",
+          "url": "https://en.wikipedia.org/wiki/Marsilio_Ficino"
+        }
+      ]
+    },
+    {
+      "year": 1800,
+      "title": "Johann Christian Reil",
+      "text": "Johann Christian Reil coined the term \"psychiatry\".",
+      "references": [
+        {
+          "label": "Johann Christian Reil",
+          "url": "https://en.wikipedia.org/wiki/Johann_Christian_Reil"
+        }
+      ]
+    },
+    {
+      "year": 1870,
+      "title": "University of Leipzig",
+      "text": "Wilhelm Wundt opened the first experimental psychology laboratory at the University of Leipzig in Germany.",
+      "references": [
+        {
+          "label": "University of Leipzig",
+          "url": "https://en.wikipedia.org/wiki/University_of_Leipzig"
+        }
+      ]
+    },
+    {
+      "year": 1880,
+      "title": "Society for Psychical Research",
+      "text": "The Society for Psychical Research was founded in England.",
+      "references": [
+        {
+          "label": "Society for Psychical Research",
+          "url": "https://en.wikipedia.org/wiki/Society_for_Psychical_Research"
+        }
+      ]
+    },
+    {
+      "year": 1890,
+      "title": "James Mark Baldwin",
+      "text": "James Mark Baldwin founded the first permanent experimental psychology laboratory in the British Empire at the University of Toronto.",
+      "references": [
+        {
+          "label": "James Mark Baldwin",
+          "url": "https://en.wikipedia.org/wiki/James_Mark_Baldwin"
+        },
+        {
+          "label": "University of Toronto",
+          "url": "https://en.wikipedia.org/wiki/University_of_Toronto"
+        }
+      ]
+    },
+    {
+      "year": 1900,
+      "title": "Sigmund Freud",
+      "text": "Sigmund Freud published The Psychopathology of Everyday Life.",
+      "references": [
+        {
+          "label": "Sigmund Freud",
+          "url": "https://en.wikipedia.org/wiki/Sigmund_Freud"
+        },
+        {
+          "label": "The Psychopathology of Everyday Life",
+          "url": "https://en.wikipedia.org/wiki/The_Psychopathology_of_Everyday_Life"
+        }
+      ]
+    },
+    {
+      "year": 1920,
+      "title": "Boris Sidis",
+      "text": "Boris Sidis published Nervous Ills: Their Cause and a Cure, a popularization of his work concerning the subconscious and the treatment of psychopathic disease.",
+      "references": [
+        {
+          "label": "Boris Sidis",
+          "url": "https://en.wikipedia.org/wiki/Boris_Sidis"
+        },
+        {
+          "label": "Nervous Ills: Their Cause and a Cure",
+          "url": "https://en.wikipedia.org/wiki/Nervous_Ills%3A_Their_Cause_and_a_Cure"
+        }
+      ]
+    },
+    {
+      "year": 1930,
+      "title": "Clark L. Hull",
+      "text": "Clark L. Hull published Hypnosis and Suggestibility, proving that hypnosis is not sleep and founding the modern study of hypnosis.",
+      "references": [
+        {
+          "label": "Clark L. Hull",
+          "url": "https://en.wikipedia.org/wiki/Clark_L._Hull"
+        }
+      ]
+    },
+    {
+      "year": 1933,
+      "title": "Pyotr Gannushkin",
+      "text": "Pyotr Gannushkin published Manifestations of Psychopathies.",
+      "references": [
+        {
+          "label": "Pyotr Gannushkin",
+          "url": "https://en.wikipedia.org/wiki/Pyotr_Gannushkin"
+        },
+        {
+          "label": "Manifestations of Psychopathies",
+          "url": "https://en.wikipedia.org/wiki/Pyotr_Gannushkin%23The_theory_of_psychopathies"
+        }
+      ]
+    },
+    {
+      "year": 1940,
+      "title": "Stanley Smith Stevens",
+      "text": "Stanley Smith Stevens published his levels of measurement theory.",
+      "references": [
+        {
+          "label": "Stanley Smith Stevens",
+          "url": "https://en.wikipedia.org/wiki/Stanley_Smith_Stevens"
+        },
+        {
+          "label": "levels of measurement",
+          "url": "https://en.wikipedia.org/wiki/levels_of_measurement"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "title": "Harry Stack Sullivan",
+      "text": "Harry Stack Sullivan published The Interpersonal Theory of Psychiatry, which holds that an individual's personality is formed by relationships.",
+      "references": [
+        {
+          "label": "Harry Stack Sullivan",
+          "url": "https://en.wikipedia.org/wiki/Harry_Stack_Sullivan"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "title": "Rollo May",
+      "text": "Rollo May published The Meaning of Anxiety.",
+      "references": [
+        {
+          "label": "Rollo May",
+          "url": "https://en.wikipedia.org/wiki/Rollo_May"
+        },
+        {
+          "label": "The Meaning of Anxiety",
+          "url": "https://en.wikipedia.org/wiki/The_Meaning_of_Anxiety"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Jean M. Mandler",
+      "text": "Jean M. Mandler and George Mandler published Thinking: From Association to Gestalt.",
+      "references": [
+        {
+          "label": "Jean M. Mandler",
+          "url": "https://en.wikipedia.org/wiki/Jean_M._Mandler"
+        },
+        {
+          "label": "George Mandler",
+          "url": "https://en.wikipedia.org/wiki/George_Mandler"
+        },
+        {
+          "label": "Thinking: From Association to Gestalt",
+          "url": "https://en.wikipedia.org/wiki/Thinking%3A_From_Association_to_Gestalt"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "title": "Thomas Szasz",
+      "text": "Thomas Szasz inaugurated the anti-psychiatry movement with the publication of his book, The Myth of Mental Illness.",
+      "references": [
+        {
+          "label": "Thomas Szasz",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Szasz"
+        },
+        {
+          "label": "anti-psychiatry",
+          "url": "https://en.wikipedia.org/wiki/anti-psychiatry"
+        },
+        {
+          "label": "The Myth of Mental Illness",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Mental_Illness"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "E.O. Wilson",
+      "text": "E.O. Wilson published On Human Nature, considered the first landmark text to deal with what would become evolutionary psychology.",
+      "references": [
+        {
+          "label": "E.O. Wilson",
+          "url": "https://en.wikipedia.org/wiki/E.O._Wilson"
+        },
+        {
+          "label": "On Human Nature",
+          "url": "https://en.wikipedia.org/wiki/On_Human_Nature"
+        },
+        {
+          "label": "evolutionary psychology",
+          "url": "https://en.wikipedia.org/wiki/evolutionary_psychology"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "Paul Ekman",
+      "text": "Paul Ekman published the Facial Action Coding System.",
+      "references": [
+        {
+          "label": "Paul Ekman",
+          "url": "https://en.wikipedia.org/wiki/Paul_Ekman"
+        },
+        {
+          "label": "Facial Action Coding System",
+          "url": "https://en.wikipedia.org/wiki/Facial_Action_Coding_System"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "Sex Roles",
+      "text": "The journal Sex Roles was founded.",
+      "references": [
+        {
+          "label": "Sex Roles",
+          "url": "https://en.wikipedia.org/wiki/Sex_Roles_(journal)"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "Erik Erikson",
+      "text": "Erik Erikson published The Life Cycle Completed, expanding on Erikson's stages of psychosocial development.",
+      "references": [
+        {
+          "label": "Erik Erikson",
+          "url": "https://en.wikipedia.org/wiki/Erik_Erikson"
+        },
+        {
+          "label": "The Life Cycle Completed",
+          "url": "https://en.wikipedia.org/wiki/The_Life_Cycle_Completed"
+        },
+        {
+          "label": "Erikson's stages of psychosocial development",
+          "url": "https://en.wikipedia.org/wiki/Erikson's_stages_of_psychosocial_development"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "magical thinking",
+      "text": "A study reports that magical thinking emerges more frequently under high-stress (e.g. immediate death anxiety) conditions.",
+      "references": [
+        {
+          "label": "magical thinking",
+          "url": "https://en.wikipedia.org/wiki/magical_thinking"
+        },
+        {
+          "label": "stress",
+          "url": "https://en.wikipedia.org/wiki/Psychological_stress"
+        },
+        {
+          "label": "death anxiety",
+          "url": "https://en.wikipedia.org/wiki/death_anxiety"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "American Psychoanalytic Association",
+      "text": "The American Psychoanalytic Association (APsaA) passed a resolution opposing \"public or private discrimination\" against homosexuals. It stopped short, however, of agreeing to open its training institutes to these individuals.",
+      "references": [
+        {
+          "label": "American Psychoanalytic Association",
+          "url": "https://en.wikipedia.org/wiki/American_Psychoanalytic_Association"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "psychographic",
+      "text": "Intensive use of psychological profiling and psychographic microtargeting, as well as voter manipulation – such as Internet manipulation, using insights from psychology and psychological data becomes a worldwide prevalent phenomenon in politics of ma",
+      "references": [
+        {
+          "label": "psychographic",
+          "url": "https://en.wikipedia.org/wiki/Psychographics"
+        },
+        {
+          "label": "microtargeting",
+          "url": "https://en.wikipedia.org/wiki/microtargeting"
+        },
+        {
+          "label": "Internet manipulation",
+          "url": "https://en.wikipedia.org/wiki/Internet_manipulation"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "pandemic COVID-19",
+      "text": "2020s – The pandemic COVID-19 and its mitigation have a substantiall toll on mental health worldwide.",
+      "references": [
+        {
+          "label": "pandemic COVID-19",
+          "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "climate change",
+      "text": "With growing awareness and impacts of climate change and other environmental issues, ecopsychology increasingly gathers public attention and becomes a more common topic of research",
+      "references": [
+        {
+          "label": "climate change",
+          "url": "https://en.wikipedia.org/wiki/climate_change"
+        },
+        {
+          "label": "environmental issues",
+          "url": "https://en.wikipedia.org/wiki/List_of_environmental_issues"
+        },
+        {
+          "label": "ecopsychology",
+          "url": "https://en.wikipedia.org/wiki/ecopsychology"
+        }
+      ]
+    }
+  ]
+}
