@@ -1,0 +1,377 @@
+{
+  "slug": "transportation",
+  "title": "Transportation",
+  "tagline": "How the world started moving faster.",
+  "category": "Engineering",
+  "icon": "🚂",
+  "color": "#f97316",
+  "source": "Generated from “Timeline of transportation technology” on Wikipedia; each event links to its source article.",
+  "wikiPage": "Timeline of transportation technology",
+  "via": "wiki",
+  "generated": "2026-10-15",
+  "popularity": 66,
+  "events": [
+    {
+      "year": -3500,
+      "title": "Domestication of the horse",
+      "text": "Domestication of the horse and invention of the wheel in Ancient Near East",
+      "references": [
+        {
+          "label": "Domestication of the horse",
+          "url": "https://en.wikipedia.org/wiki/Domestication_of_the_horse"
+        },
+        {
+          "label": "wheel",
+          "url": "https://en.wikipedia.org/wiki/wheel"
+        },
+        {
+          "label": "Ancient Near East",
+          "url": "https://en.wikipedia.org/wiki/Ancient_Near_East"
+        }
+      ]
+    },
+    {
+      "year": 800,
+      "title": "Baghdad",
+      "text": "The streets of Baghdad are paved with tar.",
+      "references": [
+        {
+          "label": "Baghdad",
+          "url": "https://en.wikipedia.org/wiki/Baghdad"
+        },
+        {
+          "label": "tar",
+          "url": "https://en.wikipedia.org/wiki/tar"
+        }
+      ]
+    },
+    {
+      "year": 1644,
+      "title": "Adam Wybe",
+      "text": "Adam Wybe builds world's first cable car on multiple supports. It was the biggest built until the end of the 19th century.",
+      "references": [
+        {
+          "label": "Adam Wybe",
+          "url": "https://en.wikipedia.org/wiki/Adam_Wybe"
+        }
+      ]
+    },
+    {
+      "year": 1740,
+      "title": "Jacques de Vaucanson",
+      "text": "Jacques de Vaucanson debuted his clockwork powered carriage.",
+      "references": [
+        {
+          "label": "Jacques de Vaucanson",
+          "url": "https://en.wikipedia.org/wiki/Jacques_de_Vaucanson"
+        }
+      ]
+    },
+    {
+      "year": 1783,
+      "title": "Joseph Montgolfier and Étienne Montgolfier",
+      "text": "Joseph Montgolfier and Étienne Montgolfier launch the first hot air balloons triggering Balloonomania.",
+      "references": [
+        {
+          "label": "Joseph Montgolfier and Étienne Montgolfier",
+          "url": "https://en.wikipedia.org/wiki/Montgolfier_brothers"
+        },
+        {
+          "label": "hot air balloon",
+          "url": "https://en.wikipedia.org/wiki/hot_air_balloon"
+        },
+        {
+          "label": "Balloonomania",
+          "url": "https://en.wikipedia.org/wiki/Balloonomania"
+        }
+      ]
+    },
+    {
+      "year": 1807,
+      "title": "Francois Isaac de Rivaz",
+      "text": "Francois Isaac de Rivaz – the De Rivaz engine, the first internal combustion engine using hydrogen as a fuel",
+      "references": [
+        {
+          "label": "Francois Isaac de Rivaz",
+          "url": "https://en.wikipedia.org/wiki/Francois_Isaac_de_Rivaz"
+        },
+        {
+          "label": "De Rivaz engine",
+          "url": "https://en.wikipedia.org/wiki/De_Rivaz_engine"
+        }
+      ]
+    },
+    {
+      "year": 1814,
+      "title": "George Stephenson",
+      "text": "George Stephenson built the first practical steam-powered railway locomotive \"Blutcher\" at Killingworth Colliery.",
+      "references": [
+        {
+          "label": "George Stephenson",
+          "url": "https://en.wikipedia.org/wiki/George_Stephenson"
+        }
+      ]
+    },
+    {
+      "year": 1826,
+      "title": "Liverpool and Manchester Railway",
+      "text": "Bill passed for Liverpool and Manchester Railway at second attempt and George Stephenson commences work on 35-mile twin track line permitting simultaneous travel in both directions between the 2 towns. Means of traction not specified to reduce opposi",
+      "references": [
+        {
+          "label": "Liverpool and Manchester Railway",
+          "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway"
+        }
+      ]
+    },
+    {
+      "year": 1843,
+      "title": "Dalkey Atmospheric railway",
+      "text": "Dalkey Atmospheric railway opens.",
+      "references": [
+        {
+          "label": "Dalkey Atmospheric railway",
+          "url": "https://en.wikipedia.org/wiki/Dalkey_Atmospheric_Railway"
+        }
+      ]
+    },
+    {
+      "year": 1862,
+      "title": "Étienne Lenoir",
+      "text": "Étienne Lenoir made a gasoline engine automobile.",
+      "references": [
+        {
+          "label": "Étienne Lenoir",
+          "url": "https://en.wikipedia.org/wiki/%C3%89tienne_Lenoir"
+        },
+        {
+          "label": "automobile",
+          "url": "https://en.wikipedia.org/wiki/automobile"
+        }
+      ]
+    },
+    {
+      "year": 1874,
+      "title": "bogie",
+      "text": "Midland railway introduces the first bogie.",
+      "references": [
+        {
+          "label": "bogie",
+          "url": "https://en.wikipedia.org/wiki/bogie"
+        }
+      ]
+    },
+    {
+      "year": 1887,
+      "title": "Battery electric multiple unit",
+      "text": "The first Battery electric multiple unit (battery rail car) was used on the Royal Bavarian State Railways.",
+      "references": [
+        {
+          "label": "Battery electric multiple unit",
+          "url": "https://en.wikipedia.org/wiki/Battery_electric_multiple_unit"
+        },
+        {
+          "label": "Royal Bavarian State Railways",
+          "url": "https://en.wikipedia.org/wiki/Royal_Bavarian_State_Railways"
+        }
+      ]
+    },
+    {
+      "year": 1893,
+      "title": "trolleyboat",
+      "text": "Frank W. Hawley adapted an ordinary steam canal boat to a trolleyboat (named after him), which was tested on the Erie Canal in the US.",
+      "references": [
+        {
+          "label": "trolleyboat",
+          "url": "https://en.wikipedia.org/wiki/trolleyboat"
+        }
+      ]
+    },
+    {
+      "year": 1899,
+      "title": "Ferdinand von Zeppelin",
+      "text": "Ferdinand von Zeppelin builds the first successful airship.",
+      "references": [
+        {
+          "label": "Ferdinand von Zeppelin",
+          "url": "https://en.wikipedia.org/wiki/Ferdinand_von_Zeppelin"
+        },
+        {
+          "label": "airship",
+          "url": "https://en.wikipedia.org/wiki/airship"
+        }
+      ]
+    },
+    {
+      "year": 1908,
+      "title": "Bolzano",
+      "text": "the Kohlerer-funicular went into service in Bolzano. It was the first modern (enclosed) cable car in the world to carry passengers.",
+      "references": [
+        {
+          "label": "Bolzano",
+          "url": "https://en.wikipedia.org/wiki/Bolzano"
+        },
+        {
+          "label": "cable car",
+          "url": "https://en.wikipedia.org/wiki/Aerial_lift"
+        }
+      ]
+    },
+    {
+      "year": 1923,
+      "title": "autogyro",
+      "text": "First controlled autogyro rotorcraft flight in Cierva C.4.",
+      "references": [
+        {
+          "label": "autogyro",
+          "url": "https://en.wikipedia.org/wiki/autogyro"
+        },
+        {
+          "label": "rotorcraft",
+          "url": "https://en.wikipedia.org/wiki/rotorcraft"
+        },
+        {
+          "label": "Cierva C.4",
+          "url": "https://en.wikipedia.org/wiki/Cierva_C.4"
+        }
+      ]
+    },
+    {
+      "year": 1940,
+      "title": "First fully articulated bus Isotta Fraschini TS40",
+      "text": "First fully articulated bus Isotta Fraschini TS40.",
+      "references": [
+        {
+          "label": "Encyclopedia article: Timeline of transportation technology",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_transportation_technology"
+        }
+      ]
+    },
+    {
+      "year": 1961,
+      "title": "Vostok 1",
+      "text": "Vostok 1, first crewed space mission, designed by Sergey Korolyov, makes two orbits around the Earth with Yuri Gagarin.",
+      "references": [
+        {
+          "label": "Vostok 1",
+          "url": "https://en.wikipedia.org/wiki/Vostok_1"
+        },
+        {
+          "label": "Sergey Korolyov",
+          "url": "https://en.wikipedia.org/wiki/Sergey_Korolyov"
+        },
+        {
+          "label": "Yuri Gagarin",
+          "url": "https://en.wikipedia.org/wiki/Yuri_Gagarin"
+        }
+      ]
+    },
+    {
+      "year": 1976,
+      "title": "Concorde",
+      "text": "Concorde makes the world's first commercial passenger-carrying supersonic flight.",
+      "references": [
+        {
+          "label": "Concorde",
+          "url": "https://en.wikipedia.org/wiki/Concorde"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "title": "Channel Tunnel",
+      "text": "Channel Tunnel opens.",
+      "references": [
+        {
+          "label": "Channel Tunnel",
+          "url": "https://en.wikipedia.org/wiki/Channel_Tunnel"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "folding electric bicycle",
+      "text": "Honda Step Compo, first folding electric bicycle internationally available.",
+      "references": [
+        {
+          "label": "folding electric bicycle",
+          "url": "https://en.wikipedia.org/wiki/folding_bicycle"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "Metrocable (Medellín)",
+      "text": "First modern urban transit aerial cable car Metrocable (Medellín).",
+      "references": [
+        {
+          "label": "Metrocable (Medellín)",
+          "url": "https://en.wikipedia.org/wiki/Metrocable_(Medell%C3%ADn)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "title": "Navya SAS",
+      "text": "Navya SAS launch first autonomous bus, Navya Autonom Shuttle at Sheba Medical Center, Israel.",
+      "references": [
+        {
+          "label": "Navya SAS",
+          "url": "https://en.wikipedia.org/wiki/Navya_SAS"
+        },
+        {
+          "label": "Sheba Medical Center",
+          "url": "https://en.wikipedia.org/wiki/Sheba_Medical_Center"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Autonomous Rail Rapid Transit",
+      "text": "The Autonomous Rail Rapid Transit opens in China.",
+      "references": [
+        {
+          "label": "Autonomous Rail Rapid Transit",
+          "url": "https://en.wikipedia.org/wiki/Autonomous_Rail_Rapid_Transit"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "autonomous vessels",
+      "text": "The world's first urban autonomous vessels, Roboats, are deployed in the canals of Amsterdam, Netherlands. The ships developed by three institutions could carry up to five people, collect waste, deliver goods, and provide \"on-demand infrastructure\".",
+      "references": [
+        {
+          "label": "autonomous vessels",
+          "url": "https://en.wikipedia.org/wiki/Unmanned_surface_vehicle"
+        },
+        {
+          "label": "Roboat",
+          "url": "https://en.wikipedia.org/wiki/Roboat"
+        },
+        {
+          "label": "canals of Amsterdam",
+          "url": "https://en.wikipedia.org/wiki/canals_of_Amsterdam"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Mini-Hollands",
+      "text": "An analysis of Outer London's Mini-Hollands active transport infrastructures indicates Low Traffic Neighbourhoods are highly effective and cost-efficient measures in terms of health economic benefits.",
+      "references": [
+        {
+          "label": "Mini-Hollands",
+          "url": "https://en.wikipedia.org/wiki/Mini-Hollands"
+        },
+        {
+          "label": "active transport",
+          "url": "https://en.wikipedia.org/wiki/Active_mobility"
+        },
+        {
+          "label": "Low Traffic Neighbourhood",
+          "url": "https://en.wikipedia.org/wiki/Low_Traffic_Neighbourhood"
+        }
+      ]
+    }
+  ]
+}
